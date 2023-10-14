@@ -1,0 +1,21 @@
+.homepage{
+    display:flex;
+    flex-direction: column;
+    gap: 40px;
+    justify-content: center;
+    align-items: center;
+
+    &__title{
+        font-size: 32px;
+        color: $blue;
+        font-family: $primary;
+        font-weight: bold;
+    }
+
+    &__date{
+        font-size: 24px;
+        color: $blue;
+        font-family: $primary;
+        font-weight: normal;
+    }
+}

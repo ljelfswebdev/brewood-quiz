@@ -1,62 +1,62 @@
 [
     {
-        "title" : "Famous Old Faces"
+        "title" : "Who Am I?"
     },
 
 
     {
       "id": 1,
-      "question": "ronaldo",
-      "answer": "Cristiano Ronaldo"
+      "question": "I am the leading scorer in Football World Cup History with 16 goals.",
+      "answer": "Miroslav Klose"
     },
     {
         "id": 2,
-        "question": "jamie-foxx",
-        "answer": "Jamie Foxx"
+        "question": "I've starred in many Tarantino Films, portraying characters such as Hans Landa and Dr. King Schultz.",
+        "answer": "Christoph Waltz"
     },
 
     {
         "id": 3,
-        "question": "rihanna",
+        "question": "I'm a Barbadian singer whose debut album was called Music of the Sun",
         "answer": "Rihanna"
       },
       {
           "id": 4,
-          "question": "sunak",
-          "answer": "Rishi Sunak"
+          "question": "I was the first Vice-President of the United States to become President.",
+          "answer": "John Adams"
       },
 
     {
         "id": 5,
-        "question": "elon-musk",
+        "question": "Alongside my brother Kimbal, my first main business venture was creating Zip2 which was an Internet City guide with maps, directions and Yellow Pages.",
         "answer": "Elon Musk"
       },
       {
         "id": 6,
-        "question": "harry",
-        "answer": "Prince Harry"
+        "question": "I'm the current 9th in line to the British Throne and My husband is a property developer.",
+        "answer": "Princess Beatrice"
       },
 
     {
         "id": 7,
-        "question": "rowling",
-        "answer": "J.K. Rowling"
+        "question": "I was a novelist, playwrite and poet, best known for my debut novel, The Lord of the Flies.",
+        "answer": "William Golding"
       },
       {
         "id": 8,
-        "question": "kim",
-        "answer": "Kim Jong-Un"
+        "question": "I was the founder of North Korea.",
+        "answer": "Kim Il Sung"
       },
 
     {
         "id": 9,
-        "question": "",
-        "answer": ""
+        "question": "I  was an Italian sculptor, painter, architect and poet, whose famous works include The Madonna of the Stairs and David.",
+        "answer": "Michelangelo"
       },
       {
           "id": 10,
-          "question": "",
-          "answer": ""
+          "question": "I was appointed the Supreme Allied Commander of the Allied Expeditionary Force during World War II.",
+          "answer": "General Dwight D. Eisenhower"
       }
 ]
   

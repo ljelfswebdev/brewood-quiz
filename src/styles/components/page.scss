@@ -50,7 +50,7 @@
         flex-direction: column;
         align-items: center;
         justify-content: center;
-        height:300px;
+        height:400px;
         font-family: $primary;
         font-size: 40px;
         color: $blue;
@@ -59,6 +59,7 @@
             font-family: $primary;
             font-size: 30px;
             color: $blue;
+            text-align: center;
         }
 
         &-image{
@@ -115,6 +116,25 @@
                 }
                }
             }
+        }
+    }
+
+    &__list{
+        list-style: none;
+        display: flex;
+        flex-wrap: wrap;
+        width: 100%;
+        justify-content: center;
+        gap: 50px;
+        margin: 50px 0px;
+
+        li{
+            flex: calc(50% - 25px);
+            display: flex;
+            justify-content: center;
+            color: $blue;
+            font-size: 25px;
+            font-family: $primary;
         }
     }
   }

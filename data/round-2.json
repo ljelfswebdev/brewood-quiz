@@ -6,12 +6,12 @@
 
     {
       "id": 1,
-      "question": "In which year was John F. Kennedy assassinated?",
-      "answer": "1963"
+      "question": "In which year did the Titanic sink?",
+      "answer": "1912"
     },
     {
         "id": 2,
-        "question": "What year was the first modern summer Olympics held?",
+        "question": "In which year was the first modern summer Olympics held?",
         "answer": "1896"
     },
 

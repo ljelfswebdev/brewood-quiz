@@ -9,6 +9,11 @@ const Header = () => {
             </Link>
             
             <ul>
+                                <li>
+                    <Link href="/round-list">
+                        Round List
+                    </Link>
+                </li>
                 <li>
                     <Link href="/round-1">
                         Round 1

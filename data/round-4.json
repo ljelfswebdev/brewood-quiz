@@ -1,58 +1,56 @@
 [
     {
-        "title" : "Opening Song Lyrics"
+        "title": "Song Acronym Round"
     },
-
-
     {
-      "id": 1,
-      "question": "How many special people change? How many lives are livin' strange?",
-      "answer": "Oasis - Champagne Supernova"
+        "id": 1,
+        "question": "O - S C Y H O",
+        "answer": "Oasis - Stop Crying Your Heart Out"
     },
     {
         "id": 2,
-        "question": "I thought I saw a man brought to life, He was warm, he came around like he was dignified",
-        "answer": "Natalie Imbruglia - Torn"
+        "question": "N - S L T S",
+        "answer": "Nirvana - Smells Like Teen Spirit"
     },
     {
         "id": 3,
-        "question": "We're talking away, I don't know what I'm to say",
-        "answer": "Aha - Take On Me"
-      },
-      {
-          "id": 4,
-          "question": "Sometimes I feel I've got to run away, I've got to get away",
-          "answer": "Soft Cell  - Tainted Love"
-      },
-      {
+        "question": "A - R I T D",
+        "answer": "Adele - Rolling in the Deep"
+    },
+    {
+        "id": 4,
+        "question": "G M - C W",
+        "answer": "George Michael - Careless Whisper"
+    },
+    {
         "id": 5,
-        "question": "We're no strangers to love, You know the rules and so do I ",
-        "answer": "Rick Astley - Never Gonna Give You Up"
-      },
-      {
-          "id": 6,
-          "question": "It's not time to make a change, Just relax, take it easy",
-          "answer": "Cat Stevens - Father And Son"
-      },
-      {
+        "question": "E J - C I T W",
+        "answer": "Elton John - Candle in the Wind"
+    },
+    {
+        "id": 6,
+        "question": "D B - H",
+        "answer": "David Bowie -  Heroes"
+    },
+    {
         "id": 7,
-        "question": "I've never seen a diamond in the flesh, I cut my teeth on wedding rings in the movies",
-        "answer": "Lorde - Royals"
-      },
-      {
-          "id": 8,
-          "question": "She take my money when I'm in need, Yeah, she's a triflin' friend indeed",
-          "answer": "Kanye West - Golddigger"
-      },
-      {
+        "question": "B - S 2",
+        "answer": "Blur - Song 2"
+    },
+
+    {
+        "id": 8,
+        "question": "E L O - M B S",
+        "answer": "Electric Light Orchestra - Mr Blue Sky "
+    },
+    {
         "id": 9,
-        "question": "We're caught in a trap, I can't walk out",
-        "answer": "Elvis Presley - Suspicious Minds"
-      },
-      {
-          "id": 10,
-          "question": "You were working as a waitress in a cocktail bar, When I met you",
-          "answer": "The Human League - Don't You Want Me"
-      }
+        "question": "S G - W ",
+        "answer": "Spice Girls - Wannabe"
+    },
+    {
+        "id": 10,
+        "question": "T B - L I B",
+        "answer": "The Beatles- Let it be"
+    }
 ]
-  

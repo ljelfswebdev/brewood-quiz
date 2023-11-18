@@ -1,0 +1,63 @@
+[
+    {
+        "title" : "Geography"
+    },
+
+
+    {
+      "id": 1,
+      "question": "What present-day Italian city does Mt. Vesuvius overlook?",
+      "answer": "Naples"
+    },
+    {
+        "id": 2,
+        "question": "What is the capital of the American State of California?",
+        "answer": "Sacramento"
+    },
+
+    {
+        "id": 3,
+        "question": "What is the currency of India?",
+        "answer": "Rupee"
+      },
+      {
+          "id": 4,
+          "question": "What is the name of the second tallest mountain in the world?",
+          "answer": "K2"
+      },
+
+    {
+        "id": 5,
+        "question": "What type of leaf is on the Canadian flag?",
+        "answer": "Maple"
+      },
+      {
+          "id": 6,
+          "question": "What is the name of the driest continent on Earth?",
+          "answer": "Antarctica"
+      },
+
+    {
+        "id": 7,
+        "question": "What country formerly ruled Iceland?",
+        "answer": "Denmark"
+      },
+      {
+          "id": 8,
+          "question": "How many countries are located in the Southern Hemisphere? 26 or 32?",
+          "answer": "32"
+      },
+
+    {
+        "id": 9,
+        "question": "What is the largest country in South America?",
+        "answer": "Brazil"
+      },
+      {
+          "id": 10,
+          "question": "What is the name of the tallest waterfall in the world?",
+          "answer": "Angel Falls"
+      }
+
+]
+  

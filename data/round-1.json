@@ -1,62 +1,56 @@
 [
     {
-        "title" : "Sport"
+        "title": "Sports"
     },
-
-
     {
-      "id": 1,
-      "question": "In which sport do teams compete to win the Stanley Cup?",
-      "answer": "Ice Hockey"
+        "id": 1,
+        "question": "Who won the FIFA World Cup in 1954?",
+        "answer": "West Germany"
     },
     {
         "id": 2,
-        "question": "Who is the highest run-scorer of all time in International cricket?",
-        "answer": "Sachin Tendulkar"
+        "question": "Which team has won the most FA Cups?",
+        "answer": "Arsenal"
+    },
+    {
+        "id": 3,
+        "question": "How many England Football players have scored between 40 and 49 interntaional goals?",
+        "answer": "4 (Charlton, Linekar, Greaves, Owen) "
     },
 
     {
-        "id": 3,
-        "question": "How many Olympic gold medals did rower Steve Redgrave win?",
-        "answer": "5"
-      },
-      {
-          "id": 4,
-          "question": "Which cricket club plays at The Oval?",
-          "answer": "Surrey"
-      },
-
+        "id": 4,
+        "question": "Which English cricketer has the highest number of Test wickets?",
+        "answer": "James Anderson"
+    },
     {
         "id": 5,
-        "question": "Jessica Ennis-Hill competed for Great Britain in which sport?",
-        "answer": "Heptathlon"
-      },
-      {
-          "id": 6,
-          "question": "What was the final score in the 2003 Rugby World Cup Final between England and Australia?",
-          "answer": "20-17"
-      },
-
+        "question": "Who won the 2011 Rugby World Cup?",
+        "answer": "New Zealand"
+    },
+    {
+        "id": 6,
+        "question": "Which British cyclist has won the most Tour de France titles?",
+        "answer": "Chris Froome"
+    },
     {
         "id": 7,
-        "question": "Who is the leading goal scorer in English top flight history?",
-        "answer": "Jimmy Greaves"
-      },
-      {
-          "id": 8,
-          "question": "How many Wimbledon titles did Roger Federer win?",
-          "answer": "8"
-      },
-
+        "question": "How many people have won 5 or more F1 World Championships?",
+        "answer": "3 (Schumacher, Hamilton, Fangio)"
+    },
+    {
+        "id": 8,
+        "question": "Which horse won the Grand National in 2021?",
+        "answer": "Minella Times"
+    },
     {
         "id": 9,
-        "question": "Which Olympic Games did The Princess Royal compete in?",
-        "answer": "1976"
-      },
-      {
-          "id": 10,
-          "question": "How many European Cups / Champions Leagues have English teams won?",
-          "answer": "15"
-      }
+        "question": "In which city did the 2002 Commonwealth Games take place?",
+        "answer": "Manchester"
+    },
+    {
+        "id": 10,
+        "question": "Which snooker player is known as 'The Rocket'?",
+        "answer": "Ronnie O'Sullivan"
+    }
 ]
-  

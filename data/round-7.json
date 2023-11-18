@@ -1,62 +1,57 @@
 [
     {
-        "title" : "Who Am I?"
+        "title": "Who Am I?"
     },
-
 
     {
-      "id": 1,
-      "question": "I am the leading scorer in Football World Cup History with 16 goals.",
-      "answer": "Miroslav Klose"
+        "id": 1,
+        "question": "I am an English theoretical physicist, known for my work on black holes and author of 'A Brief History of Time'.",
+        "answer": "Stephen Hawking"
     },
+
     {
         "id": 2,
-        "question": "I've starred in many Tarantino Films, portraying characters such as Hans Landa and Dr. King Schultz.",
-        "answer": "Christoph Waltz"
+        "question": "I am a Scottish actor known for portraying James Bond in seven films.",
+        "answer": "Sean Connery"
     },
-
     {
         "id": 3,
-        "question": "I'm a Barbadian singer whose debut album was called Music of the Sun",
-        "answer": "Rihanna"
-      },
-      {
-          "id": 4,
-          "question": "I was the first Vice-President of the United States to become President.",
-          "answer": "John Adams"
-      },
-
+        "question": "I am a British primatologist, known for my extensive study of chimpanzees.",
+        "answer": "Jane Goodall"
+    },
+    {
+        "id": 4,
+        "question": "I am an English naturalist and broadcaster, best known for the documentary series 'Blue Planet' and 'Planet Earth'.",
+        "answer": "David Attenborough"
+    },
     {
         "id": 5,
-        "question": "Alongside my brother Kimbal, my first main business venture was creating Zip2 which was an Internet City guide with maps, directions and Yellow Pages.",
-        "answer": "Elon Musk"
-      },
-      {
+        "question": "I am a British fashion designer, known for my contributions to punk and new wave fashion.",
+        "answer": "Vivienne Westwood"
+    },
+    {
         "id": 6,
-        "question": "I'm the current 9th in line to the British Throne and My husband is a property developer.",
-        "answer": "Princess Beatrice"
-      },
-
+        "question": "I am an English physicist, chemist, and author known for my discovery of hydrogen.",
+        "answer": "Henry Cavendish"
+    },
     {
         "id": 7,
-        "question": "I was a novelist, playwrite and poet, best known for my debut novel, The Lord of the Flies.",
-        "answer": "William Golding"
-      },
-      {
+        "question": "I am an English musician known as the lead guitarist of the band Led Zeppelin.",
+        "answer": "Jimmy Page"
+    },
+    {
         "id": 8,
-        "question": "I was the founder of North Korea.",
-        "answer": "Kim Il Sung"
-      },
-
+        "question": "I am a Welsh actor known for my roles in 'The Dark Knight Trilogy' and 'Schindler's List'.",
+        "answer": "Christian Bale"
+    },
     {
         "id": 9,
-        "question": "I  was an Italian sculptor, painter, architect and poet, whose famous works include The Madonna of the Stairs and David.",
-        "answer": "Michelangelo"
-      },
-      {
-          "id": 10,
-          "question": "I was appointed the Supreme Allied Commander of the Allied Expeditionary Force during World War II.",
-          "answer": "General Dwight D. Eisenhower"
-      }
+        "question": "I am an English actor known for portraying Sherlock Holmes in a TV series.",
+        "answer": "Benedict Cumberbatch"
+    },
+    {
+        "id": 10,
+        "question": "I am a British author famous for creating the character Sherlock Holmes.",
+        "answer": "Arthur Conan Doyle"
+    }
 ]
-  

@@ -1,62 +1,55 @@
 [
     {
-        "title" : "History"
+        "title": "History"
     },
-
-
     {
-      "id": 1,
-      "question": "In which year did the Titanic sink?",
-      "answer": "1912"
+        "id": 1,
+        "question": "Which ancient civilization built the Machu Picchu?",
+        "answer": "Inca civilization"
     },
     {
         "id": 2,
-        "question": "In which year was the first modern summer Olympics held?",
-        "answer": "1896"
+        "question": "Who was the first female Prime Minister of the United Kingdom?",
+        "answer": "Margaret Thatcher"
     },
-
     {
         "id": 3,
-        "question": "Who joined Neil Armstrong and Buzz Aldrin on Apollo 11?",
-        "answer": "Michael Collins"
-      },
-      {
-          "id": 4,
-          "question": "When was the Berlin wall removed?",
-          "answer": "1989"
-      },
-
+        "question": "When was the controversial Poll Tax introduced in England and Wales?",
+        "answer": "1990"
+    },
+    {
+        "id": 4,
+        "question": "Which battle marked the end of Viking domination of England?",
+        "answer": "Battle of Stamford Bridge"
+    },
     {
         "id": 5,
-        "question": "Which country did Albert Einstein live in before moving to the United States?",
-        "answer": "Germany"
-      },
-      {
-          "id": 6,
-          "question": "Which country was the first to give women the right to vote, in 1893?",
-          "answer": "New Zealand"
-      },
-
+        "question": "Which British explorer completed the first circumnavigation of the globe?",
+        "answer": "Sir Francis Drake"
+    },
+    {
+        "id": 6,
+        "question": "Who was the monarch during the Great Fire of London in 1666?",
+        "answer": "King Charles II"
+    },
     {
         "id": 7,
-        "question": "What name was given to the aircraft that dropped the first atomic bomb?",
-        "answer": "Enola Gay"
-      },
-      {
-          "id": 8,
-          "question": "What did the Romans call Scotland?",
-          "answer": "Caledonia"
-      },
-
+        "question": "Who was the architect behind the reconstruction of London after the Great Fire?",
+        "answer": "Sir Christopher Wren"
+    },
+    {
+        "id": 8,
+        "question": "Which ancient wonder of the world was located in present-day Iraq?",
+        "answer": "Hanging Gardens of Babylon"
+    },
     {
         "id": 9,
-        "question": "How many U.S presidents are depicted on Mount Rushmore?",
-        "answer": "4"
-      },
-      {
-          "id": 10,
-          "question": "In which year was Pluto discovered?",
-          "answer": "1930"
-      }
+        "question": "Which treaty officially ended World War I?",
+        "answer": "Treaty of Versailles"
+    },
+    {
+        "id": 10,
+        "question": "Who was the British monarch during the American War of Independence?",
+        "answer": "King George III"
+    }
 ]
-  

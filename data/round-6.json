@@ -1,62 +1,59 @@
 [
     {
-        "title" : "Famous Killers"
+        "title": "Science "
     },
-
-
     {
-      "id": 1,
-      "question": "Mark David Chapman",
-      "answer": "John Lennon"
+        "id": 1,
+        "question": "What is the process by which plants convert light energy into chemical energy?",
+        "answer": "Photosynthesis"
     },
+
     {
         "id": 2,
-        "question": "Lee Harvey Oswald",
-        "answer": "J.F.K"
+        "question": "What is the force that tends to pull all particles of a liquid towards its center?",
+        "answer": "Surface tension"
+    },
+    {
+        "id": 3,
+        "question": "What is the unit of measurement for electric current?",
+        "answer": "Ampere (A)"
     },
 
     {
-        "id": 3,
-        "question": "James Earl Ray ",
-        "answer": "Martin Luther King Junior"
-      },
-      {
-          "id": 4,
-          "question": "Gavrilo Princip",
-          "answer": "Archduke Franz Ferdinand"
-      },
-
+        "id": 4,
+        "question": "What is the study of the motion and behavior of solid objects subjected to forces called?",
+        "answer": "Mechanics"
+    },
     {
         "id": 5,
-        "question": "Jack Ruby",
-        "answer": "Lee Harvey Oswald"
-      },
-      {
-          "id": 6,
-          "question": "Thomas McMahon",
-          "answer": "Lord Mountbatten"
-      },
-
+        "question": "Which subatomic particle has a positive charge?",
+        "answer": "Proton"
+    },
+    {
+        "id": 6,
+        "question": "What is the smallest particle of a chemical element that retains the chemical properties of that element?",
+        "answer": "Atom"
+    },
     {
         "id": 7,
-        "question": "Talmadge Hayer ",
-        "answer": "Malcolm X"
-      },
-      {
-          "id": 8,
-          "question": "Nathuram Godse",
-          "answer": "Mahatma Gandhi"
-      },
+        "question": "What is the branch of biology that deals with the study of heredity and variation?",
+        "answer": "Genetics"
+    },
+    {
+        "id": 8,
+        "question": "What is the chemical name for table salt?",
+        "answer": "Sodium chloride"
+    },
 
     {
         "id": 9,
-        "question": "John Wilkes Booth",
-        "answer": "Abraham Lincoln"
-      },
-      {
-          "id": 10,
-          "question": "Marcus Junius Brutus",
-          "answer": "Julius Caesar"
-      }
+        "question": "What is the SI unit of measurement for force?",
+        "answer": "Newton (N)"
+    },
+    {
+        "id": 10,
+        "question": "What is the branch of physics that deals with the study of light and its behavior?",
+        "answer": "Optics"
+    }
+
 ]
-  

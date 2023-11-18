@@ -1,0 +1,62 @@
+[
+    {
+        "title" : "Famous Killers"
+    },
+
+
+    {
+      "id": 1,
+      "question": "Mark David Chapman",
+      "answer": "John Lennon"
+    },
+    {
+        "id": 2,
+        "question": "Lee Harvey Oswald",
+        "answer": "J.F.K"
+    },
+
+    {
+        "id": 3,
+        "question": "James Earl Ray ",
+        "answer": "Martin Luther King Junior"
+      },
+      {
+          "id": 4,
+          "question": "Gavrilo Princip",
+          "answer": "Archduke Franz Ferdinand"
+      },
+
+    {
+        "id": 5,
+        "question": "Jack Ruby",
+        "answer": "Lee Harvey Oswald"
+      },
+      {
+          "id": 6,
+          "question": "Thomas McMahon",
+          "answer": "Lord Mountbatten"
+      },
+
+    {
+        "id": 7,
+        "question": "Talmadge Hayer ",
+        "answer": "Malcolm X"
+      },
+      {
+          "id": 8,
+          "question": "Nathuram Godse",
+          "answer": "Mahatma Gandhi"
+      },
+
+    {
+        "id": 9,
+        "question": "John Wilkes Booth",
+        "answer": "Abraham Lincoln"
+      },
+      {
+          "id": 10,
+          "question": "Marcus Junius Brutus",
+          "answer": "Julius Caesar"
+      }
+]
+  

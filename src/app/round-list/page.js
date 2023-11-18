@@ -14,16 +14,16 @@ const RoundList = () => {
                 Round 4 - Music
             </li>
             <li>
-                Round 5 - Film
+                Round 5 - Commentary Moments
             </li>
             <li>
-                Round 6 - Killers
+                Round 6 - Science
             </li>
             <li>
                 Round 7 - Famous People
             </li>
             <li>
-                Round 8 - Flags
+                Round 8 - Logos
             </li>
         </ul>
      );

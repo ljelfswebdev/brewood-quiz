@@ -5,7 +5,7 @@ import { Swiper, SwiperSlide } from 'swiper/react';
 import { Pagination } from 'swiper/modules';
 import createPagination from '../../../components/pagination';
 
-const RoundThree = () => {
+const RoundSeven = () => {
     const totalBullets = data.length + 2; // 2 extra bullets for '-' at the beginning and end
     const pagination = createPagination(totalBullets);
     const hasTitle = data.some(item => item.title);
@@ -18,7 +18,7 @@ const RoundThree = () => {
             modules={[Pagination]} 
             className="swiper"
         >
-        {hasTitle && <SwiperSlide className="page__slide">Round 3 - {titleItem.title}</SwiperSlide>}
+        {hasTitle && <SwiperSlide className="page__slide">Round 7 - {titleItem.title}</SwiperSlide>}
             {data.map(item => (
                 item.id ? (
                     <SwiperSlide key={item.id}>
@@ -32,4 +32,4 @@ const RoundThree = () => {
      );
 }
  
-export default RoundThree;
+export default RoundSeven;

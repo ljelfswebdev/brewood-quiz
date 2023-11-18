@@ -1,11 +1,11 @@
 "use client"
 import React, { useState } from 'react';
-import data from '../../../data/round-8.json';
+import data from '../../../data/round-5.json';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { Pagination } from 'swiper/modules';
 import createPagination from '../../../components/pagination';
 
-const RoundEight = () => {
+const RoundFive = () => {
     const totalBullets = data.length + 2; // 2 extra bullets for '-' at the beginning and end
     const pagination = createPagination(totalBullets);
     const [activeSlide, setActiveSlide] = useState(null);
@@ -23,20 +23,22 @@ const RoundEight = () => {
         setShowAnswer(prevShowAnswer => !prevShowAnswer);
     };
 
-    return ( 
+    return (
         <>
             <Swiper
-               pagination={pagination}
+                pagination={pagination}
                 modules={[Pagination]}
                 className="swiper"
                 onSlideChange={(swiper) => handleSlideChange(swiper)}
             >
-                {hasTitle && <SwiperSlide className="page__slide">Round 8 - {titleItem.title}</SwiperSlide>}
+                {hasTitle && <SwiperSlide className="page__slide">Round 5 - {titleItem.title}</SwiperSlide>}
                 {data.map((item, index) => (
                     item.id ? (
                         <SwiperSlide key={item.id} className="video-slide">
                             <h2 className="page__slide-title page__slide-title--video">Question {item.id}</h2>
-                            <img className="page__slide-image page__slide-image--flag" src={`/logos/${item.question}.png`} alt=""/>
+                            <video type="mp4" controls>
+                                <source src={`/videos/${item.url}.mp4`} />
+                            </video>
                             <span className="page__slide-reveal" onClick={toggleAnswer}>
                                 {activeSlide === index ? (showAnswer ? 'Hide Answer' : 'Show Answer') : ''}
                             </span>
@@ -48,10 +50,10 @@ const RoundEight = () => {
                         </SwiperSlide>
                     ) : null
                 ))}
-                <SwiperSlide className="page__slide">End Of Round 8</SwiperSlide>
+                <SwiperSlide className="page__slide">End Of Round 5</SwiperSlide>
             </Swiper>
-      </>
-     );
+        </>
+    );
 }
- 
-export default RoundEight;
+
+export default RoundFive;

@@ -4,53 +4,53 @@
     },
     {
         "id": 1,
-        "question": "O - S C Y H O",
+        "question": "O _ _ _ _ - S _ _ _  C _ _ _ _ _  Y _ _ _  H _ _ _ _  O _ _",
         "answer": "Oasis - Stop Crying Your Heart Out"
     },
     {
         "id": 2,
-        "question": "N - S L T S",
+        "question": "N _ _ _ _ _ _ - S _ _ _ _ _  L _ _ _  T _ _ _  S _ _ _ _ _",
         "answer": "Nirvana - Smells Like Teen Spirit"
     },
     {
         "id": 3,
-        "question": "A - R I T D",
+        "question": "A _ _ _ _ - R _ _ _ _ _ _  I _  T _ _  D _ _ _",
         "answer": "Adele - Rolling in the Deep"
     },
     {
         "id": 4,
-        "question": "G M - C W",
+        "question": "G _ _ _ _ _  M _ _ _ _ _ _ - C _ _ _ _ _ _ _  W _ _ _ _ _ _ ",
         "answer": "George Michael - Careless Whisper"
     },
     {
         "id": 5,
-        "question": "E J - C I T W",
+        "question": "E _ _ _ _  J _ _ _  - C _ _ _ _ _  I _  T _ _  W _ _ _",
         "answer": "Elton John - Candle in the Wind"
     },
     {
         "id": 6,
-        "question": "D B - H",
+        "question": "D _ _ _ _  B _ _ _ _ - H _ _ _ _ _",
         "answer": "David Bowie -  Heroes"
     },
     {
         "id": 7,
-        "question": "B - S 2",
+        "question": "B _ _ _ - S _ _ _ 2",
         "answer": "Blur - Song 2"
     },
 
     {
         "id": 8,
-        "question": "E L O - M B S",
+        "question": "E _ _ _ _ _ _ _  L _ _ _ _  O _ _ _ _ _ _ _ _ - M _  B _ _ _  S _ _",
         "answer": "Electric Light Orchestra - Mr Blue Sky "
     },
     {
         "id": 9,
-        "question": "S G - W ",
+        "question": "S _ _ _ _  G _ _ _ _ - W _ _ _ _ _ _",
         "answer": "Spice Girls - Wannabe"
     },
     {
         "id": 10,
-        "question": "T B - L I B",
+        "question": "T _ _  B _ _ _ _ _ _ - L _ _  I _  B _",
         "answer": "The Beatles- Let it be"
     }
 ]

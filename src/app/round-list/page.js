@@ -20,10 +20,10 @@ const RoundList = () => {
                 Round 6 - Science
             </li>
             <li>
-                Round 7 - Famous People
+                Round 7 - Famous Nicks
             </li>
             <li>
-                Round 8 - Logos
+                Round 8 - Movies
             </li>
         </ul>
      );

@@ -1,55 +1,58 @@
+
 [
     {
-        "title": "History"
+    "title": "History"
     },
     {
         "id": 1,
-        "question": "Which ancient civilization built the Machu Picchu?",
-        "answer": "Inca civilization"
+        "question": "Who was the first Tudor monarch of England?",
+        "answer": "Henry VII"
     },
     {
         "id": 2,
-        "question": "Who was the first female Prime Minister of the United Kingdom?",
-        "answer": "Margaret Thatcher"
-    },
+        "question": "Who was the King of England during the signing of the Magna Carta?",
+        "answer": "King John"
+        },
+    
     {
         "id": 3,
-        "question": "When was the controversial Poll Tax introduced in England and Wales?",
-        "answer": "1990"
+        "question": "Who was the leader of the suffragette movement in the early 20th century?",
+        "answer": "Emmeline Pankhurst"
     },
+    
     {
         "id": 4,
-        "question": "Which battle marked the end of Viking domination of England?",
-        "answer": "Battle of Stamford Bridge"
+        "question": "Which British monarch was on the throne during World War I?",
+        "answer": "King George V"
     },
     {
         "id": 5,
-        "question": "Which British explorer completed the first circumnavigation of the globe?",
-        "answer": "Sir Francis Drake"
+        "question": "Who was the leader of the parliamentary forces during the English Civil War?",
+        "answer": "Oliver Cromwell"
     },
     {
         "id": 6,
-        "question": "Who was the monarch during the Great Fire of London in 1666?",
-        "answer": "King Charles II"
+        "question": "What was the name of the ship on which Charles Darwin sailed during his voyage that led to his theory of evolution?",
+        "answer": "HMS Beagle"
     },
     {
         "id": 7,
-        "question": "Who was the architect behind the reconstruction of London after the Great Fire?",
-        "answer": "Sir Christopher Wren"
+        "question": "Who was the founder of the British Red Cross?",
+        "answer": "Florence Nightingale"
     },
     {
         "id": 8,
-        "question": "Which ancient wonder of the world was located in present-day Iraq?",
-        "answer": "Hanging Gardens of Babylon"
+        "question": "What was the name of the ship that transported the Pilgrim Fathers to America in 1620?",
+        "answer": "Mayflower"
     },
     {
         "id": 9,
-        "question": "Which treaty officially ended World War I?",
-        "answer": "Treaty of Versailles"
+        "question": "Who was the British Prime Minister at the start of World War I?",
+        "answer": "Herbert Henry Asquith"
     },
     {
         "id": 10,
-        "question": "Who was the British monarch during the American War of Independence?",
-        "answer": "King George III"
+        "question": "Who was the leader of the British forces during the Battle of Waterloo?",
+        "answer": "The Duke of Wellington"
     }
-]
+    ]

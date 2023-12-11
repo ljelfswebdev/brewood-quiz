@@ -36,7 +36,7 @@ const RoundEight = () => {
                     item.id ? (
                         <SwiperSlide key={item.id} className="video-slide">
                             <h2 className="page__slide-title page__slide-title--video">Question {item.id}</h2>
-                            <img className="page__slide-image page__slide-image--flag" src={`/logos/${item.question}.png`} alt=""/>
+                            <img className="page__slide-image page__slide-image--flag" src={`/christmas/${item.question}`} alt=""/>
                             <span className="page__slide-reveal" onClick={toggleAnswer}>
                                 {activeSlide === index ? (showAnswer ? 'Hide Answer' : 'Show Answer') : ''}
                             </span>

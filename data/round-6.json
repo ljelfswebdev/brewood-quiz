@@ -1,59 +1,56 @@
+
 [
     {
-        "title": "Science "
+    "title": "Science"
     },
     {
-        "id": 1,
-        "question": "What is the process by which plants convert light energy into chemical energy?",
-        "answer": "Photosynthesis"
-    },
-
-    {
-        "id": 2,
-        "question": "What is the force that tends to pull all particles of a liquid towards its center?",
-        "answer": "Surface tension"
+    "id": 1,
+    "question": "What is the study of fossils called?",
+    "answer": "Paleontology"
     },
     {
-        "id": 3,
-        "question": "What is the unit of measurement for electric current?",
-        "answer": "Ampere (A)"
-    },
-
-    {
-        "id": 4,
-        "question": "What is the study of the motion and behavior of solid objects subjected to forces called?",
-        "answer": "Mechanics"
+    "id": 2,
+    "question": "What unit is used to measure electrical resistance?",
+    "answer": "Ohm"
     },
     {
-        "id": 5,
-        "question": "Which subatomic particle has a positive charge?",
-        "answer": "Proton"
+    "id": 3,
+    "question": "What is the chemical symbol for tin",
+    "answer": "Sn"
     },
     {
-        "id": 6,
-        "question": "What is the smallest particle of a chemical element that retains the chemical properties of that element?",
-        "answer": "Atom"
+    "id": 4,
+    "question": "What is the study of earthquakes called?",
+    "answer": "Seismology"
     },
     {
-        "id": 7,
-        "question": "What is the branch of biology that deals with the study of heredity and variation?",
-        "answer": "Genetics"
+    "id": 5,
+    "question": "What is the unit of measurement for frequency?",
+    "answer": "Hertz (Hz)"
     },
     {
-        "id": 8,
-        "question": "What is the chemical name for table salt?",
-        "answer": "Sodium chloride"
-    },
-
-    {
-        "id": 9,
-        "question": "What is the SI unit of measurement for force?",
-        "answer": "Newton (N)"
+    "id":6,
+    "question": "Which metal is liquid at room temperature?",
+    "answer": "Mercury"
     },
     {
-        "id": 10,
-        "question": "What is the branch of physics that deals with the study of light and its behavior?",
-        "answer": "Optics"
+    "id": 7,
+    "question": "Which organ in the human body produces insulin?",
+    "answer": "Pancreas"
+    },
+    {
+    "id": 8,
+    "question": "What is the name for the type of chemical bond that involves the sharing of electrons?",
+    "answer": "Covalent bond"
+    },
+    {
+    "id": 9,
+    "question": "Which disease is caused by a deficiency of vitamin C?",
+    "answer": "Scurvy"
+    },
+    {
+    "id": 10,
+    "question": "Which planet in our solar system has the shortest day?",
+    "answer": "Jupiter"
     }
-
-]
+    ]

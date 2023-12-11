@@ -26,7 +26,7 @@ const RoundSeven = () => {
                     </SwiperSlide>
                 ) : null
             ))}
-        <SwiperSlide className="page__slide">End Of Round 3</SwiperSlide>
+        <SwiperSlide className="page__slide">End Of Round 7</SwiperSlide>
         </Swiper>
       </>
      );

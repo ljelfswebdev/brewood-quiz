@@ -1,56 +1,56 @@
+
 [
     {
-        "title": "Sports"
+    "title": "Sports"
     },
     {
-        "id": 1,
-        "question": "Who won the FIFA World Cup in 1954?",
-        "answer": "West Germany"
+    "id": 1,
+    "question": "Who won the Wimbledon Men's Singles title in 2019?",
+    "answer": "Novak Djokovic"
     },
     {
-        "id": 2,
-        "question": "Which team has won the most FA Cups?",
-        "answer": "Arsenal"
+    "id": 2,
+    "question": "Which football team won the Premier League in the 2015-2016 season?",
+    "answer": "Leicester City"
     },
     {
-        "id": 3,
-        "question": "How many England Football players have scored between 40 and 49 international goals?",
-        "answer": "4 (Charlton, Linekar, Greaves, Owen) "
-    },
-
-    {
-        "id": 4,
-        "question": "Which English cricketer has the highest number of Test wickets?",
-        "answer": "James Anderson"
+    "id": 3,
+    "question": "Which boxer has held world titles in five different weight classes?",
+    "answer": "Floyd Mayweather Jr."
     },
     {
-        "id": 5,
-        "question": "Who won the 2011 Rugby World Cup?",
-        "answer": "New Zealand"
+    "id": 4,
+    "question": "Which country hosted the 2018 Winter Olympics?",
+    "answer": "South Korea (Pyeongchang)"
     },
     {
-        "id": 6,
-        "question": "Which British cyclist has won the most Tour de France titles?",
-        "answer": "Chris Froome"
+    "id": 5,
+    "question": "Which British athlete won double gold in the 2016 Rio Olympics in both the 5,000m and 10,000m races?",
+    "answer": "Mo Farah"
     },
     {
-        "id": 7,
-        "question": "How many people have won 5 or more F1 World Championships?",
-        "answer": "3 (Schumacher, Hamilton, Fangio)"
+    "id": 6,
+    "question": "Who was the first British driver to win a Formula 1 World Championship?",
+    "answer": "Mike Hawthorn"
     },
     {
-        "id": 8,
-        "question": "Which horse won the Grand National in 2021?",
-        "answer": "Minella Times"
+    "id": 7,
+    "question": "Which city hosted the 2014 Commonwealth Games?",
+    "answer": "Glasgow"
     },
     {
-        "id": 9,
-        "question": "In which city did the 2002 Commonwealth Games take place?",
-        "answer": "Manchester"
+    "id": 8,
+    "question": "Which golfer has won the most Masters Tournaments?",
+    "answer": "Jack Nicklaus"
     },
     {
-        "id": 10,
-        "question": "Which snooker player is known as 'The Rocket'?",
-        "answer": "Ronnie O'Sullivan"
+    "id": 9,
+    "question": "Which British boxer won an Olympic gold medal at the 2012 London Games?",
+    "answer": "Anthony Joshua"
+    },
+    {
+    "id": 10,
+    "question": "Who became the first cricketer to score 10,000 runs in T20 cricket?",
+    "answer": "Chris Gayle"
     }
 ]

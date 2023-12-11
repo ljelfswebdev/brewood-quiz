@@ -1,0 +1,56 @@
+[
+    {
+        "title": "Geography"
+    },
+    {
+        "id": 1,
+        "question": "What is the capital city of Canada?",
+        "answer": "Ottawa"
+    },
+    {
+        "id": 2,
+        "question": "Which river is the longest in the world?",
+        "answer": "Nile River"
+    },
+    {
+        "id": 3,
+        "question": "Which city is known as the city of thousand spires?",
+        "answer": "Prague"
+    },
+    {
+        "id": 4,
+        "question": "Which strait separates Asia and North America?",
+        "answer": "Bering Strait"
+    },
+
+    {
+        "id": 5,
+        "question": "Which African country is known as the 'Land of a Thousand Hills'?",
+        "answer": "Rwanda"
+    },
+    {
+        "id": 6,
+        "question": "What is the tallest mountain in Africa?",
+        "answer": "Mount Kilimanjaro"
+    },
+    {
+        "id": 7,
+        "question": "Which river runs through Baghdad?",
+        "answer": "Tigris River"
+    },
+    {
+        "id": 8,
+        "question": "What is the largest archipelago in the world?",
+        "answer": "Indonesia"
+    },
+    {
+        "id": 9,
+        "question": "Which strait separates Malaysia and Indonesia?",
+        "answer": "Strait of Malacca"
+    },
+    {
+        "id": 10,
+        "question": "Which captial cities does the Danube River run through?",
+        "answer": "Vienna, Bratislava, Budapest, and Belgrade"
+    }
+]

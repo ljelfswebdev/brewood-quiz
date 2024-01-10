@@ -23,7 +23,7 @@ const RoundList = () => {
                 Round 7 - Food & Drink
             </li>
             <li>
-                {/* Round 8 - Movies */}
+                Round 8 - History
             </li>
         </ul>
      );

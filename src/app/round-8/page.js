@@ -1,5 +1,6 @@
 "use client"
 import React, { useState } from 'react';
+import Question from '../../../components/slide';
 import data from '../../../data/round-7.json';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { Pagination } from 'swiper/modules';

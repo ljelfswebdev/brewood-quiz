@@ -1,58 +1,55 @@
-
 [
     {
-    "title": "History"
+        "title": "Current Affairs"
     },
     {
         "id": 1,
-        "question": "Who was the first Tudor monarch of England?",
-        "answer": "Henry VII"
+        "question": "What is the name of the ex-Post Office Chief Executive who is under fire following the ITV drama Mr Bates versus the Post Office?",
+        "answer": "Paula Vennell"
     },
     {
         "id": 2,
-        "question": "Who was the King of England during the signing of the Magna Carta in 1215?",
-        "answer": "King John"
-        },
-    
+        "question": "US Airlines grounded which planes following a mid-flight blow out over Oregon?",
+        "answer": "Boeing 737"
+    },
     {
         "id": 3,
-        "question": "Who was the leader of the suffragette movement in the early 20th century?",
-        "answer": "Emmeline Pankhurst"
+        "question": "Apollo was the name given by NASA to moon missions in the 1960s and 70s. What name has NASA given to its new exploration mission to the moon?",
+        "answer": "Artemis"
     },
-    
     {
         "id": 4,
-        "question": "Which British monarch was on the throne during World War I?",
-        "answer": "King George V"
+        "question": "Which player scored a maximum 147 break at the Masters Snooker tournament this week?",
+        "answer": "Ding Junhui"
     },
     {
         "id": 5,
-        "question": "Who was the leader of the parliamentary forces during the English Civil War?",
-        "answer": "Oliver Cromwell"
+        "question": "Which actor this week called for an immediate ban on the sale of machetes and zombie knives?",
+        "answer": "Idris Elba"
     },
     {
         "id": 6,
-        "question": "What was the name of the ship on which Charles Darwin sailed during his voyage that led to his theory of evolution?",
-        "answer": "HMS Beagle"
+        "question": "To one decimal place, what is the current rate of inflation?",
+        "answer": "4.6%"
     },
     {
         "id": 7,
-        "question": "Who was the founder of the British Red Cross?",
-        "answer": "Florence Nightingale"
+        "question": "In Paris, France’s culture ministry stepped in at the last minute save demolition of the laboratory of which scientist?",
+        "answer": "Marie Curie"
     },
     {
         "id": 8,
-        "question": "What was the name of the ship that transported the Pilgrim Fathers to America in 1620?",
-        "answer": "Mayflower"
+        "question": "Tiger Woods ended a 27 year partnership with which sponsor?",
+        "answer": "Nike"
     },
     {
         "id": 9,
-        "question": "Who was the British Prime Minister at the start of World War I?",
-        "answer": "Herbert Henry Asquith"
+        "question": "What name was given to the latest storm to hit the UK causing flooding across the country",
+        "answer": "Henk"
     },
     {
         "id": 10,
-        "question": "Who was the leader of the British forces during the Battle of Waterloo?",
-        "answer": "The Duke of Wellington"
+        "question": "At the Golden Globes ceremony this week who won the award for Best Actor in a Drama Motion Picture",
+        "answer": "Cillian Murphy"
     }
-    ]
+]

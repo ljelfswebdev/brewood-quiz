@@ -1,0 +1,56 @@
+
+[
+  {
+  "title": "Christmas"
+  },
+  {
+  "id": 1,
+  "question": "In which country is the tradition of leaving out stockings for gifts said to have originated?",
+  "answer": "The Netherlands"
+  },
+  {
+  "id": 2,
+  "question": "Which British monarch was the first to have a Christmas tree?",
+  "answer": "Queen Victoria"
+  },
+  {
+  "id": 3,
+  "question": "In which country is the tradition of a Yule log cake popular during Christmas?",
+  "answer": "France"
+  },
+  {
+  "id": 4,
+  "question": "What is the traditional Christmas dinner meat in Italy?",
+  "answer": "Roast eel"
+  },
+  {
+  "id": 5,
+  "question": "Which Christmas song holds the record for the best-selling single of all time?",
+  "answer": "'White Christmas' by Bing Crosby"
+  },
+  {
+  "id": 6 ,
+  "question": "What is the traditional Christmas bread in Germany?",
+  "answer": "Stollen"
+  },
+  {
+    "id": 7,
+    "question": "Which Scandinavian country has a tradition of celebrating 'Julebord,' a Christmas feast?",
+    "answer": "Norway"
+    },
+    {
+      "id": 8,
+      "question": "Which popular Christmas song was written by Jem Finer and Shane MacGowan?",
+      "answer": "Fairytale of New York"
+      },
+      {
+        "id": 9,
+        "question": "Which country's Christmas is celebrated on January 7th due to its Orthodox Christian tradition?",
+        "answer": "Russia"
+        },
+        {
+          "id": 33,
+          "question": "In which country is 'KFC on Christmas' a popular tradition due to a successful marketing campaign?",
+          "answer": "Japan"
+          }
+  ]

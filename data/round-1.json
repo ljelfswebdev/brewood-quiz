@@ -1,56 +1,55 @@
-
 [
     {
-    "title": "Sports"
+        "title": "Movie Quotes"
     },
     {
-    "id": 1,
-    "question": "Who won the Wimbledon Men's Singles title in 2019?",
-    "answer": "Novak Djokovic"
+        "id": 1,
+        "question": "Hasta la vista, baby",
+        "answer": "Terminator 2"
     },
     {
-    "id": 2,
-    "question": "Which football team won the Premier League in the 2015-2016 season?",
-    "answer": "Leicester City"
+        "id": 2,
+        "question": "I feel the need, the need for speed",
+        "answer": "Top Gun"
     },
     {
-    "id": 3,
-    "question": "Which boxer has held world titles in five different weight classes?",
-    "answer": "Floyd Mayweather Jr."
+        "id": 3,
+        "question": "I’ll have what she’s having",
+        "answer": "When Harry Met Sally"
     },
     {
-    "id": 4,
-    "question": "Which country hosted the 2018 Winter Olympics?",
-    "answer": "South Korea (Pyeongchang)"
+        "id": 4,
+        "question": "I’m gonna make him an offer he can’t refuse",
+        "answer": "The Godfather"
     },
     {
-    "id": 5,
-    "question": "Which British athlete won golds in the 2016 Rio Olympics in both the 5,000m and 10,000m races?",
-    "answer": "Mo Farah"
+        "id": 5,
+        "question": "It’s a big building with patients",
+        "answer": "Airplane!"
     },
     {
-    "id": 6,
-    "question": "Who was the first British driver to win a Formula 1 World Championship?",
-    "answer": "Mike Hawthorn"
+        "id": 6,
+        "question": "It’s just a flesh wound",
+        "answer": "Monty Python and The Holy Grail"
     },
     {
-    "id": 7,
-    "question": "Which city hosted the 2014 Commonwealth Games?",
-    "answer": "Glasgow"
+        "id": 7,
+        "question": "With great power comes great responsibility",
+        "answer": "Spider-Man"
     },
     {
-    "id": 8,
-    "question": "Which golfer has won the most Masters Tournaments?",
-    "answer": "Jack Nicklaus"
+        "id": 8,
+        "question": "Carpe Diem. Seize the day boys",
+        "answer": "Dead Poets Society"
     },
     {
-    "id": 9,
-    "question": "Which heavyweight British boxer won an Olympic gold medal at the 2012 London Games?",
-    "answer": "Anthony Joshua"
+        "id": 9,
+        "question": "Nobody puts Baby in a corner",
+        "answer": "Dirty Dancing"
     },
     {
-    "id": 10,
-    "question": "Who became the first cricketer to score 10,000 runs in T20 cricket?",
-    "answer": "Chris Gayle"
+        "id": 10,
+        "question": "Some people are worth melting for",
+        "answer": "Frozen"
     }
 ]

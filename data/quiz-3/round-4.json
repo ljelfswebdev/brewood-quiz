@@ -1,0 +1,62 @@
+[
+    {
+        "title" : "Christmas Emojis"
+    },
+
+
+    {
+      "id": 1,
+      "question": "🚗🏡🎅🏼",
+      "answer": "Driving Home For Christmas"
+    },
+    {
+        "id": 2,
+        "question": "🥁👦",
+        "answer": "Little Drummer Boy"
+    },
+
+    {
+        "id": 3,
+        "question": "12x🗓️🎄",
+        "answer": "12 Days of Christmas"
+      },
+      {
+          "id": 4,
+          "question": "🙏🏼❄️🙏🏼❄️",
+          "answer": "Let it snow"
+      },
+
+    {
+        "id": 5,
+        "question": "👀😴❄️🎄",
+        "answer": "White Christmas"
+      },
+      {
+          "id": 6,
+          "question": "🎶🔔🎸",
+          "answer": "Jingle Bell Rock"
+      },
+
+    {
+        "id": 7,
+        "question": "🎉➡️🌎",
+        "answer": "Joy to the World"
+      },
+      {
+          "id": 8,
+          "question": "❄️⛄️",
+          "answer": "Frosty the Snowman"
+      },
+
+    {
+        "id": 9,
+        "question": "👁️👀🧍‍♀️💋🎅🏼",
+        "answer": "I saw mummy kissing Santa Claus"
+      },
+      {
+          "id": 10,
+          "question": "🇪🇸😁🎄",
+          "answer": "Feliz Navidad"
+      }
+]
+  

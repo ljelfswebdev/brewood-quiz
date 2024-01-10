@@ -1,62 +1,55 @@
 [
     {
-        "title" : "Christmas Emojis"
+        "title": "2023"
     },
-
-
     {
-      "id": 1,
-      "question": "🚗🏡🎅🏼",
-      "answer": "Driving Home For Christmas"
+        "id": 1,
+        "question": "Which city held the 2023 Eurovision Song Contest?",
+        "answer": "Liverpool"
     },
     {
         "id": 2,
-        "question": "🥁👦",
-        "answer": "Little Drummer Boy"
+        "question": "Which two countries hosted the 2023 FIFA Women’s World Cup?",
+        "answer": "Australia and New Zealand"
     },
-
     {
         "id": 3,
-        "question": "12x🗓️🎄",
-        "answer": "12 Days of Christmas"
-      },
-      {
-          "id": 4,
-          "question": "🙏🏼❄️🙏🏼❄️",
-          "answer": "Let it snow"
-      },
-
+        "question": "What was the Oxford English Dictionary word of the year in 2023?",
+        "answer": "Rizz"
+    },
+    {
+        "id": 4,
+        "question": "Which British TV show celebrated its 60th anniversary in November 2023?",
+        "answer": "Dr Who"
+    },
     {
         "id": 5,
-        "question": "👀😴❄️🎄",
-        "answer": "White Christmas"
-      },
-      {
-          "id": 6,
-          "question": "🎶🔔🎸",
-          "answer": "Jingle Bell Rock"
-      },
-
+        "question": "Nicola Sturgeon resigned as Scotland’s First Minister in February 2023. How many years was she in office for?",
+        "answer": "8 or 9"
+    },
+    {
+        "id": 6,
+        "question": "The Beatles released their last song in 2023. What is it called?",
+        "answer": "Now and Then"
+    },
     {
         "id": 7,
-        "question": "🎉➡️🌎",
-        "answer": "Joy to the World"
-      },
-      {
-          "id": 8,
-          "question": "❄️⛄️",
-          "answer": "Frosty the Snowman"
-      },
-
+        "question": "Which artist performed at the Superbowl half-time show in their first live performance for six years?",
+        "answer": "Rihanna"
+    },
+    {
+        "id": 8,
+        "question": "Which film won the Academy Award for best picture in 2023?",
+        "answer": "Everything Everywhere All at Once"
+    },
     {
         "id": 9,
-        "question": "👁️👀🧍‍♀️💋🎅🏼",
-        "answer": "I saw mummy kissing Santa Claus"
-      },
-      {
-          "id": 10,
-          "question": "🇪🇸😁🎄",
-          "answer": "Feliz Navidad"
-      }
+        "question": "The first female Speaker of the House and MP for West Bromwich died in 2023. What is her name?",
+        "answer": "Betty Boothroyd"
+    },
+    {
+        "id": 10,
+        "question": "In 2023 which Englishman posed for photographs wearing lederhosen, eating white sausage and drinking beer?",
+        "answer": "Harry Kane"
+    }
 ]
-  

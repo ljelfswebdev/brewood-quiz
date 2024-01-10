@@ -1,0 +1,56 @@
+
+[
+    {
+    "title": "Science"
+    },
+    {
+    "id": 1,
+    "question": "What is the study of fossils called?",
+    "answer": "Paleontology"
+    },
+    {
+    "id": 2,
+    "question": "What unit is used to measure electrical resistance?",
+    "answer": "Ohm"
+    },
+    {
+    "id": 3,
+    "question": "What is the chemical symbol for tin",
+    "answer": "Sn"
+    },
+    {
+    "id": 4,
+    "question": "What is the study of earthquakes called?",
+    "answer": "Seismology"
+    },
+    {
+    "id": 5,
+    "question": "What is the unit of measurement for frequency?",
+    "answer": "Hertz (Hz)"
+    },
+    {
+    "id":6,
+    "question": "Which metal is liquid at room temperature?",
+    "answer": "Mercury"
+    },
+    {
+    "id": 7,
+    "question": "Which organ in the human body produces insulin?",
+    "answer": "Pancreas"
+    },
+    {
+    "id": 8,
+    "question": "What is the name for the type of chemical bond that involves the sharing of electrons?",
+    "answer": "Covalent bond"
+    },
+    {
+    "id": 9,
+    "question": "Which disease is caused by a deficiency of vitamin C?",
+    "answer": "Scurvy"
+    },
+    {
+    "id": 10,
+    "question": "Which planet in our solar system has the shortest day?",
+    "answer": "Jupiter"
+    }
+    ]

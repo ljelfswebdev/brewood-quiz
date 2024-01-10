@@ -1,0 +1,58 @@
+
+[
+    {
+    "title": "History"
+    },
+    {
+        "id": 1,
+        "question": "Who was the first Tudor monarch of England?",
+        "answer": "Henry VII"
+    },
+    {
+        "id": 2,
+        "question": "Who was the King of England during the signing of the Magna Carta in 1215?",
+        "answer": "King John"
+        },
+    
+    {
+        "id": 3,
+        "question": "Who was the leader of the suffragette movement in the early 20th century?",
+        "answer": "Emmeline Pankhurst"
+    },
+    
+    {
+        "id": 4,
+        "question": "Which British monarch was on the throne during World War I?",
+        "answer": "King George V"
+    },
+    {
+        "id": 5,
+        "question": "Who was the leader of the parliamentary forces during the English Civil War?",
+        "answer": "Oliver Cromwell"
+    },
+    {
+        "id": 6,
+        "question": "What was the name of the ship on which Charles Darwin sailed during his voyage that led to his theory of evolution?",
+        "answer": "HMS Beagle"
+    },
+    {
+        "id": 7,
+        "question": "Who was the founder of the British Red Cross?",
+        "answer": "Florence Nightingale"
+    },
+    {
+        "id": 8,
+        "question": "What was the name of the ship that transported the Pilgrim Fathers to America in 1620?",
+        "answer": "Mayflower"
+    },
+    {
+        "id": 9,
+        "question": "Who was the British Prime Minister at the start of World War I?",
+        "answer": "Herbert Henry Asquith"
+    },
+    {
+        "id": 10,
+        "question": "Who was the leader of the British forces during the Battle of Waterloo?",
+        "answer": "The Duke of Wellington"
+    }
+    ]

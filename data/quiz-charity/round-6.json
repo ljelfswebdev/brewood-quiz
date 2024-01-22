@@ -1,0 +1,55 @@
+[
+    {
+        "title": "Politics"
+    },
+    {
+        "id": 1,
+        "question": "For how many days was Liz Truss Prime Minister?",
+        "answer": "49 or 50"
+    },
+    {
+        "id": 2,
+        "question": "Who is Joe Biden's Vice President?",
+        "answer": "Kamala Harris"
+    },
+    {
+        "id": 3,
+        "question": "Who said they would be tough on crime and tough on the causes of crime?",
+        "answer": "Tony Blair"
+    },
+    {
+        "id": 4,
+        "question": "How many former Prime Ministers are still alive?",
+        "answer": "Seven"
+    },
+    {
+        "id": 5,
+        "question": "Which US President said ask not what your country can do for you – ask what you can do for your country?",
+        "answer": "John F. Kennedy"
+    },
+    {
+        "id": 6,
+        "question": "How many MPs are there in the House of Commons?",
+        "answer": "650"
+    },
+    {
+        "id": 7,
+        "question": "What was the stage name of the musician who founded the Monster Raving Loony Party?",
+        "answer": "Screaming Lord Sutch"
+    },
+    {
+        "id": 8,
+        "question": "Joe Biden was Senator for which state before becoming President of the USA?",
+        "answer": "Delaware"
+    },
+    {
+        "id": 9,
+        "question": "Which Conservative MP fed British beef to his daughter in a press event to prove its safety from BSE?",
+        "answer": "John Selwyn Gummer"
+    },
+    {
+        "id": 10,
+        "question": "Who is the leader of the Scottish National Party?",
+        "answer": "Humza Yousaf"
+    }
+]

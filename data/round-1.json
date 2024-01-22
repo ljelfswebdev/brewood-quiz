@@ -1,55 +1,58 @@
 [
     {
-        "title": "Movie Quotes"
+        "title": "Sports"
     },
+
     {
         "id": 1,
-        "question": "Hasta la vista, baby",
-        "answer": "Terminator 2"
+        "question": "In tennis, who holds the record for the most Grand Slam singles titles?",
+        "answer": "Margaret Court"
     },
     {
         "id": 2,
-        "question": "I feel the need, the need for speed",
-        "answer": "Top Gun"
+        "question": "Which British cyclist became the first to win the Tour de France and an Olympic gold medal in the same year?",
+        "answer": "Sir Bradley Wiggins"
     },
     {
         "id": 3,
-        "question": "I'll have what she's having",
-        "answer": "When Harry Met Sally"
+        "question": "Who holds the record for the most consecutive wins in Formula 1, winning seven championships in a row?",
+        "answer": "Michael Schumacher"
     },
     {
         "id": 4,
-        "question": "I'm gonna make him an offer he can't refuse",
-        "answer": "The Godfather"
+        "question": "Which British snooker player won the World Snooker Championship in 2020?",
+        "answer": "Ronnie O'Sullivan"
     },
     {
         "id": 5,
-        "question": "It's a big building with patients",
-        "answer": "Airplane!"
+        "question": "Who is the first English cricketer to score over 10,000 runs in Test matches?",
+        "answer": "Alastair Cook"
     },
     {
         "id": 6,
-        "question": "It's just a flesh wound",
-        "answer": "Monty Python and The Holy Grail"
+        "question": "How many balls are there on the table at the start of a snooker frame?",
+        "answer": "22"
     },
     {
         "id": 7,
-        "question": "With great power comes great responsibility",
-        "answer": "Spider-Man"
+        "question": "Which two sports does the biathlon combine?",
+        "answer": "Skiing & Shooting"
     },
+
     {
         "id": 8,
-        "question": "Carpe Diem. Seize the day boys",
-        "answer": "Dead Poets Society"
+        "question": "Which British female athlete won the heptathlon gold at the 2012 London Olympics?",
+        "answer": "Jessica Ennis-Hill"
     },
     {
         "id": 9,
-        "question": "Nobody puts Baby in a corner",
-        "answer": "Dirty Dancing"
+        "question": "In football, who is the all-time top scorer in the UEFA Champions League?",
+        "answer": "Cristiano Ronaldo"
     },
     {
         "id": 10,
-        "question": "Some people are worth melting for",
-        "answer": "Frozen"
+        "question": "Which British diver won gold in the 10m platform event at the 2016 Rio Olympics?",
+        "answer": "Tom Daley"
     }
+    
 ]

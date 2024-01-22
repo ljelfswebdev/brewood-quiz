@@ -1,55 +1,61 @@
 [
     {
-        "title": "Food and Drink"
+        "title": "Music"
     },
+    
     {
         "id": 1,
-        "question": "Are Jaffa Cakes legally a cake or a biscuit?",
-        "answer": "Cake"
+        "question": "What is the Beatles' best-selling single of all time?",
+        "answer": "Hey Jude"
     },
     {
         "id": 2,
-        "question": "What is the most consumed manufactured drink in the world?",
-        "answer": "Tea"
+        "question": "Which rock band's members included Jimmy Page, Robert Plant, John Paul Jones, and John Bonham?",
+        "answer": "Led Zeppelin"
     },
     {
         "id": 3,
-        "question": "In what year did the first ever McDonald's store open?",
-        "answer": "1940"
+        "question": "Who is the lead singer of the band U2?",
+        "answer": "Bono"
     },
+
     {
         "id": 4,
-        "question": "How many calories does a one pint glass of water contain?",
-        "answer": "Zero"
+        "question": "Who is known as the 'Queen of Soul'?",
+        "answer": "Aretha Franklin"
     },
     {
         "id": 5,
-        "question": "How many lunches does Geraldine have to eat in the Christmas Lunch Incident episode of Vicar of Dibley?",
-        "answer": "Four"
+        "question": "Which iconic rock band released the albums 'The Dark Side of the Moon' and 'The Wall'?",
+        "answer": "Pink Floyd"
     },
     {
         "id": 6,
-        "question": "How many standard size bottles of champagne are in a magnum?",
-        "answer": "Two"
+        "question": "What is the name of Adele's debut album?",
+        "answer": "19"
     },
+    
     {
         "id": 7,
-        "question": "Which chocolate did Mars announce it was removing from selection tubs of Celebrations in 2022?",
-        "answer": ""
+        "question": "Who composed the famous ballet 'The Nutcracker'?",
+        "answer": "Pyotr Ilyich Tchaikovsky"
     },
+
     {
         "id": 8,
-        "question": "What country produces the most bananas?",
-        "answer": "India"
+        "question": "Which musical genre originated in Jamaica and features a strong offbeat rhythm?",
+        "answer": "Reggae"
     },
+
     {
         "id": 9,
-        "question": "Name the five ingredients demanded by one of Basil Fawlty’s guests to make a Waldorf Salad?",
-        "answer": "Celery, Apples, Walnuts, Grapes and Mayonnaise"
+        "question": "Which band released the iconic album 'Rumours' in 1977?",
+        "answer": "Fleetwood Mac"
     },
+      
     {
         "id": 10,
-        "question": "What creature features on the label of a bottle of Bacardi rum?",
-        "answer": "A Bat"
+        "question": "Who composed the classical piece 'Moonlight Sonata'?",
+        "answer": "Ludwig van Beethoven"
     }
 ]

@@ -1,55 +1,61 @@
 [
     {
-        "title": "Current Affairs"
+        "title" : "Animals"
     },
+
+
     {
-        "id": 1,
-        "question": "What is the name of the ex-Post Office Chief Executive who is under fire following the ITV drama Mr Bates versus the Post Office?",
-        "answer": "Paula Vennell"
+      "id": 1,
+      "question": "What is a a group of Pandas called?",
+      "answer": "An embarrassment"
     },
     {
         "id": 2,
-        "question": "US Airlines grounded which planes following a mid-flight blow out over Oregon?",
-        "answer": "Boeing 737"
+        "question": "Which species of penguin is the largest and heaviest?",
+        "answer": "Emperor penguin"
     },
     {
         "id": 3,
-        "question": "Apollo was the name given by NASA to moon missions in the 1960s and 70s. What name has NASA given to its new exploration mission to the moon?",
-        "answer": "Artemis"
+        "question": "What is the only marsupial that lays eggs?",
+        "answer": "Platypus"
     },
-    {
+      {
         "id": 4,
-        "question": "Which player scored a maximum 147 break at the Masters Snooker tournament this week?",
-        "answer": "Ding Junhui"
+        "question": "What is the non-scientific name for the Loxodonta africana?",
+        "answer": "African elephant"
     },
     {
         "id": 5,
-        "question": "Which actor this week called for an immediate ban on the sale of machetes and zombie knives?",
-        "answer": "Idris Elba"
+        "question": "Which mammal is the only flying primate?",
+        "answer": "Colugo (Flying lemur)"
     },
-    {
-        "id": 6,
-        "question": "To one decimal place, what is the current rate of inflation?",
-        "answer": "4.6%"
-    },
-    {
+
+      {
+          "id": 6,
+          "question": "What is a a group of cats called?",
+          "answer": "Cats"
+      },
+
+      {
         "id": 7,
-        "question": "In Paris, France's culture ministry stepped in at the last minute save demolition of the laboratory of which scientist?",
-        "answer": "Marie Curie"
+        "question": "Which animal can regrow its lost tail?",
+        "answer": "Lizard"
     },
-    {
+      {
         "id": 8,
-        "question": "Tiger Woods ended a 27 year partnership with which sponsor?",
-        "answer": "Nike"
+        "question": "What is the largest big cat in the world?",
+        "answer": "Siberian tiger"
     },
+
     {
         "id": 9,
-        "question": "What name was given to the latest storm to hit the UK causing flooding across the country",
-        "answer": "Henk"
+        "question": "What is the world's smallest mammal?",
+        "answer": "Bumblebee bat"
     },
     {
         "id": 10,
-        "question": "At the Golden Globes ceremony this week who won the award for Best Actor in a Drama Motion Picture",
-        "answer": "Cillian Murphy"
+        "question": "Which bird is known for its long, downward-curved bill and is associated with tropical regions?",
+        "answer": "Toucan"
     }
 ]
+  

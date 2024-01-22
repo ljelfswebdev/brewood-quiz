@@ -1,0 +1,55 @@
+[
+    {
+        "title": "Movie Quotes"
+    },
+    {
+        "id": 1,
+        "question": "Hasta la vista, baby",
+        "answer": "Terminator 2"
+    },
+    {
+        "id": 2,
+        "question": "I feel the need, the need for speed",
+        "answer": "Top Gun"
+    },
+    {
+        "id": 3,
+        "question": "I'll have what she's having",
+        "answer": "When Harry Met Sally"
+    },
+    {
+        "id": 4,
+        "question": "I'm gonna make him an offer he can't refuse",
+        "answer": "The Godfather"
+    },
+    {
+        "id": 5,
+        "question": "It's a big building with patients",
+        "answer": "Airplane!"
+    },
+    {
+        "id": 6,
+        "question": "It's just a flesh wound",
+        "answer": "Monty Python and The Holy Grail"
+    },
+    {
+        "id": 7,
+        "question": "With great power comes great responsibility",
+        "answer": "Spider-Man"
+    },
+    {
+        "id": 8,
+        "question": "Carpe Diem. Seize the day boys",
+        "answer": "Dead Poets Society"
+    },
+    {
+        "id": 9,
+        "question": "Nobody puts Baby in a corner",
+        "answer": "Dirty Dancing"
+    },
+    {
+        "id": 10,
+        "question": "Some people are worth melting for",
+        "answer": "Frozen"
+    }
+]

@@ -1,55 +1,61 @@
 [
     {
-        "title": "2023"
+        "title": "History"
     },
+
     {
         "id": 1,
-        "question": "Which city held the 2023 Eurovision Song Contest?",
-        "answer": "Liverpool"
+        "question": "Who was the Scottish queen executed for her involvement in plots to assassinate Elizabeth I?",
+        "answer": "Mary, Queen of Scots"
     },
+
     {
         "id": 2,
-        "question": "Which two countries hosted the 2023 FIFA Women’s World Cup?",
-        "answer": "Australia and New Zealand"
+        "question": "During which war did the Battle of Trafalgar occur?",
+        "answer": "Napoleonic Wars"
     },
+
     {
         "id": 3,
-        "question": "What was the Oxford English Dictionary word of the year in 2023?",
-        "answer": "Rizz"
+        "question": "In which year did the Industrial Revolution begin in the United Kingdom?",
+        "answer": "1760"
     },
+    
     {
         "id": 4,
-        "question": "Which British TV show celebrated its 60th anniversary in November 2023?",
-        "answer": "Dr Who"
+        "question": "Who was the founder of the Church of England?",
+        "answer": "King Henry VIII"
     },
+
     {
         "id": 5,
-        "question": "Nicola Sturgeon resigned as Scotland’s First Minister in February 2023. How many years was she in office for?",
-        "answer": "8 or 9"
+        "question": "Which king was executed during the English Civil War?",
+        "answer": "Charles I"
     },
+ 
     {
         "id": 6,
-        "question": "The Beatles released their last song in 2023. What is it called?",
-        "answer": "Now and Then"
+        "question": "What event is known as the Glorious Revolution of 1688?",
+        "answer": "The overthrow of James II"
     },
     {
         "id": 7,
-        "question": "Which artist performed at the Superbowl half-time show in their first live performance for six years?",
-        "answer": "Rihanna"
+        "question": "Who was the first woman to sit in the House of Commons?",
+        "answer": "Nancy Astor"
     },
     {
         "id": 8,
-        "question": "Which film won the Academy Award for best picture in 2023?",
-        "answer": "Everything Everywhere All at Once"
+        "question": "Who was the architect of the British welfare state and the National Health Service (NHS) after World War II?",
+        "answer": "Clement Attlee"
     },
     {
         "id": 9,
-        "question": "The first female Speaker of the House and MP for West Bromwich died in 2023. What is her name?",
-        "answer": "Betty Boothroyd"
+        "question": "Who was the British Prime Minister during the Suez Crisis in 1956?",
+        "answer": "Anthony Eden"
     },
     {
         "id": 10,
-        "question": "In 2023 which Englishman posed for photographs wearing lederhosen, eating white sausage and drinking beer?",
-        "answer": "Harry Kane"
+        "question": "Which British monarch faced the threat of invasion by the Spanish Armada in 1588?",
+        "answer": "Queen Elizabeth I"
     }
 ]

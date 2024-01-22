@@ -1,55 +1,59 @@
 [
     {
-        "title": "A Mixed Bag"
+        "title": "Technology"
     },
     {
         "id": 1,
-        "question": "How many men have stood on the moon?",
-        "answer": "12"
+        "question": "What does the acronym 'CPU' stand for in computing?",
+        "answer": "Central Processing Unit"
     },
     {
         "id": 2,
-        "question": "Who wrote the book Chitty Chitty Bang Bang?",
-        "answer": "Ian Fleming"
+        "question": "Which company developed the first commercial microprocessor chip?",
+        "answer": "Intel"
     },
     {
         "id": 3,
-        "question": "Which chemical element has the symbol Sn?",
-        "answer": "Tin"
+        "question": "What is the programming language created by James Gosling at Sun Microsystems in 1995?",
+        "answer": "Java"
     },
     {
         "id": 4,
-        "question": "How many human players are there on each side of a polo match?",
-        "answer": "Four"
+        "question": "In computer science, what does the acronym 'HTML' stand for?",
+        "answer": "Hypertext Markup Language"
     },
     {
         "id": 5,
-        "question": "How many teams have won the Premier League since the start of its inaugural season in 1992-93?",
-        "answer": "Seven"
+        "question": "Which programming language is commonly used for developing web applications?",
+        "answer": "JavaScript"
     },
     {
         "id": 6,
-        "question": "Name the first actor to play Dumbledore in the Harry Potter films?",
-        "answer": "Richard Harris"
+        "question": "What is the name of the wireless technology used to exchange data over short distances?",
+        "answer": "Bluetooth"
     },
+
     {
         "id": 7,
-        "question": "What is the currency of Vietnam?",
-        "answer": "Dong"
+        "question": "Who is the CEO of Tesla and SpaceX?",
+        "answer": "Elon Musk"
     },
+
     {
         "id": 8,
-        "question": "How many keys are there on a piano?",
-        "answer": "88"
+        "question": "Which social media platform was founded by Mark Zuckerberg?",
+        "answer": "Facebook"
     },
+
     {
         "id": 9,
-        "question": "Who is the author of The Hunger Games book series?",
-        "answer": "Suzanne Collins"
+        "question": "Which company produces the 'Galaxy' series of smartphones?",
+        "answer": "Samsung"
     },
+
     {
         "id": 10,
-        "question": "Who did Prince Harry say had ordered him to shave his beard before a royal wedding?",
-        "answer": "William"
+        "question": "Which technology company is known for its gaming console 'PlayStation'?",
+        "answer": "Sony"
     }
 ]

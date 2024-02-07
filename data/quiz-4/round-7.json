@@ -1,0 +1,55 @@
+[
+    {
+        "title": "Food and Drink"
+    },
+    {
+        "id": 1,
+        "question": "Are Jaffa Cakes legally a cake or a biscuit?",
+        "answer": "Cake"
+    },
+    {
+        "id": 2,
+        "question": "What is the most consumed manufactured drink in the world?",
+        "answer": "Tea"
+    },
+    {
+        "id": 3,
+        "question": "In what year did the first ever McDonald's store open?",
+        "answer": "1940"
+    },
+    {
+        "id": 4,
+        "question": "How many calories does a one pint glass of water contain?",
+        "answer": "Zero"
+    },
+    {
+        "id": 5,
+        "question": "How many lunches does Geraldine have to eat in the Christmas Lunch Incident episode of Vicar of Dibley?",
+        "answer": "Four"
+    },
+    {
+        "id": 6,
+        "question": "How many standard size bottles of champagne are in a magnum?",
+        "answer": "Two"
+    },
+    {
+        "id": 7,
+        "question": "Which chocolate did Mars announce it was removing from selection tubs of Celebrations in 2022?",
+        "answer": ""
+    },
+    {
+        "id": 8,
+        "question": "What country produces the most bananas?",
+        "answer": "India"
+    },
+    {
+        "id": 9,
+        "question": "Name the five ingredients demanded by one of Basil Fawlty’s guests to make a Waldorf Salad?",
+        "answer": "Celery, Apples, Walnuts, Grapes and Mayonnaise"
+    },
+    {
+        "id": 10,
+        "question": "What creature features on the label of a bottle of Bacardi rum?",
+        "answer": "A Bat"
+    }
+]

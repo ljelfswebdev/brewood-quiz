@@ -1,0 +1,55 @@
+[
+    {
+        "title": "History"
+    },
+    {
+        "id": 1,
+        "question": "Which famous historical figure is believed to have said, I think therefore I am?",
+        "answer": "Rene Descartes"
+    },
+    {
+        "id": 2,
+        "question": "Which ancient civilisation built the city of Machu Picchu?",
+        "answer": "The Incas"
+    },
+    {
+        "id": 3,
+        "question": "Who was the first European explorer to reach India by sea?",
+        "answer": "Vasco da Gama"
+    },
+    {
+        "id": 4,
+        "question": "Who was the first woman to win a Nobel prize?",
+        "answer": "Marie Curie"
+    },
+    {
+        "id": 5,
+        "question": "Which country was the first to grant women the right to vote?",
+        "answer": "New Zealand"
+    },
+    {
+        "id": 6,
+        "question": "Who was the leader of the Bolshevik revolution in Russia?",
+        "answer": "Vladimir Lenin"
+    },
+    {
+        "id": 7,
+        "question": "Which famous historical figure is believed to have said, I came, I saw, I conquered?",
+        "answer": "Julius Caesar"
+    },
+    {
+        "id": 8,
+        "question": "Who was the first person to circumnavigate the globe?",
+        "answer": "Ferdinand Magellan"
+    },
+    {
+        "id": 9,
+        "question": "Who was the first woman to fly solo across the Atlantic Ocean?",
+        "answer": "Amelia Earhart"
+    },
+    {
+        "id": 10,
+        "question": "What is the name of ship that Charles Darwin used to sail on voyages that played a vital role in the formation of his scientific theories on evolution and natural selection?",
+        "answer": "HMS Beagle"
+    }
+]

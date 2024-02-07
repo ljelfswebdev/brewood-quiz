@@ -4,52 +4,52 @@
     },
     {
         "id": 1,
-        "question": "Hasta la vista, baby",
-        "answer": "Terminator 2"
+        "question": "You sit on a throne of lies",
+        "answer": "Elf"
     },
     {
         "id": 2,
-        "question": "I feel the need, the need for speed",
-        "answer": "Top Gun"
+        "question": "Looks like I picked the wrong week to quit sniffing glue",
+        "answer": "Airplane"
     },
     {
         "id": 3,
-        "question": "I'll have what she's having",
-        "answer": "When Harry Met Sally"
+        "question": "Exsqueeze me",
+        "answer": "Wayne’s World"
     },
     {
         "id": 4,
-        "question": "I'm gonna make him an offer he can't refuse",
-        "answer": "The Godfather"
+        "question": "They’ve done studies you know. 60% of the time it works every time",
+        "answer": "Anchorman"
     },
     {
         "id": 5,
-        "question": "It's a big building with patients",
-        "answer": "Airplane!"
+        "question": "There’s no place like home",
+        "answer": "The Wizard of Oz"
     },
     {
         "id": 6,
-        "question": "It's just a flesh wound",
-        "answer": "Monty Python and The Holy Grail"
+        "question": "I’m the king of the world",
+        "answer": "Titanic"
     },
     {
         "id": 7,
-        "question": "With great power comes great responsibility",
-        "answer": "Spider-Man"
+        "question": "Houston we have a problem",
+        "answer": "Apollo 13"
     },
     {
         "id": 8,
-        "question": "Carpe Diem. Seize the day boys",
-        "answer": "Dead Poets Society"
+        "question": "Just keep swimming",
+        "answer": "Finding Nemo"
     },
     {
         "id": 9,
-        "question": "Nobody puts Baby in a corner",
-        "answer": "Dirty Dancing"
+        "question": "It’s alive! It’s alive!",
+        "answer": "Frankenstein"
     },
     {
         "id": 10,
-        "question": "Some people are worth melting for",
-        "answer": "Frozen"
+        "question": "I am your father",
+        "answer": "Star Wars Episode V – The Empire Strikes Back"
     }
 ]

@@ -1,55 +1,55 @@
 [
-    {
-        "title": "Politics"
-    },
-    {
-        "id": 1,
-        "question": "For how many days was Liz Truss Prime Minister?",
-        "answer": "49 or 50"
-    },
-    {
-        "id": 2,
-        "question": "Who is Joe Biden's Vice President?",
-        "answer": "Kamala Harris"
-    },
-    {
-        "id": 3,
-        "question": "Who said they would be tough on crime and tough on the causes of crime?",
-        "answer": "Tony Blair"
-    },
-    {
-        "id": 4,
-        "question": "How many former Prime Ministers are still alive?",
-        "answer": "Seven"
-    },
-    {
-        "id": 5,
-        "question": "Which US President said ask not what your country can do for you – ask what you can do for your country?",
-        "answer": "John F. Kennedy"
-    },
-    {
-        "id": 6,
-        "question": "How many MPs are there in the House of Commons?",
-        "answer": "650"
-    },
-    {
-        "id": 7,
-        "question": "What was the stage name of the musician who founded the Monster Raving Loony Party?",
-        "answer": "Screaming Lord Sutch"
-    },
-    {
-        "id": 8,
-        "question": "Joe Biden was Senator for which state before becoming President of the USA?",
-        "answer": "Delaware"
-    },
-    {
-        "id": 9,
-        "question": "Which Conservative MP fed British beef to his daughter in a press event to prove its safety from BSE?",
-        "answer": "John Selwyn Gummer"
-    },
-    {
-        "id": 10,
-        "question": "Who is the leader of the Scottish National Party?",
-        "answer": "Humza Yousaf"
-    }
+  {
+      "title": "Music"
+  },
+  {
+      "id": 1,
+      "question": "According to Dreams by Fleetwood Mac, what only happens when it’s raining?",
+      "answer": "Thunder"
+  },
+  {
+      "id": 2,
+      "question": "How many problems does Jay-Z have?",
+      "answer": "99"
+  },
+  {
+      "id": 3,
+      "question": "According to Taylor Swift’s Anti-Hero, who is the problem?",
+      "answer": "Taylor/Me/I"
+  },
+  {
+      "id": 4,
+      "question": "In which Elton John song does he count the headlights on the highway?",
+      "answer": "Tiny Dancer"
+  },
+  {
+      "id": 5,
+      "question": "Who walks warily down the street in the opening verse of Another One Bites The Dust by Queen?",
+      "answer": "Steve"
+  },
+  {
+      "id": 6,
+      "question": "Why does Kylie Minogue want you to move out of her way?",
+      "answer": "Because she is spinning around"
+  },
+  {
+      "id": 7,
+      "question": "The Arctic Monkeys bet that you look good on the dancefloor, dancing to electro-pop like a robot – a robot from which year?",
+      "answer": "1984"
+  },
+  {
+      "id": 8,
+      "question": "The Rolling Stones see a door and want it painted black. What color is the door originally?",
+      "answer": "Red"
+  },
+  {
+      "id": 9,
+      "question": "In Jennifer Lopez’s, Jenny from the Block, which part of New York does she state that she is from?",
+      "answer": "The Bronx"
+  },
+  {
+      "id": 10,
+      "question": "When her partner gets home, what is all Aretha Franklin is asking for?",
+      "answer": "Respect"
+  }
 ]

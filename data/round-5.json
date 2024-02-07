@@ -1,59 +1,55 @@
 [
     {
-        "title": "Technology"
+        "title": "Fill in the Blanks"
     },
     {
         "id": 1,
-        "question": "What does the acronym 'CPU' stand for in computing?",
-        "answer": "Central Processing Unit"
+        "question": "Lehmann Lauren _______________ Toure Cole",
+        "answer": "Sol Campbell"
     },
     {
         "id": 2,
-        "question": "Which company developed the first commercial microprocessor chip?",
-        "answer": "Intel"
+        "question": "Disraeli Gladstone __________________ Gladstone",
+        "answer": "Disraeli"
     },
     {
         "id": 3,
-        "question": "What is the programming language created by James Gosling at Sun Microsystems in 1995?",
-        "answer": "Java"
+        "question": "Paul Young Boy George _________________ Simon Le Bon Sting",
+        "answer": "George Michael"
     },
     {
         "id": 4,
-        "question": "In computer science, what does the acronym 'HTML' stand for?",
-        "answer": "Hypertext Markup Language"
+        "question": "Evie Andrew Jazz Mollie __________________",
+        "answer": "Harry"
     },
     {
         "id": 5,
-        "question": "Which programming language is commonly used for developing web applications?",
-        "answer": "JavaScript"
+        "question": "Shayne Ward Leona Lewis Leon Jackson Alexandra Burke __________________",
+        "answer": "Rage against the Machine"
     },
     {
         "id": 6,
-        "question": "What is the name of the wireless technology used to exchange data over short distances?",
-        "answer": "Bluetooth"
+        "question": "Truman Eisenhower _________________ Johnson",
+        "answer": "John F Kennedy"
     },
-
     {
         "id": 7,
-        "question": "Who is the CEO of Tesla and SpaceX?",
-        "answer": "Elon Musk"
+        "question": "Singleton Noakes __________________ Judd Groom",
+        "answer": "Peter Purves"
     },
-
     {
         "id": 8,
-        "question": "Which social media platform was founded by Mark Zuckerberg?",
-        "answer": "Facebook"
+        "question": "Wilson Heath __________________ Callaghan Thatcher",
+        "answer": "Wilson"
     },
-
     {
         "id": 9,
-        "question": "Which company produces the 'Galaxy' series of smartphones?",
-        "answer": "Samsung"
+        "question": "Villa ____________________ Sunderland",
+        "answer": "Brooking"
     },
-
     {
         "id": 10,
-        "question": "Which technology company is known for its gaming console 'PlayStation'?",
-        "answer": "Sony"
+        "question": "Nile Amazon Yangtze ____________________ Yenisei Yellow",
+        "answer": "Mississippi"
     }
 ]

@@ -1,58 +1,55 @@
 [
     {
-        "title": "Sports"
+        "title": "Movie Quotes"
     },
-
     {
         "id": 1,
-        "question": "In tennis, who holds the record for the most Grand Slam singles titles?",
-        "answer": "Margaret Court"
+        "question": "You sit on a throne of lies",
+        "answer": "Elf"
     },
     {
         "id": 2,
-        "question": "Which British cyclist became the first to win the Tour de France and an Olympic gold medal in the same year?",
-        "answer": "Sir Bradley Wiggins"
+        "question": "Looks like I picked the wrong week to quit sniffing glue",
+        "answer": "Airplane"
     },
     {
         "id": 3,
-        "question": "Who holds the record for the most consecutive wins in Formula 1, winning seven championships in a row?",
-        "answer": "Michael Schumacher"
+        "question": "Exsqueeze me",
+        "answer": "Wayne’s World"
     },
     {
         "id": 4,
-        "question": "Which British snooker player won the World Snooker Championship in 2020?",
-        "answer": "Ronnie O'Sullivan"
+        "question": "They’ve done studies you know. 60% of the time it works every time",
+        "answer": "Anchorman"
     },
     {
         "id": 5,
-        "question": "Who is the first English cricketer to score over 10,000 runs in Test matches?",
-        "answer": "Alastair Cook"
+        "question": "There’s no place like home",
+        "answer": "The Wizard of Oz"
     },
     {
         "id": 6,
-        "question": "How many balls are there on the table at the start of a snooker frame?",
-        "answer": "22"
+        "question": "I’m the king of the world",
+        "answer": "Titanic"
     },
     {
         "id": 7,
-        "question": "Which two sports does the biathlon combine?",
-        "answer": "Skiing & Shooting"
+        "question": "Houston we have a problem",
+        "answer": "Apollo 13"
     },
-
     {
         "id": 8,
-        "question": "Which British female athlete won the heptathlon gold at the 2012 London Olympics?",
-        "answer": "Jessica Ennis-Hill"
+        "question": "Just keep swimming",
+        "answer": "Finding Nemo"
     },
     {
         "id": 9,
-        "question": "In football, who is the all-time top scorer in the UEFA Champions League?",
-        "answer": "Cristiano Ronaldo"
+        "question": "It’s alive! It’s alive!",
+        "answer": "Frankenstein"
     },
     {
         "id": 10,
-        "question": "Which British diver won gold in the 10m platform event at the 2016 Rio Olympics?",
-        "answer": "Tom Daley"
+        "question": "I am your father",
+        "answer": "Star Wars Episode V – The Empire Strikes Back"
     }
-    
 ]

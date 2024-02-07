@@ -1,61 +1,55 @@
 [
     {
-        "title" : "Animals"
+        "title": "Famous Landmarks Round"
     },
-
-
     {
-      "id": 1,
-      "question": "What is a a group of Pandas called?",
-      "answer": "An embarrassment"
+        "id": 1,
+        "question": "statue-of-liberty.jpg",
+        "answer": "Statue of Liberty"
     },
     {
         "id": 2,
-        "question": "Which species of penguin is the largest and heaviest?",
-        "answer": "Emperor penguin"
+        "question": "stonehenge.jpg",
+        "answer": "Stonehenge"
     },
     {
         "id": 3,
-        "question": "What is the only marsupial that lays eggs?",
-        "answer": "Platypus"
+        "question": "the-matterhorn.jpg",
+        "answer": "The Matterhorn"
     },
-      {
+    {
         "id": 4,
-        "question": "What is the non-scientific name for the Loxodonta africana?",
-        "answer": "African elephant"
+        "question": "fort-knox.png",
+        "answer": "Fort Knox"
     },
     {
         "id": 5,
-        "question": "Which mammal is the only flying primate?",
-        "answer": "Colugo (Flying lemur)"
+        "question": "the-little-mermaid.png",
+        "answer": "The Little Mermaid"
     },
-
-      {
-          "id": 6,
-          "question": "What is a a group of cats called?",
-          "answer": "Cats"
-      },
-
-      {
+    {
+        "id": 6,
+        "question": "golden-gate-bridge.jpg",
+        "answer": "Golden Gate Bridge"
+    },
+    {
         "id": 7,
-        "question": "Which animal can regrow its lost tail?",
-        "answer": "Lizard"
+        "question": "empire-state-building.jpg",
+        "answer": "Empire State Building"
     },
-      {
+    {
         "id": 8,
-        "question": "What is the largest big cat in the world?",
-        "answer": "Siberian tiger"
+        "question": "colleseum.jpg",
+        "answer": "Colosseum"
     },
-
     {
         "id": 9,
-        "question": "What is the world's smallest mammal?",
-        "answer": "Bumblebee bat"
+        "question": "mount-fuji.jpg",
+        "answer": "Mount Fuji"
     },
     {
         "id": 10,
-        "question": "Which bird is known for its long, downward-curved bill and is associated with tropical regions?",
-        "answer": "Toucan"
+        "question": "melbourne-cricket-ground.png",
+        "answer": "Melbourne Cricket Ground"
     }
 ]
-  

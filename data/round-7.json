@@ -1,55 +1,62 @@
 [
     {
-        "title": "Who Said This"
+        "title" : "Music"
     },
+
+
     {
-        "id": 1,
-        "question": "In my career, there’s many things I’ve won and many things I’ve achieved, but for me my greatest achievement is my children and my family. It’s about being a good husband, just being connected to family as much as possible.",
-        "answer": "David Beckham"
+      "id": 1,
+      "question": "C _ _ _ _ _  P _ _ _ _ _ - P _ _ _",
+      "answer": "Common People - Pulp"
     },
     {
         "id": 2,
-        "question": "They liked her, they liked her, they regarded her as one of the people. She was the people’s princess.",
-        "answer": "Tony Blair"
+        "question": "I  S _ _  A  L _ _ _ _ _  P _ _ _ _ _ - A _ _ _ _ _  F _ _ _ _ _ _ _",
+        "answer": "I Say A Little Prayer - Aretha Franklin"
     },
+
     {
         "id": 3,
-        "question": "We have it totally under control. It’s one person coming from China. It’s going to be just fine.",
-        "answer": "Donald Trump"
-    },
-    {
-        "id": 4,
-        "question": "As of 9am today there have been three hundred thousand and thirty four, nine hundred and seventy four thousand tests carried out.",
-        "answer": "Priti Patel"
-    },
+        "question": "T _ _ _ _ - B _ _ _ _ _ _  S _ _ _ _ _",
+        "answer": "Toxic - Britney Spears"
+      },
+      {
+          "id": 4,
+          "question": "C _ _ _ _  I _  L _ _ _ - B _ _ _ _ _ _",
+          "answer": "Crazy In Love- Beyonce"
+      },
+
     {
         "id": 5,
-        "question": "Trying is the first step towards failure.",
-        "answer": "Homer Simpson"
-    },
-    {
-        "id": 6,
-        "question": "I have a skin disorder that destroys the pigmentation of my skin, it’s something I cannot help, ok?",
-        "answer": "Michael Jackson"
-    },
+        "question": "I _  T _ _  A _ _  T _ _ _ _ _ _ - P _ _ _  C _ _ _ _ _ _",
+        "answer": "In The Air Tonight - Phil Collins"
+      },
+      {
+          "id": 6,
+          "question": "I _ _ _ _ _ _ _ _  D _ _ _ - T _ _  C _ _ _ ",
+          "answer": "Inbetween Days - The Cure"
+      },
+
     {
         "id": 7,
-        "question": "I did not have sexual relations with that woman.",
-        "answer": "Bill Clinton"
-    },
-    {
-        "id": 8,
-        "question": "A group of reptilian humanoids, called The Babylon Brotherhood, control humanity.",
-        "answer": "David Icke"
-    },
+        "question": "W _ _ _ _ _ _  M _ - E _ _ _ _ _",
+        "answer": "Without Me -Eminem"
+      },
+      {
+          "id": 8,
+          "question": "C _ _ _  U _ _ _ _ _ - R _ _ _ _ _  W _ _ _ _ _ _ _",
+          "answer": "Come Undone - Robbie Williams"
+      },
+
     {
         "id": 9,
-        "question": "I came, I saw, I conquered.",
-        "answer": "Julius Caesar"
-    },
-    {
-        "id": 10,
-        "question": "I have nothing to offer but blood, toil, tears and sweat.",
-        "answer": "Winston Churchill"
-    }
+        "question": "G _ _ _  D _ _ _ _ _ - K _ _ _ _  W _ _ _",
+        "answer": "Gold Digger - Kanye West"
+      },
+      {
+          "id": 10,
+          "question": "H _ _ _ - L _ _ _ _ _ _ _ _ _  F _ _ _ _ _",
+          "answer": "High - Lighthouse Family"
+      }
 ]
+  

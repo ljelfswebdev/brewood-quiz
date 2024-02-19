@@ -5,25 +5,25 @@ const RoundList = () => {
                 Round 1 - Sport 
             </li>
             <li>
-                Round 2 - Animals
+                Round 2 - Faces
             </li>
             <li>
-                Round 3 - Geography
+                Round 3 - Space
             </li>
             <li>
                 Round 4 - History
             </li>
             <li>
-                Round 5 - Technology
+                Round 5 - Film
             </li>
             <li>
-                Round 6 - Acronyms
+                Round 6 - US Presidents
             </li>
             <li>
                 Round 7 - Music
             </li>
             <li>
-                Round 8 - Movie Villains
+                Round 8 - Biology
             </li>
         </ul>
      );

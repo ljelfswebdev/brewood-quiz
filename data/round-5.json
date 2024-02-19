@@ -1,55 +1,55 @@
 [
     {
-        "title": "Fill in the Blanks"
+        "title": "Film"
     },
     {
         "id": 1,
-        "question": "Lehmann Lauren _______________ Toure Cole",
-        "answer": "Sol Campbell"
+        "question": "In which movie did Tom Hanks play the character Captain John Miller?",
+        "answer": "Saving Private Ryan."
     },
     {
         "id": 2,
-        "question": "Disraeli Gladstone __________________ Gladstone",
-        "answer": "Disraeli"
+        "question": "Who won the Academy Award for Best Actor for his role in 'The Revenant'?",
+        "answer": "Leonardo DiCaprio."
     },
     {
         "id": 3,
-        "question": "Paul Young Boy George _________________ Simon Le Bon Sting",
-        "answer": "George Michael"
+        "question": "Who played the character of Hannibal Lecter in the movie 'The Silence of the Lambs'?",
+        "answer": "Anthony Hopkins."
     },
     {
         "id": 4,
-        "question": "Evie Andrew Jazz Mollie __________________",
-        "answer": "Harry"
+        "question": "Which actress starred in the movie 'Pretty Woman' alongside Richard Gere?",
+        "answer": "Julia Roberts."
     },
     {
         "id": 5,
-        "question": "Shayne Ward Leona Lewis Leon Jackson Alexandra Burke __________________",
-        "answer": "Rage against the Machine"
+        "question": "Who directed the movie 'Schindler's List'?",
+        "answer": "Steven Spielberg."
     },
     {
         "id": 6,
-        "question": "Truman Eisenhower _________________ Johnson",
-        "answer": "John F Kennedy"
+        "question": "What is the name of the fictional African country featured in the movie 'Black Panther'?",
+        "answer": "Wakanda."
     },
     {
         "id": 7,
-        "question": "Singleton Noakes __________________ Judd Groom",
-        "answer": "Peter Purves"
+        "question": "Who directed the movie 'Inception'?",
+        "answer": "Christopher Nolan."
     },
     {
         "id": 8,
-        "question": "Wilson Heath __________________ Callaghan Thatcher",
-        "answer": "Wilson"
+        "question": "Which actor played the role of Tony Stark/Iron Man in the Marvel Cinematic Universe?",
+        "answer": "Robert Downey Jr."
     },
     {
         "id": 9,
-        "question": "Villa ____________________ Sunderland",
-        "answer": "Brooking"
+        "question": "What is the name of the character played by Johnny Depp in the 'Pirates of the Caribbean' series?",
+        "answer": "Captain Jack Sparrow."
     },
     {
         "id": 10,
-        "question": "Nile Amazon Yangtze ____________________ Yenisei Yellow",
-        "answer": "Mississippi"
+        "question": "What is the name of the planet where the Na'vi live in the movie 'Avatar'?",
+        "answer": "Pandora."
     }
 ]

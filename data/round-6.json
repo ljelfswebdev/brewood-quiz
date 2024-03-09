@@ -1,55 +1,61 @@
 [
-  {
-      "title": "Music"
-  },
-  {
-      "id": 1,
-      "question": "According to Dreams by Fleetwood Mac, what only happens when it’s raining?",
-      "answer": "Thunder"
-  },
-  {
-      "id": 2,
-      "question": "How many problems does Jay-Z have?",
-      "answer": "99"
-  },
-  {
-      "id": 3,
-      "question": "According to Taylor Swift’s Anti-Hero, who is the problem?",
-      "answer": "Taylor/Me/I"
-  },
-  {
-      "id": 4,
-      "question": "In which Elton John song does he count the headlights on the highway?",
-      "answer": "Tiny Dancer"
-  },
-  {
-      "id": 5,
-      "question": "Who walks warily down the street in the opening verse of Another One Bites The Dust by Queen?",
-      "answer": "Steve"
-  },
-  {
-      "id": 6,
-      "question": "Why does Kylie Minogue want you to move out of her way?",
-      "answer": "Because she is spinning around"
-  },
-  {
-      "id": 7,
-      "question": "The Arctic Monkeys bet that you look good on the dancefloor, dancing to electro-pop like a robot – a robot from which year?",
-      "answer": "1984"
-  },
-  {
-      "id": 8,
-      "question": "The Rolling Stones see a door and want it painted black. What color is the door originally?",
-      "answer": "Red"
-  },
-  {
-      "id": 9,
-      "question": "In Jennifer Lopez’s, Jenny from the Block, which part of New York does she state that she is from?",
-      "answer": "The Bronx"
-  },
-  {
-      "id": 10,
-      "question": "When her partner gets home, what is all Aretha Franklin is asking for?",
-      "answer": "Respect"
-  }
+    {
+        "title": "If it Smells"
+    },
+
+
+    {
+        "id": 1,
+        "question": "What is the chemical symbol for gold?",
+        "answer": "Au"
+    },
+    {
+        "id": 2,
+        "question": "What is the common name for sodium chloride?",
+        "answer": "Table salt"
+    },
+
+    {
+        "id": 3,
+        "question": "What is the lightest element on the periodic table?",
+        "answer": "Hydrogen"
+    },
+    {
+        "id": 4,
+        "question": "What is the boiling point of water in Kelvin?",
+        "answer": "373K"
+    },
+
+    {
+        "id": 5,
+        "question": "What is the chemical formula of glucose?",
+        "answer": "C6H12O6"
+    },
+    {
+        "id": 6,
+        "question": "What is the process of converting a gas to a liquid called?",
+        "answer": "Condensing or condensation"
+    },
+
+    {
+        "id": 7,
+        "question": "What is the most abundant element in the earth’s crust?",
+        "answer": "Oxygen"
+    },
+    {
+        "id": 8,
+        "question": "What is the most abundant element in the whole universe?",
+        "answer": "Hydrogen"
+    },
+
+    {
+        "id": 9,
+        "question": "Nitrous oxide is more commonly known as?",
+        "answer": "Laughing gas"
+    },
+    {
+        "id": 10,
+        "question": "Ascorbic acid is better known as what?",
+        "answer": "Vitamin C"
+    }
 ]

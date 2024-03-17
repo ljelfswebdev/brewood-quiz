@@ -1,56 +1,72 @@
 [
   {
-      "title": "History"
-  },
-  {
-      "id": 1,
-      "question": "Which country was the first to declare war in World War I?",
-      "answer": "Austria-Hungary."
-  },
-  {
-      "id": 2,
-      "question": "What was the name of the German offensive strategy on the Western Front during World War I?",
-      "answer": "The Schlieffen Plan."
-  },
-  {
-      "id": 3,
-      "question": "Who was the leader of Germany during World War I?",
-      "answer": "Kaiser Wilhelm II."
-  },
-  {
-      "id": 4,
-      "question": "What was the name of the British passenger liner sunk by a German submarine in 1915, leading to American outrage?",
-      "answer": "The Lusitania."
-  },
-  {
-      "id": 5,
-      "question": "What was the name of the Allied invasion of Normandy in June 1944?",
-      "answer": "Operation Overlord."
-  },
-  {
-      "id": 6,
-      "question": "What was the name of the conference where Allied leaders decided on the post-war division of Germany?",
-      "answer": "The Yalta Conference."
-  },
-  {
-      "id": 7,
-      "question": "What was the name of the atomic bomb dropped on Hiroshima, Japan, in August 1945?",
-      "answer": "Little Boy."
-  },
-  {
-      "id": 8,
-      "question": "What was the code name for the German invasion of the Soviet Union in 1941?",
-      "answer": "Operation Barbarossa."
+      "title": "Spain"
   },
 
-  {
-      "id": 9,
-      "question": "What was the name of the French defensive line built along the German border during World War II?",
-      "answer": "The Maginot Line."
-  },
-  {
-      "id": 10,
-      "question": "Which city in Japan was targeted by the second atomic bomb dropped by the United States in August 1945?",
-      "answer": "Nagasaki."
-  }
+
+{
+    "id": 1,
+    "question": "How many countries does Spain share a land border with?",
+    "answer": "5 - France, Portugal, Andorra, Morrocco, Gibraltar"
+},
+
+{
+    "id": 2,
+    "question": "What is the name of the famous Spanish dish consisting of rice, saffron, and various meats and vegetables?",
+    "answer": "Paella"
+},
+
+{
+    "id": 3,
+    "question": "What is the name of the Spanish national dance?",
+    "answer": "Flamenco"
+},
+
+{
+    "id": 4,
+    "question": "Which famous Spanish architect is known for his unique style, including the Sagrada Familia in Barcelona?",
+    "answer": "Antoni Gaudí"
+},
+
+{
+    "id": 5,
+    "question": "Which Spanish city is known for its annual 'Running of the Bulls' festival?",
+    "answer": "Pamplona"
+},
+
+
+{
+    "id": 6,
+    "question": "What is the name of the famous Spanish artist known for his surrealist paintings?",
+    "answer": "Salvador Dalí"
+},
+
+
+{
+    "id": 7,
+    "question": "What is the name of the mountain range in southern Spain known for its unique rock formations?",
+    "answer": "Sierra Nevada"
+},
+
+
+{
+    "id": 8,
+    "question": "What is the name of the famous Spanish festival that involves building large, temporary structures out of wood and cardboard?",
+    "answer": "Fallas (Las Fallas de Valencia)"
+},
+
+{
+    "id": 9,
+    "question": "Which Spanish city is known for its ancient Alhambra palace complex?",
+    "answer": "Granada"
+},
+{
+    "id": 10,
+    "question": "Which Spanish artist painted 'Guernica', a famous anti-war mural depicting the bombing of a Basque town during the Spanish Civil War?",
+    "answer": "Pablo Picasso"
+    
+}
+
+
+
 ]

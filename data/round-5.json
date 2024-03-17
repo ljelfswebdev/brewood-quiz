@@ -1,55 +1,66 @@
 [
     {
-        "title": "Film"
+        "title": "TV"
     },
     {
         "id": 1,
-        "question": "In which movie did Tom Hanks play the character Captain John Miller?",
-        "answer": "Saving Private Ryan."
+        "question": "What is the longest-running soap opera on UK television?",
+        "answer": "Coronation Street"
     },
+    
     {
         "id": 2,
-        "question": "Who won the Academy Award for Best Actor for his role in 'The Revenant'?",
-        "answer": "Leonardo DiCaprio."
+        "question": "Which British TV show features a time-traveling alien known as The Doctor?",
+        "answer": "Doctor Who"
     },
+    
     {
         "id": 3,
-        "question": "Who played the character of Hannibal Lecter in the movie 'The Silence of the Lambs'?",
-        "answer": "Anthony Hopkins."
+        "question": "What is the name of the British period drama series set in the Yorkshire Dales?",
+        "answer": "Emmerdale"
     },
+    
+    
     {
         "id": 4,
-        "question": "Which actress starred in the movie 'Pretty Woman' alongside Richard Gere?",
-        "answer": "Julia Roberts."
+        "question": "Which British TV series follows the lives of the Crawley family and their servants in the early 20th century?",
+        "answer": "Downton Abbey"
     },
+    
+    
     {
         "id": 5,
-        "question": "Who directed the movie 'Schindler's List'?",
-        "answer": "Steven Spielberg."
+        "question": "What is the name of the British TV series that follows the lives of the Shelby crime family in post-World War I Birmingham?",
+        "answer": "Peaky Blinders"
     },
+    
     {
         "id": 6,
-        "question": "What is the name of the fictional African country featured in the movie 'Black Panther'?",
-        "answer": "Wakanda."
+        "question": "Which British sitcom revolves around the lives of brothers living in the fictional Nelson Mandela House?",
+        "answer": "Only Fools and Horses"
     },
     {
         "id": 7,
-        "question": "Who directed the movie 'Inception'?",
-        "answer": "Christopher Nolan."
+        "question": "What is the name of the British TV series that follows the lives of several families in the fictional Albert Square?",
+        "answer": "EastEnders"
     },
+    
     {
         "id": 8,
-        "question": "Which actor played the role of Tony Stark/Iron Man in the Marvel Cinematic Universe?",
-        "answer": "Robert Downey Jr."
+        "question": "Which British TV series features a group of amateur bakers competing in a series of rounds?",
+        "answer": "The Great British Bake Off (or The Great British Baking Show)"
     },
+    
+    
     {
         "id": 9,
-        "question": "What is the name of the character played by Johnny Depp in the 'Pirates of the Caribbean' series?",
-        "answer": "Captain Jack Sparrow."
+        "question": "Which British TV show features a duo of quirky detectives investigating unusual crimes in the fictional town of Summerisle?",
+        "answer": "Death in Paradise"
     },
+    
     {
         "id": 10,
-        "question": "What is the name of the planet where the Na'vi live in the movie 'Avatar'?",
-        "answer": "Pandora."
+        "question": "Which British TV series follows the lives of the residents of a cul-de-sac in suburban Manchester?",
+        "answer": "Cold Feet"
     }
 ]

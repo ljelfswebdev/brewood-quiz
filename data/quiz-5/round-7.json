@@ -1,0 +1,62 @@
+[
+    {
+        "title" : "Music"
+    },
+
+
+    {
+      "id": 1,
+      "question": "C _ _ _ _ _  P _ _ _ _ _ - P _ _ _",
+      "answer": "Common People - Pulp"
+    },
+    {
+        "id": 2,
+        "question": "I  S _ _  A  L _ _ _ _ _  P _ _ _ _ _ - A _ _ _ _ _  F _ _ _ _ _ _ _",
+        "answer": "I Say A Little Prayer - Aretha Franklin"
+    },
+
+    {
+        "id": 3,
+        "question": "T _ _ _ _ - B _ _ _ _ _ _  S _ _ _ _ _",
+        "answer": "Toxic - Britney Spears"
+      },
+      {
+          "id": 4,
+          "question": "C _ _ _ _  I _  L _ _ _ - B _ _ _ _ _ _",
+          "answer": "Crazy In Love- Beyonce"
+      },
+
+    {
+        "id": 5,
+        "question": "I _  T _ _  A _ _  T _ _ _ _ _ _ - P _ _ _  C _ _ _ _ _ _",
+        "answer": "In The Air Tonight - Phil Collins"
+      },
+      {
+          "id": 6,
+          "question": "I _ _ _ _ _ _ _ _  D _ _ _ - T _ _  C _ _ _ ",
+          "answer": "Inbetween Days - The Cure"
+      },
+
+    {
+        "id": 7,
+        "question": "W _ _ _ _ _ _  M _ - E _ _ _ _ _",
+        "answer": "Without Me -Eminem"
+      },
+      {
+          "id": 8,
+          "question": "C _ _ _  U _ _ _ _ _ - R _ _ _ _ _  W _ _ _ _ _ _ _",
+          "answer": "Come Undone - Robbie Williams"
+      },
+
+    {
+        "id": 9,
+        "question": "G _ _ _  D _ _ _ _ _ - K _ _ _ _  W _ _ _",
+        "answer": "Gold Digger - Kanye West"
+      },
+      {
+          "id": 10,
+          "question": "H _ _ _ - L _ _ _ _ _ _ _ _ _  F _ _ _ _ _",
+          "answer": "High - Lighthouse Family"
+      }
+]
+  

@@ -6,56 +6,56 @@
 
   {
     "id": 1,
-    "question": "mel-gibson.jpg",
-    "answer": "Mel Gibson"
+    "question": "nicolas-cage.jpg",
+    "answer": "Nicolas Cage"
   },
   {
       "id": 2,
-      "question": "coco-chanel.jpeg",
-      "answer": "Coco Chanel"
+      "question": "jlh.jpg",
+      "answer": "Jennifer Love Hewitt"
   },
 
   {
       "id": 3,
-      "question": "susie-dent.jpg",
-      "answer": "Susie Dent"
+      "question": "gronkjaer.jpg",
+      "answer": "Jesper Gronkjaer"
     },
     {
         "id": 4,
-        "question": "scarlett-johnasson.jpeg",
-        "answer": "Scarlett Johnasson"
+        "question": "mickjagger.jpg",
+        "answer": "Mick Jagger"
     },
 
   {
       "id": 5,
-      "question": "henry-7.jpg",
-      "answer": "Henry VII"
+      "question": "holy.jpg",
+      "answer": "Evander Holyfield"
     },
     {
         "id": 6,
-        "question": "angelina-jolie.jpg",
-        "answer": "Angelina Jolie"
+        "question": "nat.jpg",
+        "answer": "Natalie Cassidy"
     },
 
   {
       "id": 7,
-      "question": "cs-lewis.jpeg",
-      "answer": "C. S. Lewis"
+      "question": "opp.jpg",
+      "answer": "Robert Oppenheimer"
     },
     {
         "id": 8,
-        "question": "jason-manford.jpeg",
-        "answer": "Jason Manford"
+        "question": "sbc.jpg",
+        "answer": "Sasha Baron Cohen"
     },
 
   {
       "id": 9,
-      "question": "sting.jpg",
-      "answer": "Sting"
+      "question": "aaron-paul.jpg",
+      "answer": "Aaron Paul"
     },
     {
         "id": 10,
-        "question": "seth-mcfarlene.jpg",
-        "answer": "Seth Mcfarlene"
+        "question": "lucy.jpg",
+        "answer": "Lucy Spraggan"
     }
 ]

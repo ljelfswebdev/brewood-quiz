@@ -1,0 +1,59 @@
+[
+    {
+        "title": "Space"
+    },
+    {
+        "id": 1,
+        "question": "What is the name of the nearest star to Earth, apart from the Sun?",
+        "answer": "Proxima Centauri."
+    },
+    {
+        "id": 2,
+        "question": "What is the name of the phenomenon where a massive star collapses under its own gravity, resulting in an explosion?",
+        "answer": "Supernova."
+    },
+    
+    {
+        "id": 3,
+        "question": "What is the name of the first artificial satellite launched into space?",
+        "answer": "Sputnik 1."
+    },
+    {
+        "id": 4,
+        "question": "What is the name of the spacecraft that first landed humans on the Moon?",
+        "answer": "Apollo 11."
+    },
+    {
+        "id": 5,
+        "question": "What is the name of the closest galaxy to the Milky Way?",
+        "answer": "The Andromeda Galaxy."
+    },
+
+    {
+        "id": 6,
+        "question": "What is the name of the largest volcano in the Solar System, located on Mars?",
+        "answer": "Olympus Mons."
+    },
+    
+    {
+        "id": 7,
+        "question": "Which planet has the fastest rotation, completing a day in just under 10 hours?",
+        "answer": "Jupiter."
+    },
+
+    {
+        "id": 8,
+        "question": "Which planet has the highest average surface temperature?",
+        "answer": "Venus."
+    },
+    {
+        "id": 9,
+        "question": "What is the name of the first space telescope launched into orbit by NASA in 1990?",
+        "answer": "The Hubble Space Telescope."
+    },
+    {
+        "id": 10,
+        "question": "Which planet has the most eccentric orbit in our Solar System?",
+        "answer": "Mercury."
+    }
+]

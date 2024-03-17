@@ -1,0 +1,56 @@
+[
+  {
+      "title": "History"
+  },
+  {
+      "id": 1,
+      "question": "Which country was the first to declare war in World War I?",
+      "answer": "Austria-Hungary."
+  },
+  {
+      "id": 2,
+      "question": "What was the name of the German offensive strategy on the Western Front during World War I?",
+      "answer": "The Schlieffen Plan."
+  },
+  {
+      "id": 3,
+      "question": "Who was the leader of Germany during World War I?",
+      "answer": "Kaiser Wilhelm II."
+  },
+  {
+      "id": 4,
+      "question": "What was the name of the British passenger liner sunk by a German submarine in 1915, leading to American outrage?",
+      "answer": "The Lusitania."
+  },
+  {
+      "id": 5,
+      "question": "What was the name of the Allied invasion of Normandy in June 1944?",
+      "answer": "Operation Overlord."
+  },
+  {
+      "id": 6,
+      "question": "What was the name of the conference where Allied leaders decided on the post-war division of Germany?",
+      "answer": "The Yalta Conference."
+  },
+  {
+      "id": 7,
+      "question": "What was the name of the atomic bomb dropped on Hiroshima, Japan, in August 1945?",
+      "answer": "Little Boy."
+  },
+  {
+      "id": 8,
+      "question": "What was the code name for the German invasion of the Soviet Union in 1941?",
+      "answer": "Operation Barbarossa."
+  },
+
+  {
+      "id": 9,
+      "question": "What was the name of the French defensive line built along the German border during World War II?",
+      "answer": "The Maginot Line."
+  },
+  {
+      "id": 10,
+      "question": "Which city in Japan was targeted by the second atomic bomb dropped by the United States in August 1945?",
+      "answer": "Nagasaki."
+  }
+]

@@ -6,57 +6,53 @@
 
     {
       "id": 1,
-      "question": "C _ _ _ _ _  P _ _ _ _ _ - P _ _ _",
-      "answer": "Common People - Pulp"
-    },
-    {
-        "id": 2,
-        "question": "I  S _ _  A  L _ _ _ _ _  P _ _ _ _ _ - A _ _ _ _ _  F _ _ _ _ _ _ _",
-        "answer": "I Say A Little Prayer - Aretha Franklin"
-    },
-
-    {
-        "id": 3,
-        "question": "T _ _ _ _ - B _ _ _ _ _ _  S _ _ _ _ _",
-        "answer": "Toxic - Britney Spears"
+      "question": "T _ _ B _ _ _ O _ S _ _ _ _ _ - D _ _ H _ _ _ _ _ ",
+      "answer": "The Boys of Summer - Don Henley"
       },
       {
-          "id": 4,
-          "question": "C _ _ _ _  I _  L _ _ _ - B _ _ _ _ _ _",
-          "answer": "Crazy In Love- Beyonce"
-      },
-
-    {
-        "id": 5,
-        "question": "I _  T _ _  A _ _  T _ _ _ _ _ _ - P _ _ _  C _ _ _ _ _ _",
-        "answer": "In The Air Tonight - Phil Collins"
+      "id": 2,
+      "question": "W _ D _ _ _ _ _ S _ _ _ _ T _ _ F _ _ _ - B _ _ _ _ J _ _ _ ",
+      "answer": "We Didn't Start the Fire - Billy Joel"
       },
       {
-          "id": 6,
-          "question": "I _ _ _ _ _ _ _ _  D _ _ _ - T _ _  C _ _ _ ",
-          "answer": "Inbetween Days - The Cure"
-      },
-
-    {
-        "id": 7,
-        "question": "W _ _ _ _ _ _  M _ - E _ _ _ _ _",
-        "answer": "Without Me -Eminem"
+      "id": 3,
+      "question": "W _ B _ _ _ T _ _ _ C _ _ _ - S _ _ _ _ _ _ ",
+      "answer": "We Built This City - Starship"
       },
       {
-          "id": 8,
-          "question": "C _ _ _  U _ _ _ _ _ - R _ _ _ _ _  W _ _ _ _ _ _ _",
-          "answer": "Come Undone - Robbie Williams"
-      },
-
-    {
-        "id": 9,
-        "question": "G _ _ _  D _ _ _ _ _ - K _ _ _ _  W _ _ _",
-        "answer": "Gold Digger - Kanye West"
+      "id": 4,
+      "question": "B _ _ _ _ E _ _ _ G _ _ _ - V _ _ M _ _ _ _ _ _ _ ",
+      "answer": "Brown Eyed Girl - Van Morrison"
       },
       {
-          "id": 10,
-          "question": "H _ _ _ - L _ _ _ _ _ _ _ _ _  F _ _ _ _ _",
-          "answer": "High - Lighthouse Family"
+      "id": 5,
+      "question": "Y _ _ _ L _ _ _ - T _ _ O _ _ _ _ _ _ ",
+      "answer": "Your Love - The Outfield"
+      },
+      {
+      "id": 6,
+      "question": "W _ _ _ O _ L _ _ _ - D _ _ _ S _ _ _ _ _ _ ",
+      "answer": "Walk of Life - Dire Straits"
+      },
+      {
+      "id": 7,
+      "question": "D _ _ _ _ O _ - A _ _ _ _ _ _ _ _ ",
+      "answer": "Dream On - Aerosmith"
+      },
+      {
+      "id": 8,
+      "question": "D _ _ _ _ _ _ I _ T _ _ D _ _ _ - B _ _ _ _ _ S _ _ _ _ _",
+      "answer" : "Dancing in the dark - Bruce Spingsteen"
+      },
+      {
+      "id": 9,
+      "question": "G _ Y _ _ _ O _ _ W _ _ F _ _ - F _ _ _ _ _ _ _ M _ _",
+      "answer": "Go Your Own Way - Fleetwood Mac"
+      },
+      {
+      "id": 10,
+      "question": "S _ _ _ _ H _ _ _ _ A _ _ _ _ _ _ _ - L _ _ _ _ _ _ S _ _ _ _ _ _",
+      "answer": "Sweet Home Alabama - Lynyrd Skynyrd"
       }
 ]
   

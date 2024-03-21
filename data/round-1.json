@@ -1,24 +1,24 @@
 [
     {
-        "title" : "Football League"
+        "title" : "English Football"
     },
 
 {
     "id": 1,
-    "question": "Which English Football League club has won the most FA Cup titles?",
-    "answer": "Arsenal"
+    "question": "Which English Football League club has lost the most FA Cup finals?",
+    "answer": "Manchester United - 9 times"
 },
 
 {
     "id": 2,
-    "question": "Who holds the record for the most consecutive English Football League appearances?",
+    "question": "Who holds the record for the most English Football League appearances?",
     "answer": "Peter Shilton (1,005 appearances)"
 },
 
 {
     "id": 3,
     "question": "Which player has the most assists in a single Premier League season?",
-    "answer": "Thierry Henry (20 assists in 2002-2003)"
+    "answer": "Thierry Henry & Kevin De Bruyne (20 assists in 2002-2003)"
 },
 
 
@@ -42,8 +42,8 @@
 
 {
     "id": 7,
-    "question": "Which team holds the record for the most consecutive clean sheets in the Premier League?",
-    "answer": "Manchester United (14 clean sheets in 2008-2009)"
+    "question": "Which goalkeeper holds the record for the most consecutive clean sheets in the Premier League?",
+    "answer": "Edwin Van Der Sar (14 clean sheets in 2008-2009)"
 },
 
 {

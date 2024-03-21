@@ -11,12 +11,12 @@
       },
       {
       "id": 2,
-      "question": "W _ D _ _ _ _ _ S _ _ _ _ T _ _ F _ _ _ - B _ _ _ _ J _ _ _ ",
+      "question": "W _ D _ _ _ _'_ S _ _ _ _ T _ _ F _ _ _ - B _ _ _ _ J _ _ _ ",
       "answer": "We Didn't Start the Fire - Billy Joel"
       },
       {
       "id": 3,
-      "question": "W _ B _ _ _ T _ _ _ C _ _ _ - S _ _ _ _ _ _ ",
+      "question": "W _ B _ _ _ _ T _ _ _ C _ _ _ - S _ _ _ _ _ _ ",
       "answer": "We Built This City - Starship"
       },
       {
@@ -41,17 +41,17 @@
       },
       {
       "id": 8,
-      "question": "D _ _ _ _ _ _ I _ T _ _ D _ _ _ - B _ _ _ _ _ S _ _ _ _ _",
-      "answer" : "Dancing in the dark - Bruce Spingsteen"
+      "question": "D _ _ _ _ _ _ I _ T _ _ D _ _ _ - B _ _ _ _  S _ _ _ _ _ _ _ _ _ _",
+      "answer" : "Dancing in the dark - Bruce Springsteen"
       },
       {
       "id": 9,
-      "question": "G _ Y _ _ _ O _ _ W _ _ F _ _ - F _ _ _ _ _ _ _ M _ _",
+      "question": "G _ Y _ _ _ O _ _ W _ _ - F _ _ _ _ _ _ _ _ M _ _",
       "answer": "Go Your Own Way - Fleetwood Mac"
       },
       {
       "id": 10,
-      "question": "S _ _ _ _ H _ _ _ _ A _ _ _ _ _ _ _ - L _ _ _ _ _ _ S _ _ _ _ _ _",
+      "question": "S _ _ _ _ H _ _ _  A _ _ _ _ _ _ - L _ _ _ _ _  S _ _ _ _ _ _",
       "answer": "Sweet Home Alabama - Lynyrd Skynyrd"
       }
 ]

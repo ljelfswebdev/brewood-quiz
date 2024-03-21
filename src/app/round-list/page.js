@@ -2,7 +2,7 @@ const RoundList = () => {
     return ( 
         <ul className="page__list">
             <li>
-                Round 1 - Sport 
+                Round 1 - English Football 
             </li>
             <li>
                 Round 2 - Faces

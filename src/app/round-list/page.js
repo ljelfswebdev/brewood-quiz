@@ -2,28 +2,28 @@ const RoundList = () => {
     return ( 
         <ul className="page__list">
             <li>
-                Round 1 - How Long Ago?
+                Round 1 - What comes 5th?
             </li>
             <li>
-                Round 2 - Where Did I Hear That?
+                Round 2 - Green
             </li>
             <li>
-                Round 3 - Where Am I Eating?
+                Round 3 - Lost
             </li>
             <li>
-                Round 4 - Should Have retired Earlier?
+                Round 4 - Let's Play
             </li>
             <li>
-                Round 5 - On My Holidays
+                Round 5 - Funny
             </li>
             <li>
-                Round 6 - If it Smells
+                Round 6 - Red
             </li>
             <li>
-                Round 7 - Connections
+                Round 7 - Pardon
             </li>
             <li>
-                Round 8 - I've Heard This Somewhere Before
+                Round 8 - Maybe
             </li>
         </ul>
      );

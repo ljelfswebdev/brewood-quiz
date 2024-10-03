@@ -1,0 +1,55 @@
+[
+    {
+        "title": "Red"
+    },
+    {
+        "id": 1,
+        "question": "Who wrote the song red, red wine?",
+        "answer": "Neil Diamond"
+    },
+    {
+        "id": 2,
+        "question": "Manfred von Richthofen is better known by what name?",
+        "answer": "The Red Baron"
+    },
+    {
+        "id": 3,
+        "question": "Red Star Belgrade is the most successful football team in which present-day country?",
+        "answer": "Serbia"
+    },
+    {
+        "id": 4,
+        "question": "Which horse won the 2001 Grand National at 33-1?",
+        "answer": "Red Marauder"
+    },
+    {
+        "id": 5,
+        "question": "How many bulls are there in the logo of the Red Bull brand of energy drink?",
+        "answer": "Two"
+    },
+    {
+        "id": 6,
+        "question": "The Cathedral of Vasily the Blessed in Red Square in Moscow is better known by what name?",
+        "answer": "Saint Basil’s Cathedral"
+    },
+    {
+        "id": 7,
+        "question": "In the science fiction sitcom Red Dwarf, what does the H on the centre of Rimmer’s forehead stand for?",
+        "answer": "Hologram"
+    },
+    {
+        "id": 8,
+        "question": "What is the acid found in the body of red ants?",
+        "answer": "Formic acid or methanoic acid"
+    },
+    {
+        "id": 9,
+        "question": "Which German singer rose to fame in 1983 with the song 99 Red Balloons?",
+        "answer": "Nena"
+    },
+    {
+        "id": 10,
+        "question": "The Red Wedding was an event which happened during an episode of which TV series?",
+        "answer": "Game of Thrones"
+    }
+]

@@ -1,7 +1,7 @@
 "use client"
 import React, { useState } from 'react';
 import Question from '../../../components/slide';
-import data from '../../../data/round-1.json';
+import data from '../../../data/round-5.json';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { Pagination } from 'swiper/modules';
 import createPagination from '../../../components/pagination';
@@ -25,7 +25,7 @@ const RoundFive = ({ folder = '/', is_image_round = false }) => {
                 className="swiper"
                 onSlideChange={handleSlideChange}
             >
-                {hasTitle && <SwiperSlide className="page__slide">Round 3 - {titleItem.title}</SwiperSlide>}
+                {hasTitle && <SwiperSlide className="page__slide">Round 5 - {titleItem.title}</SwiperSlide>}
 
                 {data.map((item, index) => (
                     item.id ? (

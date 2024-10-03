@@ -25,7 +25,7 @@ const RoundSix = ({ folder = '/', is_image_round = false }) => {
                 className="swiper"
                 onSlideChange={handleSlideChange}
             >
-                {hasTitle && <SwiperSlide className="page__slide">Round 3 - {titleItem.title}</SwiperSlide>}
+                {hasTitle && <SwiperSlide className="page__slide">Round 6 - {titleItem.title}</SwiperSlide>}
 
                 {data.map((item, index) => (
                     item.id ? (

@@ -1,55 +1,67 @@
 [
     {
-        "title": "Green"
+        "title": "History"
     },
+
+
     {
         "id": 1,
-        "question": "Green plants make there own food through a process called photosynthesis which uses a green pigment called what?",
-        "answer": "Chlorophyll"
+        "question": "Who was the British Prime Minister at the outbreak of World War II?",
+        "answer": "Neville Chamberlain"
     },
+
     {
         "id": 2,
-        "question": "Which gemstone is coloured green by trace amounts of chromium?",
-        "answer": "Emerald"
+        "question": "What major world event occurred on October 29, 1929?",
+        "answer": "The Wall Street Crash (Great Depression)"
     },
     {
         "id": 3,
-        "question": "The Green Party’s first Member of Parliament Caroline Lucas represents a constituency in which city?",
-        "answer": "Brighton"
+        "question": "Which leader is associated with the introduction of 'Perestroika' and 'Glasnost' reforms in the Soviet Union?",
+        "answer": "Mikhail Gorbachev"
     },
+
     {
         "id": 4,
-        "question": "The children’s classic novel Ann of Green Gables is set in which country?",
-        "answer": "Canada"
+        "question": "In what year did women in the UK gain the right to vote on the same terms as men?",
+        "answer": "1928"
     },
+
     {
         "id": 5,
-        "question": "Which soft, silvery element is traditionally added to fireworks to give a green colour?",
-        "answer": "Barium"
+        "question": "Which African country gained independence from British rule in 1963 under Jomo Kenyatta?",
+        "answer": "Kenya"
     },
+
+
     {
         "id": 6,
-        "question": "As part of a long running tradition which American city’s river is dyed green to celebrate St. Patrick’s Day?",
-        "answer": "Chicago"
+        "question": "In which year did India gain independence from Britain?",
+        "answer": "1947"
     },
+
     {
         "id": 7,
-        "question": "Who live at 742 Evergreen Terrace?",
-        "answer": "The Simpsons"
+        "question": "Which conflict, lasting from 1955 to 1975, was known as 'America's longest war' at the time?",
+        "answer": "The Vietnam War"
     },
+
     {
         "id": 8,
-        "question": "The Green Bay Packers are an American football team in which state?",
-        "answer": "Wisconsin"
+        "question": "What year did the Soviet Union officially dissolve, marking the end of the USSR?",
+        "answer": "1991"
     },
+
+
     {
         "id": 9,
-        "question": "Hall Green is an area in which British city?",
-        "answer": "Birmingham"
+        "question": "Which US President resigned in 1974 following the Watergate scandal?",
+        "answer": "Richard Nixon"
     },
+
     {
-        "id": 10,
-        "question": "Which British children’s TV series takes place in Greendale in Cumbria?",
-        "answer": "Postman Pat"
+        "id": 19,
+        "question": "In what year was the first manned moon landing by Apollo 11?",
+        "answer": "1969"
     }
 ]

@@ -50,7 +50,7 @@
         flex-direction: column;
         align-items: center;
         justify-content: center;
-        height:400px;
+        min-height:400px;
         font-family: $primary;
         font-size: 40px;
         color: $blue;
@@ -63,7 +63,7 @@
         }
 
         &-image{
-            max-height: 400px;
+            
             min-height: 400px;
             width: auto;
 
@@ -82,7 +82,7 @@
             border-radius: 4px;
             padding: 15px;
             width: 150px;
-            margin: auto;
+            margin: 40px auto 0px auto;
             display: flex;
             justify-content: center;
 

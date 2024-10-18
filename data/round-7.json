@@ -1,56 +1,55 @@
 [
     {
-        "title": "Rich List"
+        "title": "Round 7 Sport and Leisure"
     },
     {
         "id": 1,
-        "question": "Top 10 richest people as of 3rd October 2024 according to Forbes",
-        "answer": "Elon Musk - 258 billion"
+        "question": "Other than The Epee and Foil, what other weapon is used in fencing?",
+        "answer": "The Sabre"
     },
     {
         "id": 2,
-        "question": "Top 10 richest people as of 3rd October 2024 according to Forbes",
-        "answer": "Larry Ellison - 202 billion"
+        "question": "In inches, how wide is the beam in women’s gymnastics?",
+        "answer": "4 inches"
     },
     {
         "id": 3,
-        "question": "Top 10 richest people as of 3rd October 2024 according to Forbes",
-        "answer": "Mark Zuckerberg - 200 billion"
+        "question": "What colour is the 8 ball in a game of pool?",
+        "answer": "Black"
     },
     {
         "id": 4,
-        "question": "Top 10 richest people as of 3rd October 2024 according to Forbes",
-        "answer": "Jeff Bezos - 200 billion"
+        "question": "In which game might you peg out?",
+        "answer": "Cribbage"
     },
     {
         "id": 5,
-        "question": "Top 10 richest people as of 3rd October 2024 according to Forbes",
-        "answer": "Bernard Arnault - 185 billion"
+        "question": "The Calcutta Cup is played between which two countries?",
+        "answer": "England and Scotland"
     },
     {
         "id": 6,
-        "question": "Top 10 richest people as of 3rd October 2024 according to Forbes",
-        "answer": "Warren Buffet - 141 billion"
+        "question": "In which UK leisure activity has lightning caused the most fatalities?",
+        "answer": "Fishing"
     },
     {
         "id": 7,
-        "question": "Top 10 richest people as of 3rd October 2024 according to Forbes",
-        "answer": "Larry Page - 138 billion"
+        "question": "How many numbers are there on a roulette wheel?",
+        "answer": "37"
     },
     {
         "id": 8,
-        "question": "Top 10 richest people as of 3rd October 2024 according to Forbes",
-        "answer": "Sergey Brin - 132 billion"
+        "question": "How many jumps are there in the grand national?",
+        "answer": "30"
     },
     {
         "id": 9,
-        "question": "Top 10 richest people as of 3rd October 2024 according to Forbes",
-        "answer": "Amancio Ortega - 128 billion"
+        "question": "Which city was the first to host the Olympic games twice?",
+        "answer": "Paris"
     },
     {
         "id": 10,
-        "question": "Top 10 richest people as of 3rd October 2024 according to Forbes",
-        "answer": "Steve Ballmer - 122 billion"
+        "question": "Who was the first professional footballer to be knighted?",
+        "answer": "Sir Stanley Matthews"
     }
-   
 ]

@@ -1,0 +1,55 @@
+[
+  {
+      "title": "Famous Faces"
+  },
+  {
+      "id": 1,
+      "question": "aitana-bonati.jpg",
+      "answer": "Aitana Bonati"
+  },
+  {
+      "id": 2,
+      "question": "susanna-reid.jpeg",
+      "answer": "Susanna Reid"
+  },
+  {
+      "id": 3,
+      "question": "ice-spice.jpg",
+      "answer": "Ice Spice"
+  },
+  {
+      "id": 4,
+      "question": "jenna-ortega.jpg",
+      "answer": "Jenna Ortega"
+  },
+  {
+      "id": 5,
+      "question": "trippie-redd.jpg",
+      "answer": "Trippie Redd"
+  },
+  {
+      "id": 6,
+      "question": "ben-duckett.png",
+      "answer": "Ben Duckett"
+  },
+  {
+      "id": 7,
+      "question": "jd-vance.jpeg",
+      "answer": "JD Vance"
+  },
+  {
+      "id": 8,
+      "question": "dylan-mulvaney.jpg",
+      "answer": "Dylan Mulvaney"
+  },
+  {
+      "id": 9,
+      "question": "kendall-jenner.jpg",
+      "answer": "Kendall Jenner"
+  },
+  {
+      "id": 10,
+      "question": "lamar-jackson.jpg",
+      "answer": "Lamar Jackson"
+  }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "title": "Food"
+    },
+
+    {
+        "id": 1,
+        "question": "What is the main ingredient in guacamole?",
+        "answer": "Avocado"
+    },
+
+
+    {
+        "id": 2,
+        "question": "What type of pastry is used to make croissants?",
+        "answer": "Puff pastry"
+    },
+
+    {
+        "id": 3,
+        "question": "Which fruit is known as the 'King of Fruits' in Southeast Asia due to its strong smell?",
+        "answer": "Durian"
+    },
+    {
+        "id": 4,
+        "question": "What is tofu primarily made from?",
+        "answer": "Soybeans"
+    },
+
+
+    {
+        "id": 5,
+        "question": "Which country is famous for its blue cheese, Roquefort?",
+        "answer": "France"
+    },
+
+
+
+    {
+        "id": 6,
+        "question": "Which grain is used to make couscous?",
+        "answer": "Wheat (specifically semolina)"
+    },
+    {
+        "id": 7,
+        "question": "Which meat is traditionally used in a shepherd's pie?",
+        "answer": "Lamb"
+    },
+
+  
+    {
+        "id": 8,
+        "question": "Which fruit is dried to make prunes?",
+        "answer": "Plums"
+    },
+
+
+    {
+        "id": 9,
+        "question": "Which country is the origin of the dish 'moussaka'?",
+        "answer": "Greece"
+    },
+
+
+    {
+        "id": 10,
+        "question": "What is the main ingredient in the Middle Eastern dish falafel?",
+        "answer": "Chickpeas"
+    }
+]

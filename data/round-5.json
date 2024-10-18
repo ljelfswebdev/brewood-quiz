@@ -1,70 +1,55 @@
 [
     {
-        "title": "Food"
+        "title": "Name the Year"
     },
-
     {
         "id": 1,
-        "question": "What is the main ingredient in guacamole?",
-        "answer": "Avocado"
+        "question": "Name the year that the pound note was finally withdrawn from circulation.",
+        "answer": "1984"
     },
-
-
     {
         "id": 2,
-        "question": "What type of pastry is used to make croissants?",
-        "answer": "Puff pastry"
+        "question": "Name the year when food rationing ended when restrictions on the sale of meat was lifted (one year either way).",
+        "answer": "1954"
     },
-
     {
         "id": 3,
-        "question": "Which fruit is known as the 'King of Fruits' in Southeast Asia due to its strong smell?",
-        "answer": "Durian"
+        "question": "In what year was Prince Harry born?",
+        "answer": "1984"
     },
     {
         "id": 4,
-        "question": "What is tofu primarily made from?",
-        "answer": "Soybeans"
+        "question": "In what year was Maradona’s Hand of God goal in the World Cup?",
+        "answer": "1986"
     },
-
-
     {
         "id": 5,
-        "question": "Which country is famous for its blue cheese, Roquefort?",
-        "answer": "France"
+        "question": "Name the year when Michael Jackson died.",
+        "answer": "2009"
     },
-
-
-
     {
         "id": 6,
-        "question": "Which grain is used to make couscous?",
-        "answer": "Wheat (specifically semolina)"
+        "question": "In what year was the Berlin Wall demolished?",
+        "answer": "1989"
     },
     {
         "id": 7,
-        "question": "Which meat is traditionally used in a shepherd's pie?",
-        "answer": "Lamb"
+        "question": "In what year was the funeral of Diana, Princess of Wales?",
+        "answer": "1997"
     },
-
-  
     {
         "id": 8,
-        "question": "Which fruit is dried to make prunes?",
-        "answer": "Plums"
+        "question": "Name the year when Hillary and Tenzing reached the summit of Mount Everest.",
+        "answer": "1953"
     },
-
-
     {
         "id": 9,
-        "question": "Which country is the origin of the dish 'moussaka'?",
-        "answer": "Greece"
+        "question": "In what year did Margaret Thatcher become Prime Minister?",
+        "answer": "1979"
     },
-
-
     {
         "id": 10,
-        "question": "What is the main ingredient in the Middle Eastern dish falafel?",
-        "answer": "Chickpeas"
+        "question": "In what year was J.R. shot in Dallas?",
+        "answer": "1980"
     }
 ]

@@ -1,0 +1,60 @@
+[
+    {
+        "title": "Geography"
+    },
+
+    {
+        "id": 1,
+        "question": "What is the longest river in the UK?",
+        "answer": "The River Severn"
+    },
+    {
+        "id": 2,
+        "question": "Which Scottish city is known as the 'Granite City'?",
+        "answer": "Aberdeen"
+    },
+
+    {
+        "id": 3,
+        "question": "Which mountain is the highest in Wales?",
+        "answer": "Mount Snowdon (Yr Wyddfa)"
+    },
+    {
+        "id": 4,
+        "question": "What is the capital of Northern Ireland?",
+        "answer": "Belfast"
+    },
+
+    {
+        "id": 5,
+        "question": "Which national park is home to Scafell Pike, the highest peak in England?",
+        "answer": "Lake District National Park"
+    },
+    {
+        "id": 6,
+        "question": "In which English county would you find the town of Whitby?",
+        "answer": "North Yorkshire"
+    },
+
+    {
+        "id": 7,
+        "question": "The River Thames flows through which major UK city?",
+        "answer": "London"
+    },
+    {
+        "id": 8,
+        "question": "What is the most southerly point of the UK mainland?",
+        "answer": "Lizard Point, Cornwall"
+    },
+
+    {
+        "id": 9,
+        "question": "What is the largest lake in the UK by surface area?",
+        "answer": "Lough Neagh"
+    },
+    {
+        "id": 10,
+        "question": "Which two counties does Hadrian’s Wall stretch between?",
+        "answer": "Cumbria and Northumberland"
+    }
+]

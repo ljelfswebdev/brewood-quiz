@@ -5,61 +5,14 @@
 
     {
         "id": 1,
-        "question": "Which city hosted the 2024 Summer Olympics?",
-        "answer": "Paris, France"
+        "question": "All of the athletes below competed in the London 2012 Olympics, but which 10 won Gold Medals? Theis is a wipeout round. Any wrong answers and you will score zero! If you get all 10 then you score 20 points.",
+        "answer": " Mo Farah, Alistair Brownlee, Jonny Brownlee, Iain Percy, Bradley Wiggins, Louis Smith, Max Whitlock, Christine Ohuruogu, Helen Glover, Rebecca Adlington, Geraint Thomas, Chris Froome, Zara Phillips, Ben Ainslie, Nick Skelton, Beth Tweddle, Tom Daley, Nicola Adams, Chris Hoy, Anthony Joshua"
     },
-
 
     {
         "id": 2,
-        "question": "Which country hosted the 2024 UEFA Euro Championship?",
-        "answer": "Germany"
-    },
-    {
-        "id": 3,
-        "question": "In which country was the United Nations Climate Change Conference (COP29) held in 2024?",
-        "answer": "Azerbaijan"
-    },
-
-    {
-        "id": 4,
-        "question": "What date will the 2024 United States presidential election be held?",
-        "answer": "November 5, 2024"
-    },
-
-
-    {
-        "id": 5,
-        "question": "What space telescope will be used in 2024 to study exoplanets?",
-        "answer": "James Webb Space Telescope"
-    },
-    {
-        "id": 6,
-        "question": "Who is the most-followed person on Instagram in 2024?",
-        "answer": "Cristiano Ronaldo"
-    },
-
-    {
-        "id": 7,
-        "question": "Which actor won the Golden Globe for Best Male Actor in a Film – Drama in 2024?",
-        "answer": "Cillian Murphy"
-    },
-    {
-        "id": 8,
-        "question": "Where was the Eurovision Song Contest held in 2024?",
-        "answer": "Malmö, Sweden"
-    },
-
-    {
-        "id": 9,
-        "question": "What is the Chinese zodiac sign for 2024?",
-        "answer": "Year of the Dragon"
-    },
-
-
-    {
-        "id": 10,
-        "question": "Which streaming service had the most-watched original series in 2024?",
-        "answer": "Netflix"
+        "question": "All of the athletes below competed in the London 2012 Olympics, but which 10 won Gold Medals? Theis is a wipeout round. Any wrong answers and you will score zero! If you get all 10 then you score 20 points.",
+        "answer": "Mo Farah, Alistair Brownlee, Bradley Wiggins, Helen Glover, Geraint Thomas, Ben Ainslie, Nick Skelton, Nicola Adams, Chris Hoy, Anthony Joshua"
     }
+
 ]

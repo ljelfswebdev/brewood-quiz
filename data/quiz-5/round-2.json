@@ -1,0 +1,67 @@
+[
+    {
+        "title": "History"
+    },
+
+
+    {
+        "id": 1,
+        "question": "Who was the British Prime Minister at the outbreak of World War II?",
+        "answer": "Neville Chamberlain"
+    },
+
+    {
+        "id": 2,
+        "question": "What major world event occurred on October 29, 1929?",
+        "answer": "The Wall Street Crash (Great Depression)"
+    },
+    {
+        "id": 3,
+        "question": "Which leader is associated with the introduction of 'Perestroika' and 'Glasnost' reforms in the Soviet Union?",
+        "answer": "Mikhail Gorbachev"
+    },
+
+    {
+        "id": 4,
+        "question": "In what year did women in the UK gain the right to vote on the same terms as men?",
+        "answer": "1928"
+    },
+
+    {
+        "id": 5,
+        "question": "Which African country gained independence from British rule in 1963 under Jomo Kenyatta?",
+        "answer": "Kenya"
+    },
+
+
+    {
+        "id": 6,
+        "question": "In which year did India gain independence from Britain?",
+        "answer": "1947"
+    },
+
+    {
+        "id": 7,
+        "question": "Which conflict, lasting from 1955 to 1975, was known as 'America's longest war' at the time?",
+        "answer": "The Vietnam War"
+    },
+
+    {
+        "id": 8,
+        "question": "What year did the Soviet Union officially dissolve, marking the end of the USSR?",
+        "answer": "1991"
+    },
+
+
+    {
+        "id": 9,
+        "question": "Which US President resigned in 1974 following the Watergate scandal?",
+        "answer": "Richard Nixon"
+    },
+
+    {
+        "id": 10,
+        "question": "In what year was the first manned moon landing by Apollo 11?",
+        "answer": "1969"
+    }
+]

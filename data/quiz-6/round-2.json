@@ -1,0 +1,55 @@
+[
+    {
+        "title": "African Geography"
+    },
+    {
+        "id": 1,
+        "question": "What mountain range runs along the border between Morocco and Algeria?",
+        "answer": "The Atlas Mountains."
+    },
+    {
+        "id": 2,
+        "question": "Which lake is the largest in Africa by surface area?",
+        "answer": "Lake Victoria."
+    },
+    {
+        "id": 3,
+        "question": "What is the highest peak in Africa?",
+        "answer": "Mount Kilimanjaro."
+    },
+    {
+        "id": 4,
+        "question": "Which two countries share Lake Malawi?",
+        "answer": "Malawi and Mozambique."
+    },
+    {
+        "id": 5,
+        "question": "Which country is home to the Great Rift Valley?",
+        "answer": "Kenya."
+    },
+    {
+        "id": 6,
+        "question": "Which African country is known for its unique wildlife and the Serengeti National Park?",
+        "answer": "Tanzania."
+    },
+    {
+        "id": 7,
+        "question": "What strait separates Africa from Europe?",
+        "answer": "The Strait of Gibraltar."
+    },
+    {
+        "id": 8,
+        "question": "Which African country has the most pyramids?",
+        "answer": "Sudan."
+    },
+    {
+        "id": 9,
+        "question": "Which river forms part of the border between the Democratic Republic of the Congo and Zambia?",
+        "answer": "The Zambezi River."
+    },
+    {
+        "id": 10,
+        "question": "What is the capital city of Ghana?",
+        "answer": "Accra."
+    }
+]

@@ -1,55 +1,55 @@
 [
     {
-        "title": "Key Stage 4"
+        "title" : "TV and Entertainment"
     },
     {
-        "id": 1,
-        "question": "Who wrote Paradise Lost?",
-        "answer": "John Milton"
+      "id": 1,
+      "question": "Which series became Netflix's biggest ever show in September 2021?",
+      "answer": "Squid Game"
     },
     {
         "id": 2,
-        "question": "Which group of woods do Oak and Ash belong to?",
-        "answer": "Hardwoods"
+        "question": "Which girl group performed during the opening minutes of Channel 5's launch in 1997 in the UK?",
+        "answer": "The Spice Girls"
     },
     {
         "id": 3,
-        "question": "What is nitrous oxide more commonly known as?",
-        "answer": "Laughing gas"
+        "question": "In what year did Coronation Street first air on ITV?",
+        "answer": "1960"
     },
     {
         "id": 4,
-        "question": "What is mass per unit volume better known as?",
-        "answer": "Density"
+        "question": "What is the highest-rated TV series on the IMDB Top 250 TV series list?",
+        "answer": "Breaking Bad"
     },
     {
         "id": 5,
-        "question": "What part of the human body is the mandible?",
-        "answer": "Lower Jawbone"
+        "question": "Which British TV show recorded the largest audience for a single episode with over 30 million viewers?",
+        "answer": "Eastenders (Christmas Day 1986)"
     },
     {
         "id": 6,
-        "question": "Archduke Franz Ferdinand was killed in which city?",
-        "answer": "Sarajevo"
+        "question": "Who does the voiceover on Love Island?",
+        "answer": "Iain Stirling"
     },
     {
         "id": 7,
-        "question": "Who composed The Messiah?",
-        "answer": "Handel"
+        "question": "In 1995, more than 22 million people tuned into a special BBC Panorama interview with Princess Diana. Which journalist conducted the interview?",
+        "answer": "Martin Bashir"
     },
     {
         "id": 8,
-        "question": "What is the capital city of Malaysia?",
-        "answer": "Kuala Lumpur"
+        "question": "What colour is Thunderbird 2 piloted by Virgil Tracy in Thunderbirds?",
+        "answer": "Green"
     },
     {
         "id": 9,
-        "question": "What is the most spoken language in the world?",
-        "answer": "Mandarin"
+        "question": "Ant and Dec first worked together on which children's TV drama?",
+        "answer": "Biker Grove"
     },
     {
         "id": 10,
-        "question": "What is the circumference of a 12 inch pizza? (answer to one decimal place in inches)",
-        "answer": "37.7"
+        "question": "Which singing competition was the first to feature Simon Cowell as a judge?",
+        "answer": "Pop Idol"
     }
 ]

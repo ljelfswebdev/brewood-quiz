@@ -1,0 +1,62 @@
+[
+    {
+        "title" : " Militaries"
+    },
+
+
+    {
+      "id": 1,
+      "question": "What are the Largest Active Militries in the world according to the International Institute for Strategic Studies",
+      "answer": "China"
+    },
+    {
+        "id": 2,
+        "question": "What are the Largest Active Militries in the world according to the International Institute for Strategic Studies",
+        "answer": "India"
+    },
+
+    {
+        "id": 3,
+        "question": "What are the Largest Active Militries in the world according to the International Institute for Strategic Studies",
+        "answer": "USA"
+      },
+      {
+          "id": 4,
+          "question": "What are the Largest Active Militries in the world according to the International Institute for Strategic Studies",
+          "answer": "North Korea"
+      },
+
+    {
+        "id": 5,
+        "question": "What are the Largest Active Militries in the world according to the International Institute for Strategic Studies",
+        "answer": "Russia"
+      },
+      {
+          "id": 6,
+          "question": "What are the Largest Active Militries in the world according to the International Institute for Strategic Studies",
+          "answer": "Ukraine"
+      },
+
+    {
+        "id": 7,
+        "question": "What are the Largest Active Militries in the world according to the International Institute for Strategic Studies",
+        "answer": "Pakistan"
+      },
+      {
+          "id": 8,
+          "question": "What are the Largest Active Militries in the world according to the International Institute for Strategic Studies",
+          "answer": "Iran"
+      },
+
+    {
+        "id": 9,
+        "question": "What are the Largest Active Militries in the world according to the International Institute for Strategic Studies",
+        "answer": "Ethiopia"
+      },
+      {
+          "id": 10,
+          "question": "What are the Largest Active Militries in the world according to the International Institute for Strategic Studies",
+          "answer": "South Korea"
+      }
+]
+  

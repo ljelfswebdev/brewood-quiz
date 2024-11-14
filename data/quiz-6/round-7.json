@@ -1,0 +1,56 @@
+[
+    {
+        "title": "Odd One Out"
+    },
+    {
+        "id": 1,
+        "question": "In this year, the Titanic sank, Arizona became a U.S. state, Fenway Park opened in Boston, and the first modern Olympic Games were held in Athens.",
+        "answer": "The first modern Olympic Games were held in Athens."
+    },
+    {
+        "id": 2,
+        "question": "In this year, the United States declared independence, the first edition of 'The Wealth of Nations' was published, James Cook began his third voyage, and the French Revolution started.",
+        "answer": "The French Revolution started."
+    },
+    {
+        "id": 3,
+        "question": "In this year, Facebook was launched, the Athens Olympics were held, the Indian Ocean earthquake and tsunami occurred, and Barack Obama was elected President of the United States.",
+        "answer": "Barack Obama was elected President of the United States."
+    },
+    {
+        "id": 4,
+        "question": "In this year, the Soviet Union launched Sputnik, the first artificial satellite, 'The Cat in the Hat' by Dr. Seuss was published, the European Economic Community was established, and the Berlin Wall was constructed.",
+        "answer": "The Berlin Wall was constructed."
+    },
+    {
+        "id": 5,
+        "question": "In this year, the Apple Macintosh computer was introduced, the Los Angeles Olympics took place, Indira Gandhi was assassinated, and the World Wide Web was invented.",
+        "answer": "The World Wide Web was invented."
+    },
+    {
+        "id": 6,
+        "question": "In this year, the first Harry Potter book was published, Princess Diana died, Hong Kong was returned to China, and the Euro became the official currency of many European countries.",
+        "answer": "The Euro became the official currency of many European countries."
+    },
+    {
+        "id": 7,
+        "question": "In this year, the iPhone was first released, the final book of the Harry Potter series was published, the global financial crisis began, and the Mars Rover 'Curiosity' landed on Mars.",
+        "answer": "The Mars Rover 'Curiosity' landed on Mars."
+    },
+    {
+        "id": 8,
+        "question": "In this year, the Wright brothers made their first flight, the first World Series in baseball was played, the Panama Canal opened, and Marie Curie won her second Nobel Prize.",
+        "answer": "The Panama Canal opened."
+    },
+    {
+        "id": 9,
+        "question": "In this year, William Shakespeare was born, Galileo Galilei was born, the Taj Mahal was completed, and Johannes Kepler published his laws of planetary motion.",
+        "answer": "The Taj Mahal was completed."
+    },
+    
+    {
+        "id": 10,
+        "question": "In this year, the first transatlantic telegraph cable was completed, Abraham Lincoln was assassinated, the American Civil War ended, and the Statue of Liberty was dedicated in New York Harbor.",
+        "answer": "The Statue of Liberty was dedicated in New York Harbor."
+    }
+]

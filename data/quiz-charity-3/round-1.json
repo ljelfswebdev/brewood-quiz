@@ -1,0 +1,55 @@
+[
+    {
+        "title": "Blue"
+    },
+    {
+        "id": 1,
+        "question": "Which artist had a blue Period?",
+        "answer": "Picasso"
+    },
+    {
+        "id": 2,
+        "question": "Who wrote and recorded the song Blue Suede Shoes?",
+        "answer": "Carl Perkins"
+    },
+    {
+        "id": 3,
+        "question": "What was the original colour of blue tack?",
+        "answer": "White"
+    },
+    {
+        "id": 4,
+        "question": "Blue Origin, the American spacecraft company, was founded by which Billionaire?",
+        "answer": "Jeff Bezos"
+    },
+    {
+        "id": 5,
+        "question": "Donald Campbell broke world speed records on land and water. What was the name of his vehicle?",
+        "answer": "Bluebird"
+    },
+    {
+        "id": 6,
+        "question": "Which football team has the nickname The Bluebirds?",
+        "answer": "Cardiff City or Barrow AFC"
+    },
+    {
+        "id": 7,
+        "question": "In 1996 Garry Kasparov, the world chess champion, competed against an IBM supercomputer called what?",
+        "answer": "Deep Blue"
+    },
+    {
+        "id": 8,
+        "question": "Which precious gemstone is a variety of the mineral blue corundum?",
+        "answer": "Sapphire"
+    },
+    {
+        "id": 9,
+        "question": "What is the name of the 1983 hit single by the band New Order?",
+        "answer": "Blue Monday"
+    },
+    {
+        "id": 10,
+        "question": "In the famous blue movie, which American city did Debbie do?",
+        "answer": "Dallas"
+    }
+]

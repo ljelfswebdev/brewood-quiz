@@ -1,0 +1,55 @@
+[
+    {
+        "title": "Round 7 Sport and Leisure"
+    },
+    {
+        "id": 1,
+        "question": "Other than The Epee and Foil, what other weapon is used in fencing?",
+        "answer": "The Sabre"
+    },
+    {
+        "id": 2,
+        "question": "In inches, how wide is the beam in women’s gymnastics?",
+        "answer": "4 inches"
+    },
+    {
+        "id": 3,
+        "question": "What colour is the 8 ball in a game of pool?",
+        "answer": "Black"
+    },
+    {
+        "id": 4,
+        "question": "In which game might you peg out?",
+        "answer": "Cribbage"
+    },
+    {
+        "id": 5,
+        "question": "The Calcutta Cup is played between which two countries?",
+        "answer": "England and Scotland"
+    },
+    {
+        "id": 6,
+        "question": "In which UK leisure activity has lightning caused the most fatalities?",
+        "answer": "Fishing"
+    },
+    {
+        "id": 7,
+        "question": "How many numbers are there on a roulette wheel?",
+        "answer": "37"
+    },
+    {
+        "id": 8,
+        "question": "How many jumps are there in the grand national?",
+        "answer": "30"
+    },
+    {
+        "id": 9,
+        "question": "Which city was the first to host the Olympic games twice?",
+        "answer": "Paris"
+    },
+    {
+        "id": 10,
+        "question": "Who was the first professional footballer to be knighted?",
+        "answer": "Sir Stanley Matthews"
+    }
+]

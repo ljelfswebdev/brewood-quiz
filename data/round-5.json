@@ -1,55 +1,55 @@
 [
     {
-        "title": "Name the Year"
+        "title" : "Slogans"
     },
     {
-        "id": 1,
-        "question": "Name the year that the pound note was finally withdrawn from circulation.",
-        "answer": "1984"
+      "id": 1,
+      "question": "Which brand uses the slogan “I’m lovin’ it”?",
+      "answer": "McDonald’s"
     },
     {
         "id": 2,
-        "question": "Name the year when food rationing ended when restrictions on the sale of meat was lifted (one year either way).",
-        "answer": "1954"
+        "question": "Which brand is associated with the slogan “Just do it”?",
+        "answer": "Nike"
     },
     {
         "id": 3,
-        "question": "In what year was Prince Harry born?",
-        "answer": "1984"
+        "question": "Which brand is associated with “Melt in your mouth, not in your hand”?",
+        "answer": "M & M’s"
     },
     {
         "id": 4,
-        "question": "In what year was Maradona’s Hand of God goal in the World Cup?",
-        "answer": "1986"
+        "question": "Which brand is associated with “always low prices”?",
+        "answer": "ASDA/Wal-Mart"
     },
     {
         "id": 5,
-        "question": "Name the year when Michael Jackson died.",
-        "answer": "2009"
+        "question": "Which brand is represented by the slogan “Maybe she’s born with it, maybe it’s …………………….”?",
+        "answer": "Maybelline"
     },
     {
         "id": 6,
-        "question": "In what year was the Berlin Wall demolished?",
-        "answer": "1989"
+        "question": "Complete the slogan “There are some things money can’t buy. For everything else there’s ……………………”?",
+        "answer": "Mastercard"
     },
     {
         "id": 7,
-        "question": "In what year was the funeral of Diana, Princess of Wales?",
-        "answer": "1997"
+        "question": "Which brand uses the slogan “The wonderful everyday”?",
+        "answer": "IKEA"
     },
     {
         "id": 8,
-        "question": "Name the year when Hillary and Tenzing reached the summit of Mount Everest.",
-        "answer": "1953"
+        "question": "Which company has the slogan “because you’re worth it”?",
+        "answer": "L’Oreal"
     },
     {
         "id": 9,
-        "question": "In what year did Margaret Thatcher become Prime Minister?",
-        "answer": "1979"
+        "question": "Which brand uses the slogan “It does exactly what it says on the tin”?",
+        "answer": "Ronseal"
     },
     {
         "id": 10,
-        "question": "In what year was J.R. shot in Dallas?",
-        "answer": "1980"
+        "question": "Which brand is represented by the slogan “When it absolutely, positively has to be there overnight”?",
+        "answer": "FedEx"
     }
 ]

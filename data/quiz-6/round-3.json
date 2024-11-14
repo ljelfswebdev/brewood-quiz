@@ -1,0 +1,56 @@
+[
+    {
+        "title": "Color Quiz"
+    },
+    {
+        "id": 1,
+        "question": "What color is the gemstone sapphire?",
+        "answer": "Blue."
+    },
+    {
+        "id": 2,
+        "question": "What color is often associated with envy?",
+        "answer": "Green."
+    },
+    {
+        "id": 3,
+        "question": "What color is created by combining all the colors of light?",
+        "answer": "White."
+    },
+    {
+        "id": 4,
+        "question": "What color is the blood of an octopus?",
+        "answer": "Blue."
+    },
+
+    {
+        "id": 5,
+        "question": "What color is the primary pigment used in traditional Chinese ink?",
+        "answer": "Black."
+    },
+    {
+        "id": 6,
+        "question": "What color is the traditional uniform of the British royal guards?",
+        "answer": "Red."
+    },
+    {
+        "id": 7,
+        "question": "In the flag of Italy, which color is positioned on the left?",
+        "answer": "Green."
+    },
+    {
+        "id": 8,
+        "question": "Which color is often associated with the team kits of the Italian national football team?",
+        "answer": "Blue."
+    },
+    {
+        "id": 9,
+        "question": "What is the surname of the character played by Bryan Cranston in Breaking Bad?",
+        "answer": "White."
+    },
+    {
+        "id": 10,
+        "question": "What colour is the outer rim of the Nepalese Flag?",
+        "answer": "Blue."
+    }
+]

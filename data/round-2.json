@@ -1,55 +1,55 @@
 [
     {
-        "title": "Girls Names"
+        "title" : "2020"
     },
     {
-        "id": 1,
-        "question": "Poor old Johnny Ray sounded sad upon the radio",
-        "answer": "Eileen"
+      "id": 1,
+      "question": "Which tennis player won the French Open for a record 13th time?",
+      "answer": "Rafa Nadal"
     },
     {
         "id": 2,
-        "question": "She’s from Birmingham, bam-ba-lam. Way down in Alabam, bam-ba-lam",
-        "answer": "Betty"
+        "question": "Which country won the women’s T20 World Cup in Australia?",
+        "answer": "Australia"
     },
     {
         "id": 3,
-        "question": "I know my mind is made up. So put away your make up",
-        "answer": "Roxanne"
+        "question": "In American Football, which team won the Super Bowl for the first time in 50 years?",
+        "answer": "Kansas City Chiefs"
     },
     {
         "id": 4,
-        "question": "She stood there laughing. I felt the knife in my hand and she laughed no more",
-        "answer": "Delilah"
+        "question": "Which team won the Premier League Title?",
+        "answer": "Liverpool"
     },
     {
         "id": 5,
-        "question": "I’m down on my knees. I’m begging you please to come home",
-        "answer": "Cecelia"
+        "question": "Which former NBA player died in a helicopter crash?",
+        "answer": "Kobe Bryant"
     },
     {
         "id": 6,
-        "question": "It’s late September and I really should be back at school. I know I keep you amused, but I feel I’m being used",
-        "answer": "Maggie"
+        "question": "Which snooker player won his 6th world title?",
+        "answer": "Ronnie O'Sullivan"
     },
     {
         "id": 7,
-        "question": "Please don’t put your life in the hands of a rock ‘n’ roll band",
-        "answer": "Sally"
+        "question": "Of the four golf grand slams, which was the one that did not go ahead in 2020?",
+        "answer": "The Open/British Open"
     },
     {
         "id": 8,
-        "question": "We can lie in the green canyon meadows and we’ll hear the birds sing in spring",
-        "answer": "Lynda/Linda"
+        "question": "Who won the World Sportswoman of the Year Award?",
+        "answer": "Simone Biles"
     },
     {
         "id": 9,
-        "question": "Like a storm in the desert, like a sleepy blue ocean. You fill up my senses, come fill me again",
-        "answer": "Annie"
+        "question": "Complete the scoreline in the Champions League: Barcelona 2 Bayern Munich _______?",
+        "answer": "8"
     },
     {
         "id": 10,
-        "question": "Wearing the face that she keeps in a jar by the door who is it for?",
-        "answer": "Eleanor"
+        "question": "Which Formula 1 racing driver, considered to be the greatest driver never to win the Drivers’ Championship, died in April 2020 aged 90?",
+        "answer": "Stirling Moss"
     }
 ]

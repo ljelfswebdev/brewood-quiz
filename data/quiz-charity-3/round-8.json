@@ -1,0 +1,18 @@
+[
+    {
+        "title": "Wipeout Round"
+    },
+
+    {
+        "id": 1,
+        "question": "All of the athletes below competed in the London 2012 Olympics, but which 10 won Gold Medals? Theis is a wipeout round. Any wrong answers and you will score zero! If you get all 10 then you score 20 points.",
+        "answer": " Mo Farah, Alistair Brownlee, Jonny Brownlee, Iain Percy, Bradley Wiggins, Louis Smith, Max Whitlock, Christine Ohuruogu, Helen Glover, Rebecca Adlington, Geraint Thomas, Chris Froome, Zara Phillips, Ben Ainslie, Nick Skelton, Beth Tweddle, Tom Daley, Nicola Adams, Chris Hoy, Anthony Joshua"
+    },
+
+    {
+        "id": 2,
+        "question": "All of the athletes below competed in the London 2012 Olympics, but which 10 won Gold Medals? Theis is a wipeout round. Any wrong answers and you will score zero! If you get all 10 then you score 20 points.",
+        "answer": "Mo Farah, Alistair Brownlee, Bradley Wiggins, Helen Glover, Geraint Thomas, Ben Ainslie, Nick Skelton, Nicola Adams, Chris Hoy, Anthony Joshua"
+    }
+
+]

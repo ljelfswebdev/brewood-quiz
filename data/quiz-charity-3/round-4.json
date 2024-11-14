@@ -1,0 +1,65 @@
+[
+    {
+        "title": "Populations"
+    },
+
+    {
+        "id": 1,
+        "question": "As of 2024, name the ten US states with the smallest populations",
+        "answer": "Wyoming"
+    },
+
+
+    {
+        "id": 2,
+        "question": "As of 2024, name the ten US states with the smallest populations",
+        "answer": "Vermont"
+    },
+
+    {
+      "id": 3,
+      "question": "As of 2024, name the ten US states with the smallest populations",
+      "answer": "Alaska"
+  },
+
+    {
+        "id": 4,
+        "question": "As of 2024, name the ten US states with the smallest populations",
+        "answer": "North Dakota"
+    },
+    {
+        "id": 5,
+        "question": "As of 2024, name the ten US states with the smallest populations",
+        "answer": "South Dakota"
+    },
+
+
+
+    {
+        "id": 6,
+        "question": "As of 2024, name the ten US states with the smallest populations",
+        "answer": "Delaware"
+    },
+
+    {
+        "id": 7,
+        "question": "As of 2024, name the ten US states with the smallest populations",
+        "answer": "Rhode Island"
+    },
+    {
+        "id": 8,
+        "question": "As of 2024, name the ten US states with the smallest populations",
+        "answer": "Montanna"
+    },
+
+    {
+        "id": 9,
+        "question": "As of 2024, name the ten US states with the smallest populations",
+        "answer": "Maine"
+    },
+    {
+        "id": 10,
+        "question": "As of 2024, name the ten US states with the smallest populations",
+        "answer": "New Hampshire"
+    }
+]

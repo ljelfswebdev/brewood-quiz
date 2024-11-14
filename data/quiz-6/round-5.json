@@ -1,0 +1,55 @@
+[
+    {
+        "title": "Felines"
+    },
+    {
+        "id": 1,
+        "question": "What is the largest species of the cat family?",
+        "answer": "The tiger."
+    },
+    {
+        "id": 2,
+        "question": "What small wild cat is known for its distinctive tufted ears?",
+        "answer": "The lynx."
+    },
+    {
+        "id": 3,
+        "question": "Which feline is the only one that lives and hunts in groups called prides?",
+        "answer": "The lion."
+    },
+    {
+        "id": 4,
+        "question": "What is the term for a group of domestic cats?",
+        "answer": "A clowder."
+    },
+    {
+        "id": 5,
+        "question": "Which small wild cat is found in the deserts of Africa and Arabia and has large ears?",
+        "answer": "The sand cat."
+    },
+    {
+        "id": 6,
+        "question": "What is the smallest wild cat species in the world?",
+        "answer": "The rusty-spotted cat."
+    },
+    {
+        "id": 7,
+        "question": "Which big cat species is known to have the longest canine teeth relative to body size?",
+        "answer": "The clouded leopard."
+    },
+    {
+        "id": 8,
+        "question": "Which small wild cat is found in the jungles of Southeast Asia and is arboreal in nature?",
+        "answer": "The marbled cat."
+    },
+    {
+        "id": 9,
+        "question": "What is the scientific name for the domestic cat?",
+        "answer": "Felis catus."
+    },
+    {
+        "id": 10,
+        "question": "Which wild cat species is famous for its ability to jump up to 3 meters high to catch birds in flight?",
+        "answer": "The caracal."
+    }
+]

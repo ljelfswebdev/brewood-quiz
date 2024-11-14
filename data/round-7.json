@@ -1,55 +1,55 @@
 [
     {
-        "title": "Round 7 Sport and Leisure"
+        "title" : "Sex"
     },
     {
-        "id": 1,
-        "question": "Other than The Epee and Foil, what other weapon is used in fencing?",
-        "answer": "The Sabre"
+      "id": 1,
+      "question": "Which 'Sex and the City' star is actor Matthew Broderick married to?",
+      "answer": "Sarah Jessica Parker"
     },
     {
         "id": 2,
-        "question": "In inches, how wide is the beam in women’s gymnastics?",
-        "answer": "4 inches"
+        "question": "In which comic would you see Sid the Sexist?",
+        "answer": "Viz"
     },
     {
         "id": 3,
-        "question": "What colour is the 8 ball in a game of pool?",
-        "answer": "Black"
+        "question": "What was the theme song for the Oscar-nominated film 'The Full Monty'?",
+        "answer": "You Sexy Thing by Hot Chocolate"
     },
     {
         "id": 4,
-        "question": "In which game might you peg out?",
-        "answer": "Cribbage"
+        "question": "What does the suffix '-sex' mean in the UK counties of Sussex, Wessex & Middlesex?",
+        "answer": "Saxon"
     },
     {
         "id": 5,
-        "question": "The Calcutta Cup is played between which two countries?",
-        "answer": "England and Scotland"
+        "question": "What was the name of the machine in Woody Allen’s 1973 comedy ‘Sleeper’ that replaces sex?",
+        "answer": "The Orgasmatron"
     },
     {
         "id": 6,
-        "question": "In which UK leisure activity has lightning caused the most fatalities?",
-        "answer": "Fishing"
+        "question": "What was the name of the band that started their career with the song 'Anarchy in the UK'?",
+        "answer": "The Sex Pistols"
     },
     {
         "id": 7,
-        "question": "How many numbers are there on a roulette wheel?",
-        "answer": "37"
+        "question": "Which American President was famous for saying 'I did not have sexual relations with that woman!'?",
+        "answer": "Bill Clinton"
     },
     {
         "id": 8,
-        "question": "How many jumps are there in the grand national?",
-        "answer": "30"
+        "question": "Give the title of the 2008 hit single by Kings of Leon",
+        "answer": "Sex on Fire"
     },
     {
         "id": 9,
-        "question": "Which city was the first to host the Olympic games twice?",
-        "answer": "Paris"
+        "question": "In the 1960’s which novel was the subject of an obscenity trial due to its explicit descriptions of sex?",
+        "answer": "Lady Chatterley’s Lover"
     },
     {
         "id": 10,
-        "question": "Who was the first professional footballer to be knighted?",
-        "answer": "Sir Stanley Matthews"
+        "question": "What book, first published in 1972, was in the New York Times Best Seller list for 70 weeks between 1972-1974?",
+        "answer": "The Joy of Sex"
     }
 ]

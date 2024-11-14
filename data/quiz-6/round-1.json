@@ -1,0 +1,56 @@
+[
+    {
+        "title": "U.S. History"
+    },
+    {
+        "id": 1,
+        "question": "What year did the Declaration of Independence get signed?",
+        "answer": "1776"
+    },
+    {
+        "id": 2,
+        "question": "Who was the first President of the United States?",
+        "answer": "George Washington"
+    },
+    {
+        "id": 3,
+        "question": "Which amendment abolished slavery in the United States?",
+        "answer": "The 13th Amendment"
+    },
+    {
+        "id": 4,
+        "question": "What year did the United States enter World War I?",
+        "answer": "1917"
+    },
+    {
+        "id": 5,
+        "question": "Who was the principal author of the Declaration of Independence?",
+        "answer": "Thomas Jefferson"
+    },
+    {
+        "id": 6,
+        "question": "Who was President during the Louisiana Purchase?",
+        "answer": "Thomas Jefferson"
+    },
+    {
+        "id": 7,
+        "question": "What was the name of the plan in order to aid European recovery after World War II?",
+        "answer": "The Marshall Plan"
+    },
+    {
+        "id": 8,
+        "question": "Which country did the US buy the State of Alaska from?",
+        "answer": "Russia"
+    },
+    {
+        "id": 9,
+        "question": "Who wrote the Gettysburg Address?",
+        "answer": "Abraham Lincoln."
+    },
+    {
+        "id": 10,
+        "question": "Which U.S. territory was acquired from Spain after the Spanish-American War?",
+        "answer": "Puerto Rico."
+    }
+
+]

@@ -1,0 +1,55 @@
+[
+    {
+        "title": "Cocktails"
+    },
+    {
+        "id": 1,
+        "question": "What is the main alcoholic ingredient in a classic Mojito (be specific)?",
+        "answer": "White rum."
+    },
+    {
+        "id": 2,
+        "question": "Which cocktail is made with gin, vermouth, and typically garnished with an olive or a lemon twist?",
+        "answer": "Martini."
+    },
+    {
+        "id": 3,
+        "question": "Which cocktail consists of vodka, tomato juice, and various spices and flavorings such as Worcestershire sauce and hot sauce?",
+        "answer": "Bloody Mary."
+    },
+    {
+        "id": 4,
+        "question": "What cocktail is made with rum, coconut cream, and pineapple juice, and is associated with tropical regions?",
+        "answer": "Piña Colada."
+    },
+    {
+        "id": 5,
+        "question": "Which cocktail is made by muddling sugar with bitters, adding whiskey or brandy, and garnishing with an orange slice or zest and a cocktail cherry?",
+        "answer": "Old Fashioned."
+    },
+    {
+        "id": 6,
+        "question": "What is the primary liquor used in a Cosmopolitan cocktail?",
+        "answer": "Vodka."
+    },
+    {
+        "id": 7,
+        "question": "What cocktail consists of gin, lemon juice, sugar, and carbonated water, served in a tall glass over ice?",
+        "answer": "Tom Collins."
+    },
+    {
+        "id": 8,
+        "question": "Which cocktail combines vodka, coffee liqueur, and cream served over ice?",
+        "answer": "White Russian."
+    },
+    {
+        "id": 9,
+        "question": "What is the main spirit in a Manhattan cocktail?",
+        "answer": "Rye whiskey (or bourbon)."
+    },
+    {
+        "id": 10,
+        "question": "What cocktail consists of rum, lime juice, and cola, and is often garnished with a lime wedge?",
+        "answer": "Cuba Libre."
+    }
+]

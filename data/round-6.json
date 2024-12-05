@@ -1,55 +1,56 @@
 [
     {
-        "title" : "TV and Entertainment"
+        "title": "The Colour Pink"
     },
     {
-      "id": 1,
-      "question": "Which series became Netflix's biggest ever show in September 2021?",
-      "answer": "Squid Game"
+        "id": 1,
+        "question": "Which iconic toy brand is known for its signature pink color and dolls?",
+        "answer": "Barbie"
     },
     {
         "id": 2,
-        "question": "Which girl group performed during the opening minutes of Channel 5's launch in 1997 in the UK?",
-        "answer": "The Spice Girls"
+        "question": "Which global pop star is known by the stage name 'P!nk'?",
+        "answer": "Alecia Beth Moore (Pink)"
     },
     {
         "id": 3,
-        "question": "In what year did Coronation Street first air on ITV?",
-        "answer": "1960"
+        "question": "What gemstone, ranging from pale pink to deep rose, is often used in jewelry?",
+        "answer": "Rose Quartz"
     },
     {
         "id": 4,
-        "question": "What is the highest-rated TV series on the IMDB Top 250 TV series list?",
-        "answer": "Breaking Bad"
+        "question": "Which tropical bird is famous for its pink feathers?",
+        "answer": "Flamingo"
     },
     {
         "id": 5,
-        "question": "Which British TV show recorded the largest audience for a single episode with over 30 million viewers?",
-        "answer": "Eastenders (Christmas Day 1986)"
+        "question": "What is the name of the pink Pokémon that can transform into any other Pokémon?",
+        "answer": "Ditto"
     },
     {
         "id": 6,
-        "question": "Who does the voiceover on Love Island?",
-        "answer": "Iain Stirling"
+        "question": "Which 1986 John Hughes film stars Molly Ringwald and has 'pink' in the title?",
+        "answer": "Pretty in Pink"
     },
     {
         "id": 7,
-        "question": "In 1995, more than 22 million people tuned into a special BBC Panorama interview with Princess Diana. Which journalist conducted the interview?",
-        "answer": "Martin Bashir"
+        "question": "Which cocktail is made with gin, cherry brandy, and pineapple juice, known for its pink color?",
+        "answer": "Singapore Sling"
     },
     {
         "id": 8,
-        "question": "What colour is Thunderbird 2 piloted by Virgil Tracy in Thunderbirds?",
-        "answer": "Green"
+        "question": "What is the name of the pink starfish character in 'SpongeBob SquarePants'?",
+        "answer": "Patrick Star"
     },
+
     {
         "id": 9,
-        "question": "Ant and Dec first worked together on which children's TV drama?",
-        "answer": "Biker Grove"
+        "question": "Which pink-fleshed citrus fruit shares its name with a color?",
+        "answer": "Grapefruit"
     },
     {
         "id": 10,
-        "question": "Which singing competition was the first to feature Simon Cowell as a judge?",
-        "answer": "Pop Idol"
+        "question": "Which famous painting by Picasso is part of his 'Rose Period' featuring pink hues?",
+        "answer": "'Family of Saltimbanques'"
     }
 ]

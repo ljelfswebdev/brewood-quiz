@@ -1,0 +1,55 @@
+[
+    {
+        "title" : "Sex"
+    },
+    {
+      "id": 1,
+      "question": "Which 'Sex and the City' star is actor Matthew Broderick married to?",
+      "answer": "Sarah Jessica Parker"
+    },
+    {
+        "id": 2,
+        "question": "In which comic would you see Sid the Sexist?",
+        "answer": "Viz"
+    },
+    {
+        "id": 3,
+        "question": "What was the theme song for the Oscar-nominated film 'The Full Monty'?",
+        "answer": "You Sexy Thing by Hot Chocolate"
+    },
+    {
+        "id": 4,
+        "question": "What does the suffix '-sex' mean in the UK counties of Sussex, Wessex & Middlesex?",
+        "answer": "Saxon"
+    },
+    {
+        "id": 5,
+        "question": "What was the name of the machine in Woody Allen’s 1973 comedy ‘Sleeper’ that replaces sex?",
+        "answer": "The Orgasmatron"
+    },
+    {
+        "id": 6,
+        "question": "What was the name of the band that started their career with the song 'Anarchy in the UK'?",
+        "answer": "The Sex Pistols"
+    },
+    {
+        "id": 7,
+        "question": "Which American President was famous for saying 'I did not have sexual relations with that woman!'?",
+        "answer": "Bill Clinton"
+    },
+    {
+        "id": 8,
+        "question": "Give the title of the 2008 hit single by Kings of Leon",
+        "answer": "Sex on Fire"
+    },
+    {
+        "id": 9,
+        "question": "In the 1960’s which novel was the subject of an obscenity trial due to its explicit descriptions of sex?",
+        "answer": "Lady Chatterley’s Lover"
+    },
+    {
+        "id": 10,
+        "question": "What book, first published in 1972, was in the New York Times Best Seller list for 70 weeks between 1972-1974?",
+        "answer": "The Joy of Sex"
+    }
+]

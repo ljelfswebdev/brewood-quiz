@@ -1,0 +1,55 @@
+[
+    {
+        "title" : "Slogans"
+    },
+    {
+      "id": 1,
+      "question": "Which brand uses the slogan “I’m lovin’ it”?",
+      "answer": "McDonald’s"
+    },
+    {
+        "id": 2,
+        "question": "Which brand is associated with the slogan “Just do it”?",
+        "answer": "Nike"
+    },
+    {
+        "id": 3,
+        "question": "Which brand is associated with “Melt in your mouth, not in your hand”?",
+        "answer": "M & M’s"
+    },
+    {
+        "id": 4,
+        "question": "Which brand is associated with “always low prices”?",
+        "answer": "ASDA/Wal-Mart"
+    },
+    {
+        "id": 5,
+        "question": "Which brand is represented by the slogan “Maybe she’s born with it, maybe it’s …………………….”?",
+        "answer": "Maybelline"
+    },
+    {
+        "id": 6,
+        "question": "Complete the slogan “There are some things money can’t buy. For everything else there’s ……………………”?",
+        "answer": "Mastercard"
+    },
+    {
+        "id": 7,
+        "question": "Which brand uses the slogan “The wonderful everyday”?",
+        "answer": "IKEA"
+    },
+    {
+        "id": 8,
+        "question": "Which company has the slogan “because you’re worth it”?",
+        "answer": "L’Oreal"
+    },
+    {
+        "id": 9,
+        "question": "Which brand uses the slogan “It does exactly what it says on the tin”?",
+        "answer": "Ronseal"
+    },
+    {
+        "id": 10,
+        "question": "Which brand is represented by the slogan “When it absolutely, positively has to be there overnight”?",
+        "answer": "FedEx"
+    }
+]

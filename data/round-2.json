@@ -1,55 +1,56 @@
 [
     {
-        "title" : "2020"
+        "title": "Christmas"
     },
     {
-      "id": 1,
-      "question": "Which tennis player won the French Open for a record 13th time?",
-      "answer": "Rafa Nadal"
+        "id": 1,
+        "question": "Which country is credited with starting the Christmas tree tradition?",
+        "answer": "Germany"
     },
     {
         "id": 2,
-        "question": "Which country won the women’s T20 World Cup in Australia?",
-        "answer": "Australia"
+        "question": "What are the names of Santa's reindeer that start with the letter 'D'?",
+        "answer": "Dasher, Dancer, Donner"
     },
     {
         "id": 3,
-        "question": "In American Football, which team won the Super Bowl for the first time in 50 years?",
-        "answer": "Kansas City Chiefs"
+        "question": "In the song 'The Twelve Days of Christmas', what is given on the seventh day?",
+        "answer": "Seven Swans a-Swimming"
     },
     {
         "id": 4,
-        "question": "Which team won the Premier League Title?",
-        "answer": "Liverpool"
+        "question": "What is the name of the Grinch's dog in 'How the Grinch Stole Christmas'?",
+        "answer": "Max"
     },
     {
         "id": 5,
-        "question": "Which former NBA player died in a helicopter crash?",
-        "answer": "Kobe Bryant"
+        "question": "What item is traditionally hidden in Christmas pudding?",
+        "answer": "A coin"
     },
+
     {
         "id": 6,
-        "question": "Which snooker player won his 6th world title?",
-        "answer": "Ronnie O'Sullivan"
+        "question": "What is the highest-grossing Christmas movie of all time?",
+        "answer": "Home Alone"
     },
     {
         "id": 7,
-        "question": "Of the four golf grand slams, which was the one that did not go ahead in 2020?",
-        "answer": "The Open/British Open"
+        "question": "Which ocean is Christmas Island located in?",
+        "answer": "Indian Ocean"
     },
     {
         "id": 8,
-        "question": "Who won the World Sportswoman of the Year Award?",
-        "answer": "Simone Biles"
+        "question": "In which direction does Santa's sleigh travel to distribute presents?",
+        "answer": "East to West (following the time zones)"
     },
     {
         "id": 9,
-        "question": "Complete the scoreline in the Champions League: Barcelona 2 Bayern Munich _______?",
-        "answer": "8"
+        "question": "Which country donates the Christmas tree in Trafalgar Square?",
+        "answer": "Norway"
     },
     {
         "id": 10,
-        "question": "Which Formula 1 racing driver, considered to be the greatest driver never to win the Drivers’ Championship, died in April 2020 aged 90?",
-        "answer": "Stirling Moss"
+        "question": "What is the name of George Bailey's guardian angel in 'It's a Wonderful Life'?",
+        "answer": "Clarence"
     }
 ]

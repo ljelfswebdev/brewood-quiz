@@ -1,0 +1,55 @@
+[
+    {
+        "title" : "Yellow"
+    },
+    {
+      "id": 1,
+      "question": "Which famous artist is known for using bright yellow in his paintings especially in 'The Sunflowers' series?",
+      "answer": "Vincent Van Gogh"
+    },
+    {
+        "id": 2,
+        "question": "What fruit is typically yellow and is known for its high potassium content?",
+        "answer": "Banana"
+    },
+    {
+        "id": 3,
+        "question": "What is the name of the yellow gemstone that is often used in Jewellery and is also the birthstone for November?",
+        "answer": "Topaz"
+    },
+    {
+        "id": 4,
+        "question": "Which Teletubby is yellow?",
+        "answer": "Laa-Laa"
+    },
+    {
+        "id": 5,
+        "question": "In which country is the colour yellow associated with the political party known as the Liberal Democrats?",
+        "answer": "UK/Great Britain"
+    },
+    {
+        "id": 6,
+        "question": "Which popular children’s book features a yellow character called Big Bird?",
+        "answer": "Sesame Street"
+    },
+    {
+        "id": 7,
+        "question": "Which song was written and recorded by Joni Mitchell in 1970?",
+        "answer": "Big Yellow Taxi"
+    },
+    {
+        "id": 8,
+        "question": "Name the element in the Periodic Table which is a yellow solid",
+        "answer": "Sulfur"
+    },
+    {
+        "id": 9,
+        "question": "In the context of colour psychology, what emotion is often associated with the colour yellow?",
+        "answer": "Happiness"
+    },
+    {
+        "id": 10,
+        "question": "Yellow was a hit song on the debut album of which band?",
+        "answer": "Coldplay"
+    }
+]

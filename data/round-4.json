@@ -1,62 +1,55 @@
 [
-    {
-        "title" : " Breakfast"
-    },
-
-
-    {
+  {
+      "title": "1980's History"
+  },
+  {
       "id": 1,
-      "question": "According to The Sun newspaper in May 2024 what are the UK’s top 10 most popular breakfast cereals?",
-      "answer": "Crunuchy Nut Cornflakees"
-    },
-    {
-        "id": 2,
-        "question": "According to The Sun newspaper in May 2024 what are the UK’s top 10 most popular breakfast cereals?",
-        "answer": "Cornflakes"
-    },
-
-    {
-        "id": 3,
-        "question": "According to The Sun newspaper in May 2024 what are the UK’s top 10 most popular breakfast cereals?",
-        "answer": "Coco Pops"
-      },
-      {
-          "id": 4,
-          "question": "According to The Sun newspaper in May 2024 what are the UK’s top 10 most popular breakfast cereals?",
-          "answer": "Weetabix"
-      },
-
-    {
-        "id": 5,
-        "question": "According to The Sun newspaper in May 2024 what are the UK’s top 10 most popular breakfast cereals?",
-        "answer": "Frosties"
-      },
-      {
-          "id": 6,
-          "question": "According to The Sun newspaper in May 2024 what are the UK’s top 10 most popular breakfast cereals?",
-          "answer": "Rice Crispies"
-      },
-
-    {
-        "id": 7,
-        "question": "According to The Sun newspaper in May 2024 what are the UK’s top 10 most popular breakfast cereals?",
-        "answer": "Shreddies"
-      },
-      {
-          "id": 8,
-          "question": "According to The Sun newspaper in May 2024 what are the UK’s top 10 most popular breakfast cereals?",
-          "answer": "Cheerios"
-      },
-
-    {
-        "id": 9,
-        "question": "According to The Sun newspaper in May 2024 what are the UK’s top 10 most popular breakfast cereals?",
-        "answer": "Ready Brek"
-      },
-      {
-          "id": 10,
-          "question": "According to The Sun newspaper in May 2024 what are the UK’s top 10 most popular breakfast cereals?",
-          "answer": "Special K"
-      }
+      "question": "Which space shuttle tragically exploded shortly after liftoff in 1986?",
+      "answer": "Challenger"
+  },
+  {
+      "id": 2,
+      "question": "Which disease was first identified in 1981 and became a global epidemic?",
+      "answer": "AIDS (Acquired Immunodeficiency Syndrome)"
+  },
+  {
+      "id": 3,
+      "question": "Which major nuclear disaster occurred in 1986?",
+      "answer": "Chernobyl disaster"
+  },
+  {
+      "id": 4,
+      "question": "Which iconic music television network was launched in 1981?",
+      "answer": "MTV (Music Television)"
+  },
+  {
+      "id": 5,
+      "question": "What computer company released the Macintosh in 1984?",
+      "answer": "Apple"
+  },
+  {
+      "id": 6,
+      "question": "Which actor became President of the United States in 1981?",
+      "answer": "Ronald Reagan"
+  },
+  {
+      "id": 7,
+      "question": "Which global pop star was assassinated in 1980 in New York City?",
+      "answer": "John Lennon"
+  },
+  {
+      "id": 8,
+      "question": "Which country won the FIFA World Cup in 1986?",
+      "answer": "Argentina"
+  },
+  {
+      "id": 9,
+      "question": "Which technology company introduced the Game Boy in 1989?",
+      "answer": "Nintendo"
+  },
+  {
+      "id": 10,
+      "question": "Which country did Iraq invade in 1980, sparking an eight-year war?",
+      "answer": "Iran"
+  }
 ]
-  

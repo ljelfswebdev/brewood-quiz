@@ -1,55 +1,56 @@
 [
     {
-        "title" : "Words"
+        "title": "Children's Television"
     },
     {
-      "id": 1,
-      "question": "She studied sculpture at Saint Martin’s College",
-      "answer": "Common People – Pulp"
+        "id": 1,
+        "question": "What is the name of the boy who owns Buzz Lightyear and Woody in 'Toy Story'?",
+        "answer": "Andy"
     },
     {
         "id": 2,
-        "question": "Lonely rivers flow to the sea, to the sea",
-        "answer": "Unchained Melody – Various artists eg The Righteous Brothers, Robson and Jerome, Gareth Gates etc"
+        "question": "In 'SpongeBob SquarePants', what is the name of SpongeBob's pet snail?",
+        "answer": "Gary"
     },
     {
         "id": 3,
-        "question": "When the night has come, and the land is dark",
-        "answer": "Stand By Me – Ben E King"
+        "question": "Which children's show features a blue dog who leaves paw print clues?",
+        "answer": "Blue's Clues"
     },
     {
         "id": 4,
-        "question": "You shake my nerves and you rattle my brain, too much love drives a man insane",
-        "answer": "Great Balls of Fire – Jerry Lee Lewis"
+        "question": "In 'Dora the Explorer', what kind of animal is Boots?",
+        "answer": "A monkey"
     },
     {
         "id": 5,
-        "question": "But February made me shiver, with every paper I’d deliver",
-        "answer": "American Pie – Don McLean"
+        "question": "Which show features characters named Marshall, Chase, and Skye?",
+        "answer": "PAW Patrol"
     },
     {
         "id": 6,
-        "question": "Baby ‘cause in the dark you can’t see shiny cars and that’s when you need me there, with you I’ll always share",
-        "answer": "Umbrella – Rihanna"
+        "question": "In 'Peppa Pig', what is the name of Peppa's younger brother?",
+        "answer": "George"
     },
     {
         "id": 7,
-        "question": "You call me up again just to break me like a promise, so casually cruel in the name of being honest",
-        "answer": "All Too Well – Taylor Swift"
+        "question": "Who are the three main Powerpuff Girls?",
+        "answer": "Blossom, Bubbles, and Buttercup"
     },
+
     {
         "id": 8,
-        "question": "I come home in the morning light, my mother says when you gonna live your life right",
-        "answer": "Girls Just Want to Have Fun – Cyndi Lauper"
+        "question": "Which show features a handyman and his talking tools?",
+        "answer": "Handy Manny"
     },
     {
         "id": 9,
-        "question": "Young teacher, the subject of schoolgirl fantasy",
-        "answer": "Don’t Stand So Close to Me – The Police"
+        "question": "In 'Arthur', what kind of animal is Arthur?",
+        "answer": "An aardvark"
     },
     {
         "id": 10,
-        "question": "I work all night, I work all day to pay the bills I have to pay, ain’t it sad",
-        "answer": "Money, Money, Money – Abba"
+        "question": "Which animated series follows a boy genius with a secret laboratory?",
+        "answer": "Dexter's Laboratory"
     }
 ]

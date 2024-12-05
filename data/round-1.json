@@ -1,55 +1,55 @@
 [
     {
-        "title" : "Yellow"
+        "title": "Dogs"
     },
     {
-      "id": 1,
-      "question": "Which famous artist is known for using bright yellow in his paintings especially in 'The Sunflowers' series?",
-      "answer": "Vincent Van Gogh"
+        "id": 1,
+        "question": "What is the most popular breed of dog in the United States?",
+        "answer": "Labrador Retriever"
     },
     {
         "id": 2,
-        "question": "What fruit is typically yellow and is known for its high potassium content?",
-        "answer": "Banana"
+        "question": "What is the smallest breed of dog?",
+        "answer": "Chihuahua"
     },
     {
         "id": 3,
-        "question": "What is the name of the yellow gemstone that is often used in Jewellery and is also the birthstone for November?",
-        "answer": "Topaz"
+        "question": "What breed of dog was originally bred to hunt lions in Africa?",
+        "answer": "Rhodesian Ridgeback"
     },
     {
         "id": 4,
-        "question": "Which Teletubby is yellow?",
-        "answer": "Laa-Laa"
+        "question": "What is the fastest breed of dog?",
+        "answer": "Greyhound"
     },
     {
         "id": 5,
-        "question": "In which country is the colour yellow associated with the political party known as the Liberal Democrats?",
-        "answer": "UK/Great Britain"
+        "question": "Which small dog breed is known for its long, silky hair and was favored by Chinese royalty?",
+        "answer": "Shih Tzu"
     },
     {
         "id": 6,
-        "question": "Which popular children’s book features a yellow character called Big Bird?",
-        "answer": "Sesame Street"
+        "question": "What breed is Snoopy from the 'Peanuts' comic strip?",
+        "answer": "Beagle"
     },
     {
         "id": 7,
-        "question": "Which song was written and recorded by Joni Mitchell in 1970?",
-        "answer": "Big Yellow Taxi"
+        "question": "Which breed is commonly known as a 'sausage dog'?",
+        "answer": "Dachshund"
     },
     {
         "id": 8,
-        "question": "Name the element in the Periodic Table which is a yellow solid",
-        "answer": "Sulfur"
+        "question": "Which breed is known for herding sheep and originates from Scotland?",
+        "answer": "Border Collie"
     },
     {
         "id": 9,
-        "question": "In the context of colour psychology, what emotion is often associated with the colour yellow?",
-        "answer": "Happiness"
+        "question": "Which large breed is known for its gentle nature and is often called a 'gentle giant'?",
+        "answer": "Great Dane"
     },
     {
         "id": 10,
-        "question": "Yellow was a hit song on the debut album of which band?",
-        "answer": "Coldplay"
+        "question": "Which breed is the national dog of France and known for its curly hair?",
+        "answer": "Poodle"
     }
 ]

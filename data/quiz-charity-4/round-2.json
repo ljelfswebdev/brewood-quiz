@@ -1,0 +1,55 @@
+[
+    {
+        "title" : "2020"
+    },
+    {
+      "id": 1,
+      "question": "Which tennis player won the French Open for a record 13th time?",
+      "answer": "Rafa Nadal"
+    },
+    {
+        "id": 2,
+        "question": "Which country won the women’s T20 World Cup in Australia?",
+        "answer": "Australia"
+    },
+    {
+        "id": 3,
+        "question": "In American Football, which team won the Super Bowl for the first time in 50 years?",
+        "answer": "Kansas City Chiefs"
+    },
+    {
+        "id": 4,
+        "question": "Which team won the Premier League Title?",
+        "answer": "Liverpool"
+    },
+    {
+        "id": 5,
+        "question": "Which former NBA player died in a helicopter crash?",
+        "answer": "Kobe Bryant"
+    },
+    {
+        "id": 6,
+        "question": "Which snooker player won his 6th world title?",
+        "answer": "Ronnie O'Sullivan"
+    },
+    {
+        "id": 7,
+        "question": "Of the four golf grand slams, which was the one that did not go ahead in 2020?",
+        "answer": "The Open/British Open"
+    },
+    {
+        "id": 8,
+        "question": "Who won the World Sportswoman of the Year Award?",
+        "answer": "Simone Biles"
+    },
+    {
+        "id": 9,
+        "question": "Complete the scoreline in the Champions League: Barcelona 2 Bayern Munich _______?",
+        "answer": "8"
+    },
+    {
+        "id": 10,
+        "question": "Which Formula 1 racing driver, considered to be the greatest driver never to win the Drivers’ Championship, died in April 2020 aged 90?",
+        "answer": "Stirling Moss"
+    }
+]

@@ -1,55 +1,55 @@
 [
     {
-        "title" : "Slogans"
+        "title": "India"
     },
     {
-      "id": 1,
-      "question": "Which brand uses the slogan “I’m lovin’ it”?",
-      "answer": "McDonald’s"
+        "id": 1,
+        "question": "What is the capital city of India?",
+        "answer": "New Delhi"
     },
     {
         "id": 2,
-        "question": "Which brand is associated with the slogan “Just do it”?",
-        "answer": "Nike"
+        "question": "Which river is considered the most sacred in India?",
+        "answer": "The Ganges River"
     },
     {
         "id": 3,
-        "question": "Which brand is associated with “Melt in your mouth, not in your hand”?",
-        "answer": "M & M’s"
+        "question": "What is the national animal of India?",
+        "answer": "Bengal Tiger"
     },
     {
         "id": 4,
-        "question": "Which brand is associated with “always low prices”?",
-        "answer": "ASDA/Wal-Mart"
+        "question": "Which monument was built by Emperor Shah Jahan in memory of his wife?",
+        "answer": "The Taj Mahal"
     },
     {
         "id": 5,
-        "question": "Which brand is represented by the slogan “Maybe she’s born with it, maybe it’s …………………….”?",
-        "answer": "Maybelline"
+        "question": "Who is known as the 'Father of the Nation' in India?",
+        "answer": "Mahatma Gandhi"
     },
     {
         "id": 6,
-        "question": "Complete the slogan “There are some things money can’t buy. For everything else there’s ……………………”?",
-        "answer": "Mastercard"
+        "question": "Which city is known as the 'Silicon Valley of India'?",
+        "answer": "Bengaluru (Bangalore)"
     },
     {
         "id": 7,
-        "question": "Which brand uses the slogan “The wonderful everyday”?",
-        "answer": "IKEA"
+        "question": "What is the currency of India?",
+        "answer": "Indian Rupee"
     },
     {
         "id": 8,
-        "question": "Which company has the slogan “because you’re worth it”?",
-        "answer": "L’Oreal"
+        "question": "Which festival of lights is one of the most significant festivals in India?",
+        "answer": "Diwali"
     },
     {
         "id": 9,
-        "question": "Which brand uses the slogan “It does exactly what it says on the tin”?",
-        "answer": "Ronseal"
+        "question": "What is the largest state in India by area?",
+        "answer": "Rajasthan"
     },
     {
         "id": 10,
-        "question": "Which brand is represented by the slogan “When it absolutely, positively has to be there overnight”?",
-        "answer": "FedEx"
+        "question": "Which Indian city is known for its Bollywood film industry?",
+        "answer": "Mumbai"
     }
 ]

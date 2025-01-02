@@ -1,56 +1,55 @@
 [
     {
-        "title": "The Colour Pink"
+      "title": "Round 6: Anything Related to the Colour Purple"
     },
     {
-        "id": 1,
-        "question": "Which iconic toy brand is known for its signature pink color and dolls?",
-        "answer": "Barbie"
+      "id": 1,
+      "question": "Which legendary rock band shares its name with a shade of purple?",
+      "answer": "Deep Purple"
     },
     {
-        "id": 2,
-        "question": "Which global pop star is known by the stage name 'P!nk'?",
-        "answer": "Alecia Beth Moore (Pink)"
+      "id": 2,
+      "question": "Which writer published the novel ‘The Color Purple’ in 1982?",
+      "answer": "Alice Walker"
     },
     {
-        "id": 3,
-        "question": "What gemstone, ranging from pale pink to deep rose, is often used in jewelry?",
-        "answer": "Rose Quartz"
+      "id": 3,
+      "question": "Which artist's 1984 album features the title track ‘Purple Rain’?",
+      "answer": "Prince"
     },
     {
-        "id": 4,
-        "question": "Which tropical bird is famous for its pink feathers?",
-        "answer": "Flamingo"
+      "id": 4,
+      "question": "Which U.S. military decoration is awarded to service members wounded or killed in action?",
+      "answer": "The Purple Heart"
     },
     {
-        "id": 5,
-        "question": "What is the name of the pink Pokémon that can transform into any other Pokémon?",
-        "answer": "Ditto"
+      "id": 5,
+      "question": "Historically, due to its rarity and cost, purple dye became associated with which social class?",
+      "answer": "Royalty (nobility)"
     },
     {
-        "id": 6,
-        "question": "Which 1986 John Hughes film stars Molly Ringwald and has 'pink' in the title?",
-        "answer": "Pretty in Pink"
+      "id": 6,
+      "question": "Which purple dinosaur featured on a children’s TV show is known for the song ‘I Love You’?",
+      "answer": "Barney"
     },
     {
-        "id": 7,
-        "question": "Which cocktail is made with gin, cherry brandy, and pineapple juice, known for its pink color?",
-        "answer": "Singapore Sling"
+      "id": 7,
+      "question": "Which purple flower is a staple in aromatherapy due to its soothing fragrance?",
+      "answer": "Lavender"
     },
     {
-        "id": 8,
-        "question": "What is the name of the pink starfish character in 'SpongeBob SquarePants'?",
-        "answer": "Patrick Star"
-    },
-
-    {
-        "id": 9,
-        "question": "Which pink-fleshed citrus fruit shares its name with a color?",
-        "answer": "Grapefruit"
+      "id": 8,
+      "question": "Which fruit’s name is used as a common term for a deep shade of purple, especially in Europe?",
+      "answer": "Aubergine (Eggplant)"
     },
     {
-        "id": 10,
-        "question": "Which famous painting by Picasso is part of his 'Rose Period' featuring pink hues?",
-        "answer": "'Family of Saltimbanques'"
+      "id": 9,
+      "question": "Which Disney villain, characterized by a purple color palette and magical staff, appears in ‘Sleeping Beauty’?",
+      "answer": "Maleficent"
+    },
+    {
+      "id": 10,
+      "question": "Which Ghost-type Pokémon from Generation I is predominantly purple and evolves from Haunter?",
+      "answer": "Gengar"
     }
-]
+  ]

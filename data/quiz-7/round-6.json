@@ -1,0 +1,56 @@
+[
+    {
+        "title": "The Colour Pink"
+    },
+    {
+        "id": 1,
+        "question": "Which iconic toy brand is known for its signature pink color and dolls?",
+        "answer": "Barbie"
+    },
+    {
+        "id": 2,
+        "question": "Which global pop star is known by the stage name 'P!nk'?",
+        "answer": "Alecia Beth Moore (Pink)"
+    },
+    {
+        "id": 3,
+        "question": "What gemstone, ranging from pale pink to deep rose, is often used in jewelry?",
+        "answer": "Rose Quartz"
+    },
+    {
+        "id": 4,
+        "question": "Which tropical bird is famous for its pink feathers?",
+        "answer": "Flamingo"
+    },
+    {
+        "id": 5,
+        "question": "What is the name of the pink Pokémon that can transform into any other Pokémon?",
+        "answer": "Ditto"
+    },
+    {
+        "id": 6,
+        "question": "Which 1986 John Hughes film stars Molly Ringwald and has 'pink' in the title?",
+        "answer": "Pretty in Pink"
+    },
+    {
+        "id": 7,
+        "question": "Which cocktail is made with gin, cherry brandy, and pineapple juice, known for its pink color?",
+        "answer": "Singapore Sling"
+    },
+    {
+        "id": 8,
+        "question": "What is the name of the pink starfish character in 'SpongeBob SquarePants'?",
+        "answer": "Patrick Star"
+    },
+
+    {
+        "id": 9,
+        "question": "Which pink-fleshed citrus fruit shares its name with a color?",
+        "answer": "Grapefruit"
+    },
+    {
+        "id": 10,
+        "question": "Which famous painting by Picasso is part of his 'Rose Period' featuring pink hues?",
+        "answer": "'Family of Saltimbanques'"
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "title": "Christmas"
+    },
+    {
+        "id": 1,
+        "question": "Which country is credited with starting the Christmas tree tradition?",
+        "answer": "Germany"
+    },
+    {
+        "id": 2,
+        "question": "What are the names of Santa's reindeer that start with the letter 'D'?",
+        "answer": "Dasher, Dancer, Donner"
+    },
+    {
+        "id": 3,
+        "question": "In the song 'The Twelve Days of Christmas', what is given on the seventh day?",
+        "answer": "Seven Swans a-Swimming"
+    },
+    {
+        "id": 4,
+        "question": "What is the name of the Grinch's dog in 'How the Grinch Stole Christmas'?",
+        "answer": "Max"
+    },
+    {
+        "id": 5,
+        "question": "What item is traditionally hidden in Christmas pudding?",
+        "answer": "A coin"
+    },
+
+    {
+        "id": 6,
+        "question": "What is the highest-grossing Christmas movie of all time?",
+        "answer": "Home Alone"
+    },
+    {
+        "id": 7,
+        "question": "Which ocean is Christmas Island located in?",
+        "answer": "Indian Ocean"
+    },
+    {
+        "id": 8,
+        "question": "In which direction does Santa's sleigh travel to distribute presents?",
+        "answer": "East to West (following the time zones)"
+    },
+    {
+        "id": 9,
+        "question": "Which country donates the Christmas tree in Trafalgar Square?",
+        "answer": "Norway"
+    },
+    {
+        "id": 10,
+        "question": "What is the name of George Bailey's guardian angel in 'It's a Wonderful Life'?",
+        "answer": "Clarence"
+    }
+]

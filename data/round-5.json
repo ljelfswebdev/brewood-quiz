@@ -1,55 +1,56 @@
 [
     {
-        "title": "India"
+      "title": "Round 5: Asian Geography"
     },
     {
-        "id": 1,
-        "question": "What is the capital city of India?",
-        "answer": "New Delhi"
+      "id": 1,
+      "question": "Name the largest lake in Asia (often classified as the world’s largest enclosed inland water body).",
+      "answer": "The Caspian Sea"
     },
     {
-        "id": 2,
-        "question": "Which river is considered the most sacred in India?",
-        "answer": "The Ganges River"
+      "id": 2,
+      "question": "Which river, known as the Huang He, is often called the ‘Mother River of China’?",
+      "answer": "The Yellow River"
     },
     {
-        "id": 3,
-        "question": "What is the national animal of India?",
-        "answer": "Bengal Tiger"
+      "id": 3,
+      "question": "Which Southeast Asian country is home to the temple complex of Angkor Wat?",
+      "answer": "Cambodia"
     },
     {
-        "id": 4,
-        "question": "Which monument was built by Emperor Shah Jahan in memory of his wife?",
-        "answer": "The Taj Mahal"
+      "id": 4,
+      "question": "Mount Fuji is located on which of Japan’s main islands?",
+      "answer": "Honshu"
     },
     {
-        "id": 5,
-        "question": "Who is known as the 'Father of the Nation' in India?",
-        "answer": "Mahatma Gandhi"
+      "id": 5,
+      "question": "Which country in Asia has the smallest population?",
+      "answer": "The Maldives"
     },
     {
-        "id": 6,
-        "question": "Which city is known as the 'Silicon Valley of India'?",
-        "answer": "Bengaluru (Bangalore)"
+      "id": 6,
+      "question": "Which country was formerly known as Burma?",
+      "answer": "Myanmar"
     },
     {
-        "id": 7,
-        "question": "What is the currency of India?",
-        "answer": "Indian Rupee"
+      "id": 7,
+      "question": "Which two countries share the longest international border in Asia?",
+      "answer": "China and Mongolia"
     },
     {
-        "id": 8,
-        "question": "Which festival of lights is one of the most significant festivals in India?",
-        "answer": "Diwali"
+      "id": 8,
+      "question": "Which Himalayan kingdom, known for its Gross National Happiness, is sandwiched between India and China?",
+      "answer": "Bhutan"
+    },
+
+    {
+      "id": 9,
+      "question": "The ancient city of Samarkand, famous on the Silk Road, is located in which Central Asian country?",
+      "answer": "Uzbekistan"
     },
     {
-        "id": 9,
-        "question": "What is the largest state in India by area?",
-        "answer": "Rajasthan"
-    },
-    {
-        "id": 10,
-        "question": "Which Indian city is known for its Bollywood film industry?",
-        "answer": "Mumbai"
+      "id": 10,
+      "question": "Which mountain range in Russia is often considered the natural boundary between Europe and Asia?",
+      "answer": "The Ural Mountains"
     }
-]
+  ]

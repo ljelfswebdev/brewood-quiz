@@ -6,7 +6,7 @@ import { Swiper, SwiperSlide } from 'swiper/react';
 import { Pagination } from 'swiper/modules';
 import createPagination from '../../../components/pagination';
 
-const RoundEight = ({ folder = '/', is_image_round = false }) => {
+const RoundEight = ({ folder = './chocolate', is_image_round = true }) => {
     const totalBullets = data.length + 2; // 2 extra bullets for '-' at the beginning and end
     const pagination = createPagination(totalBullets);
     const [activeSlide, setActiveSlide] = useState(0); // Track the current active slide

@@ -1,0 +1,56 @@
+[
+    {
+        "title": "Children's Television"
+    },
+    {
+        "id": 1,
+        "question": "What is the name of the boy who owns Buzz Lightyear and Woody in 'Toy Story'?",
+        "answer": "Andy"
+    },
+    {
+        "id": 2,
+        "question": "In 'SpongeBob SquarePants', what is the name of SpongeBob's pet snail?",
+        "answer": "Gary"
+    },
+    {
+        "id": 3,
+        "question": "Which children's show features a blue dog who leaves paw print clues?",
+        "answer": "Blue's Clues"
+    },
+    {
+        "id": 4,
+        "question": "In 'Dora the Explorer', what kind of animal is Boots?",
+        "answer": "A monkey"
+    },
+    {
+        "id": 5,
+        "question": "Which show features characters named Marshall, Chase, and Skye?",
+        "answer": "PAW Patrol"
+    },
+    {
+        "id": 6,
+        "question": "In 'Peppa Pig', what is the name of Peppa's younger brother?",
+        "answer": "George"
+    },
+    {
+        "id": 7,
+        "question": "Who are the three main Powerpuff Girls?",
+        "answer": "Blossom, Bubbles, and Buttercup"
+    },
+
+    {
+        "id": 8,
+        "question": "Which show features a handyman and his talking tools?",
+        "answer": "Handy Manny"
+    },
+    {
+        "id": 9,
+        "question": "In 'Arthur', what kind of animal is Arthur?",
+        "answer": "An aardvark"
+    },
+    {
+        "id": 10,
+        "question": "Which animated series follows a boy genius with a secret laboratory?",
+        "answer": "Dexter's Laboratory"
+    }
+]

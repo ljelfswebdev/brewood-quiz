@@ -1,55 +1,55 @@
 [
     {
-        "title": "Dogs"
+      "title": "Round 1: 1992 in Sport"
     },
     {
-        "id": 1,
-        "question": "What is the most popular breed of dog in the United States?",
-        "answer": "Labrador Retriever"
+      "id": 1,
+      "question": "Which NBA team won the 1992 NBA Finals?",
+      "answer": "The Chicago Bulls"
     },
     {
-        "id": 2,
-        "question": "What is the smallest breed of dog?",
-        "answer": "Chihuahua"
+      "id": 2,
+      "question": "Which country hosted the 1992 Summer Olympics?",
+      "answer": "Spain (in Barcelona)"
     },
     {
-        "id": 3,
-        "question": "What breed of dog was originally bred to hunt lions in Africa?",
-        "answer": "Rhodesian Ridgeback"
+      "id": 3,
+      "question": "In which French city were the 1992 Winter Olympics held?",
+      "answer": "Albertville"
     },
     {
-        "id": 4,
-        "question": "What is the fastest breed of dog?",
-        "answer": "Greyhound"
+      "id": 4,
+      "question": "Which tennis player won the Men’s Singles title at Wimbledon 1992?",
+      "answer": "Andre Agassi"
     },
     {
-        "id": 5,
-        "question": "Which small dog breed is known for its long, silky hair and was favored by Chinese royalty?",
-        "answer": "Shih Tzu"
+      "id": 5,
+      "question": "Which tennis player won the Women’s Singles title at Wimbledon 1992?",
+      "answer": "Steffi Graf"
     },
     {
-        "id": 6,
-        "question": "What breed is Snoopy from the 'Peanuts' comic strip?",
-        "answer": "Beagle"
+      "id": 6,
+      "question": "Which country won the 1992 European Football Championship (Euro 92)?",
+      "answer": "Denmark"
     },
     {
-        "id": 7,
-        "question": "Which breed is commonly known as a 'sausage dog'?",
-        "answer": "Dachshund"
+      "id": 7,
+      "question": "Which golfer won the 1992 Masters Tournament?",
+      "answer": "Fred Couples"
     },
     {
-        "id": 8,
-        "question": "Which breed is known for herding sheep and originates from Scotland?",
-        "answer": "Border Collie"
+      "id": 8,
+      "question": "Which cricketer scored the most runs in the 1992 Cricket World Cup?",
+      "answer": "Martin Crowe (New Zealand)"
     },
     {
-        "id": 9,
-        "question": "Which large breed is known for its gentle nature and is often called a 'gentle giant'?",
-        "answer": "Great Dane"
+      "id": 9,
+      "question": "Which F1 driver won the 1992 Drivers’ Championship?",
+      "answer": "Nigel Mansell"
     },
     {
-        "id": 10,
-        "question": "Which breed is the national dog of France and known for its curly hair?",
-        "answer": "Poodle"
+      "id": 10,
+      "question": "Who was crowned the 1992 Ballon d’Or winner?",
+      "answer": "Marco van Basten"
     }
-]
+  ]

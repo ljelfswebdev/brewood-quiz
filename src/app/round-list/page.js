@@ -2,28 +2,28 @@ const RoundList = () => {
     return ( 
         <ul className="page__list">
             <li>
-                Round 1 - Dogs
+                Round 1 - 1992 Sport
             </li>
             <li>
-                Round 2 - Christmas
+                Round 2 - 2020
             </li>
             <li>
-                Round 3 - Childrens Television
+                Round 3 - 1970's Music
             </li>
             <li>
-                Round 4 - 1980's History
+                Round 4 - Scottish History
             </li>
             <li>
-                Round 5 - India
+                Round 5 - Asian Geography
             </li>
             <li>
-                Round 6 - Pink
+                Round 6 - Purple
             </li>
             <li>
-                Round 7 - UK TV
+                Round 7 - Animals of the Sea
             </li>
             <li>
-                Round 8 - Music
+                Round 8 - Chocolate
             </li>
         </ul>
      );

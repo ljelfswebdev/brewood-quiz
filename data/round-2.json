@@ -1,56 +1,55 @@
 [
     {
-        "title": "Christmas"
+      "title": "Round 2: 2020 Events"
     },
     {
-        "id": 1,
-        "question": "Which country is credited with starting the Christmas tree tradition?",
-        "answer": "Germany"
+      "id": 1,
+      "question": "Which city hosted the 2020 Summer Olympics (though held in 2021 due to the global pandemic)?",
+      "answer": "Tokyo, Japan"
     },
     {
-        "id": 2,
-        "question": "What are the names of Santa's reindeer that start with the letter 'D'?",
-        "answer": "Dasher, Dancer, Donner"
+      "id": 2,
+      "question": "In the November 2020 election, Joe Biden was elected as the ____ President of the United States.",
+      "answer": "46th"
     },
     {
-        "id": 3,
-        "question": "In the song 'The Twelve Days of Christmas', what is given on the seventh day?",
-        "answer": "Seven Swans a-Swimming"
+      "id": 3,
+      "question": "Which Netflix docu-series about a big-cat zoo owner named Joe Exotic became a pop-culture phenomenon in 2020?",
+      "answer": "Tiger King"
     },
     {
-        "id": 4,
-        "question": "What is the name of the Grinch's dog in 'How the Grinch Stole Christmas'?",
-        "answer": "Max"
+      "id": 4,
+      "question": "Which Disney live-action remake, planned for release in March 2020, had its theatrical debut delayed and then partially released on Disney+?",
+      "answer": "Mulan"
     },
     {
-        "id": 5,
-        "question": "What item is traditionally hidden in Christmas pudding?",
-        "answer": "A coin"
-    },
-
-    {
-        "id": 6,
-        "question": "What is the highest-grossing Christmas movie of all time?",
-        "answer": "Home Alone"
+      "id": 5,
+      "question": "Which music superstar released the surprise album ‘Folklore’ in July 2020?",
+      "answer": "Taylor Swift"
     },
     {
-        "id": 7,
-        "question": "Which ocean is Christmas Island located in?",
-        "answer": "Indian Ocean"
+      "id": 6,
+      "question": "In which month of 2020 did the WHO formally declare the COVID-19 outbreak a pandemic?",
+      "answer": "March 2020"
     },
     {
-        "id": 8,
-        "question": "In which direction does Santa's sleigh travel to distribute presents?",
-        "answer": "East to West (following the time zones)"
+      "id": 7,
+      "question": "Which streaming platform premiered the acclaimed miniseries ‘The Queen’s Gambit’ in October 2020?",
+      "answer": "Netflix"
     },
     {
-        "id": 9,
-        "question": "Which country donates the Christmas tree in Trafalgar Square?",
-        "answer": "Norway"
+      "id": 8,
+      "question": "Which English football club ended a 30-year wait for the league title by winning the 2019–20 Premier League in June 2020?",
+      "answer": "Liverpool F.C."
     },
     {
-        "id": 10,
-        "question": "What is the name of George Bailey's guardian angel in 'It's a Wonderful Life'?",
-        "answer": "Clarence"
+      "id": 9,
+      "question": "Which global union did the United Kingdom officially exit on January 31, 2020?",
+      "answer": "The European Union (EU)"
+    },
+    {
+      "id": 10,
+      "question": "Which African country was declared free of wild polio virus by the WHO in August 2020, completing Africa’s eradication of wild polio?",
+      "answer": "Nigeria"
     }
-]
+  ]

@@ -1,56 +1,56 @@
 [
     {
-        "title": "Children's Television"
+      "title": "Round 3: 1970’s Music"
     },
     {
-        "id": 1,
-        "question": "What is the name of the boy who owns Buzz Lightyear and Woody in 'Toy Story'?",
-        "answer": "Andy"
+      "id": 1,
+      "question": "Which Swedish pop group rose to international fame after winning Eurovision in 1974?",
+      "answer": "ABBA"
     },
     {
-        "id": 2,
-        "question": "In 'SpongeBob SquarePants', what is the name of SpongeBob's pet snail?",
-        "answer": "Gary"
+      "id": 2,
+      "question": "Which progressive rock band released the album ‘The Dark Side of the Moon’ in 1973?",
+      "answer": "Pink Floyd"
     },
     {
-        "id": 3,
-        "question": "Which children's show features a blue dog who leaves paw print clues?",
-        "answer": "Blue's Clues"
+      "id": 3,
+      "question": "Which singer, known as the ‘Queen of Disco,’ had hits like ‘Hot Stuff’ and ‘Bad Girls’ in the late 1970s?",
+      "answer": "Donna Summer"
     },
     {
-        "id": 4,
-        "question": "In 'Dora the Explorer', what kind of animal is Boots?",
-        "answer": "A monkey"
+      "id": 4,
+      "question": "Which American singer-songwriter released the hit 1971 album ‘Tapestry’?",
+      "answer": "Carole King"
     },
     {
-        "id": 5,
-        "question": "Which show features characters named Marshall, Chase, and Skye?",
-        "answer": "PAW Patrol"
-    },
-    {
-        "id": 6,
-        "question": "In 'Peppa Pig', what is the name of Peppa's younger brother?",
-        "answer": "George"
-    },
-    {
-        "id": 7,
-        "question": "Who are the three main Powerpuff Girls?",
-        "answer": "Blossom, Bubbles, and Buttercup"
+      "id": 5,
+      "question": "Which iconic American singer died at the age of 42 at his Graceland estate in 1977?",
+      "answer": "Elvis Presley"
     },
 
     {
-        "id": 8,
-        "question": "Which show features a handyman and his talking tools?",
-        "answer": "Handy Manny"
+      "id": 6,
+      "question": "Which Jamaican singer, regarded as a pioneer of reggae, gained global acclaim with ‘No Woman, No Cry’ in the 1970s?",
+      "answer": "Bob Marley"
     },
     {
-        "id": 9,
-        "question": "In 'Arthur', what kind of animal is Arthur?",
-        "answer": "An aardvark"
+      "id": 7,
+      "question": "Which British glam rock artist adopted the alter ego Ziggy Stardust in the early 1970s?",
+      "answer": "David Bowie"
     },
     {
-        "id": 10,
-        "question": "Which animated series follows a boy genius with a secret laboratory?",
-        "answer": "Dexter's Laboratory"
+      "id": 8,
+      "question": "Stevie Nicks and Lindsey Buckingham joined which band in 1974, later releasing the album ‘Rumours’ in 1977?",
+      "answer": "Fleetwood Mac"
+    },
+    {
+      "id": 9,
+      "question": "Which German band is considered a pioneer of electronic music, releasing ‘Autobahn’ in 1974?",
+      "answer": "Kraftwerk"
+    },
+    {
+      "id": 10,
+      "question": "Which American singer was known for ‘Piano Man’ (1973) and ‘Just the Way You Are’ (1977)?",
+      "answer": "Billy Joel"
     }
-]
+  ]

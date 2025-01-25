@@ -1,55 +1,56 @@
 [
-    {
-      "title": "Anything Related to the Colour Purple"
-    },
-    {
-      "id": 1,
-      "question": "Which legendary rock band shares its name with a shade of purple?",
-      "answer": "Deep Purple"
-    },
-    {
+  {
+      "title": "Children’s TV Trivia"
+  },
+
+  {
+    "id": 1,
+    "question": "What is the name of the red furry monster on Sesame Street?",
+    "answer": "Elmo."
+},
+  {
       "id": 2,
-      "question": "Which writer published the novel ‘The Color Purple’ in 1982?",
-      "answer": "Alice Walker"
-    },
-    {
+      "question": "What is the name of the animated bear who lived in a cottage with Aunt Lucy?",
+      "answer": "Paddington Bear."
+  },
+  {
       "id": 3,
-      "question": "Which artist's 1984 album features the title track ‘Purple Rain’?",
-      "answer": "Prince"
-    },
-    {
+      "question": "In 'Teletubbies,' what is the name of the vacuum cleaner?",
+      "answer": "Noo-Noo."
+  },
+  {
       "id": 4,
-      "question": "Which U.S. military decoration is awarded to service members wounded or killed in action?",
-      "answer": "The Purple Heart"
-    },
-    {
+      "question": "Which TV show features Squirrel Club?",
+      "answer": "Hey Duggee."
+  },
+  {
       "id": 5,
-      "question": "Historically, due to its rarity and cost, purple dye became associated with which social class?",
-      "answer": "Royalty (nobility)"
-    },
-    {
+      "question": "What was the name of the show where children completed art challenges with Neil Buchanan?",
+      "answer": "Art Attack."
+  },
+  {
       "id": 6,
-      "question": "Which purple dinosaur featured on a children’s TV show is known for the song ‘I Love You’?",
-      "answer": "Barney"
-    },
-    {
+      "question": "Which children's TV show features a group of animated puppies who work together on rescue missions in Adventure Bay?",
+      "answer": "Paw Patrol."
+  },
+  {
       "id": 7,
-      "question": "Which purple flower is a staple in aromatherapy due to its soothing fragrance?",
-      "answer": "Lavender"
-    },
-    {
+      "question": "In which animated series do siblings George, Harold, and their principal-turned-superhero embark on comedic adventures?",
+      "answer": "The Epic Tales of Captain Underpants."
+  },
+  {
       "id": 8,
-      "question": "Which fruit’s name is used as a common term for a deep shade of purple, especially in Europe?",
-      "answer": "Aubergine (Eggplant)"
-    },
-    {
+      "question": "Which children's show features a young girl who goes on adventures with her monkey friend Boots, often involving map-reading and problem-solving?",
+      "answer": "Dora the Explorer."
+  },
+  {
       "id": 9,
-      "question": "Which Disney villain, characterized by a purple color palette and magical staff, appears in ‘Sleeping Beauty’?",
-      "answer": "Maleficent"
-    },
-    {
+      "question": "What is the name of Peppa Pig’s little brother?",
+      "answer": "George."
+  },
+  {
       "id": 10,
-      "question": "Which Ghost-type Pokémon from Generation I is predominantly purple and evolves from Haunter?",
-      "answer": "Gengar"
-    }
-  ]
+      "question": "What breed of dog is Bluey?",
+      "answer": "Blue Heeler."
+  }
+]

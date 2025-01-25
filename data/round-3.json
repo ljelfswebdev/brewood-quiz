@@ -1,56 +1,56 @@
 [
-    {
-      "title": "1970’s Music"
-    },
-    {
-      "id": 1,
-      "question": "Which Swedish pop group rose to international fame after winning Eurovision in 1974?",
-      "answer": "ABBA"
-    },
-    {
-      "id": 2,
-      "question": "Which progressive rock band released the album ‘The Dark Side of the Moon’ in 1973?",
-      "answer": "Pink Floyd"
-    },
-    {
-      "id": 3,
-      "question": "Which singer, known as the ‘Queen of Disco,’ had hits like ‘Hot Stuff’ and ‘Bad Girls’ in the late 1970s?",
-      "answer": "Donna Summer"
-    },
-    {
-      "id": 4,
-      "question": "Which American singer-songwriter released the hit 1971 album ‘Tapestry’?",
-      "answer": "Carole King"
-    },
-    {
-      "id": 5,
-      "question": "Which iconic American singer died at the age of 42 at his Graceland estate in 1977?",
-      "answer": "Elvis Presley"
-    },
+  {
+      "title": "The Olympic Games Trivia"
+  },
 
-    {
+  {
+      "id": 1,
+      "question": "How many Olympic rings are there?",
+      "answer": "Five"
+  },
+  {
+      "id": 2,
+      "question": "Which country has won the most Olympic gold medals in history?",
+      "answer": "United States"
+  },
+  {
+      "id": 3,
+      "question": "Who is the most decorated Olympian of all time?",
+      "answer": "Michael Phelps"
+  },
+  {
+      "id": 4,
+      "question": "Which tennis player won gold medals in both singles and doubles at the 2012 Olympics?",
+      "answer": "Serena Williams"
+  },
+  {
+      "id": 5,
+      "question": "Which two cities have hosted the Summer Olympics the most times?",
+      "answer": "London and Paris"
+  },
+  {
       "id": 6,
-      "question": "Which Jamaican singer, regarded as a pioneer of reggae, gained global acclaim with ‘No Woman, No Cry’ in the 1970s?",
-      "answer": "Bob Marley"
-    },
-    {
+      "question": "Which sport made its debut at the Tokyo 2020 Olympics?",
+      "answer": "Skateboarding"
+  },
+  {
       "id": 7,
-      "question": "Which British glam rock artist adopted the alter ego Ziggy Stardust in the early 1970s?",
-      "answer": "David Bowie"
-    },
-    {
+      "question": "What is the only Olympic event in which men and women compete directly against each other?",
+      "answer": "Equestrian"
+  },
+  {
       "id": 8,
-      "question": "Stevie Nicks and Lindsey Buckingham joined which band in 1974, later releasing the album ‘Rumours’ in 1977?",
-      "answer": "Fleetwood Mac"
-    },
-    {
+      "question": "Which country has never missed a single Olympic Games?",
+      "answer": "Greece"
+  },
+  {
       "id": 9,
-      "question": "Which German band is considered a pioneer of electronic music, releasing ‘Autobahn’ in 1974?",
-      "answer": "Kraftwerk"
-    },
-    {
+      "question": "What is the motto of the Olympic Games?",
+      "answer": "Citius, Altius, Fortius (Faster, Higher, Stronger)"
+  },
+  {
       "id": 10,
-      "question": "Which American singer was known for ‘Piano Man’ (1973) and ‘Just the Way You Are’ (1977)?",
-      "answer": "Billy Joel"
-    }
-  ]
+      "question": "In which year were the first modern Olympic Games held?",
+      "answer": "1896"
+  }
+]

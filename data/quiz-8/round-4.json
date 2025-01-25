@@ -1,0 +1,55 @@
+[
+    {
+      "title": "Scottish History"
+    },
+    {
+      "id": 1,
+      "question": "Which battle in 1314 was a significant Scottish victory under Robert the Bruce against the English?",
+      "answer": "The Battle of Bannockburn"
+    },
+    {
+      "id": 2,
+      "question": "In which year was the Act of Union passed, uniting the Kingdom of Scotland with England?",
+      "answer": "1707"
+    },
+    {
+      "id": 3,
+      "question": "Which Scottish knight led the rebellion culminating in the Battle of Stirling Bridge in 1297?",
+      "answer": "William Wallace"
+    },
+    {
+      "id": 4,
+      "question": "Which 18th-century Scottish economist wrote ‘The Wealth of Nations’?",
+      "answer": "Adam Smith"
+    },
+    {
+      "id": 5,
+      "question": "Which Scottish queen was forced to abdicate in 1567 and later executed by Queen Elizabeth I?",
+      "answer": "Mary, Queen of Scots"
+    },
+    {
+      "id": 6,
+      "question": "Which 1746 battle effectively ended the Jacobite uprising led by Bonnie Prince Charlie?",
+      "answer": "The Battle of Culloden"
+    },
+    {
+      "id": 7,
+      "question": "Which Scottish city was nicknamed ‘The Athens of the North’ during the Enlightenment?",
+      "answer": "Edinburgh"
+    },
+    {
+      "id": 8,
+      "question": "Which Scottish-born American industrialist led the expansion of the U.S. steel industry?",
+      "answer": "Andrew Carnegie"
+    },
+    {
+      "id": 9,
+      "question": "Which King of Scots, reigning from 1040 to 1057, inspired a Shakespearean tragedy?",
+      "answer": "Macbeth"
+    },
+    {
+      "id": 10,
+      "question": "Which canal, built by Thomas Telford, connects Scotland’s east coast to its west coast via locks?",
+      "answer": "The Caledonian Canal"
+    }
+  ]

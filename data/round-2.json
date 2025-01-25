@@ -1,55 +1,56 @@
 [
-    {
-      "title": "2020 Events"
-    },
-    {
+  {
+      "title": "Advertising Slogans Trivia"
+  },
+
+  {
       "id": 1,
-      "question": "Which city hosted the 2020 Summer Olympics (though held in 2021 due to the global pandemic)?",
-      "answer": "Tokyo, Japan"
-    },
-    {
+      "question": "Soft, strong and very long.",
+      "answer": "Andrex"
+  },
+  {
       "id": 2,
-      "question": "In the November 2020 election, Joe Biden was elected as the ____ President of the United States.",
-      "answer": "46th"
-    },
-    {
+      "question": "The ultimate driving machine refers to which car brand?",
+      "answer": "BMW"
+  },
+  {
       "id": 3,
-      "question": "Which Netflix docu-series about a big-cat zoo owner named Joe Exotic became a pop-culture phenomenon in 2020?",
-      "answer": "Tiger King"
-    },
-    {
+      "question": "It’s got our name on it is associated with which UK brand?",
+      "answer": "McCain"
+  },
+  {
       "id": 4,
-      "question": "Which Disney live-action remake, planned for release in March 2020, had its theatrical debut delayed and then partially released on Disney+?",
-      "answer": "Mulan"
-    },
-    {
+      "question": "Good things come to those who wait. What brand is this?",
+      "answer": "Guinness"
+  },
+  {
       "id": 5,
-      "question": "Which music superstar released the surprise album ‘Folklore’ in July 2020?",
-      "answer": "Taylor Swift"
-    },
-    {
+      "question": "Keeps going and going",
+      "answer": "Duracell"
+  },
+  {
       "id": 6,
-      "question": "In which month of 2020 did the WHO formally declare the COVID-19 outbreak a pandemic?",
-      "answer": "March 2020"
-    },
-    {
+      "question": "The appliance of science.",
+      "answer": "Zanussi"
+  },
+  {
       "id": 7,
-      "question": "Which streaming platform premiered the acclaimed miniseries ‘The Queen’s Gambit’ in October 2020?",
-      "answer": "Netflix"
-    },
-    {
+      "question": "What’s the worst that could happen? Or “Try more weird”",
+      "answer": "Dr Pepper"
+  },
+  {
       "id": 8,
-      "question": "Which English football club ended a 30-year wait for the league title by winning the 2019–20 Premier League in June 2020?",
-      "answer": "Liverpool F.C."
-    },
-    {
+      "question": "Reassuringly expensive.",
+      "answer": "Stella Artois"
+  },
+  {
       "id": 9,
-      "question": "Which global union did the United Kingdom officially exit on January 31, 2020?",
-      "answer": "The European Union (EU)"
-    },
-    {
+      "question": "Live well for less.",
+      "answer": "Sainsbury’s"
+  },
+  {
       "id": 10,
-      "question": "Which African country was declared free of wild polio virus by the WHO in August 2020, completing Africa’s eradication of wild polio?",
-      "answer": "Nigeria"
-    }
-  ]
+      "question": "Taste the rainbow",
+      "answer": "Skittles"
+  }
+]

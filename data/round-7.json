@@ -1,55 +1,56 @@
 [
-    {
-      "title": "Animals of the Sea"
-    },
-    {
+  {
+      "title": "Disney and Movie Music Trivia"
+  },
+
+  {
       "id": 1,
-      "question": "Which is the largest mammal in the sea, also the largest animal on Earth?",
-      "answer": "The Blue Whale"
-    },
-    {
+      "question": "What song from Encanto became a viral hit in 2022?",
+      "answer": "We Don’t Talk About Bruno."
+  },
+  {
       "id": 2,
-      "question": "Which cephalopod can rapidly change color and texture to blend with its surroundings?",
-      "answer": "The Octopus"
-    },
-    {
+      "question": "In Frozen, what duet do Anna and Hans sing about finishing each other's sandwiches?",
+      "answer": "Love Is an Open Door."
+  },
+  {
       "id": 3,
-      "question": "Which shark, the largest fish in the world, is known for its filter-feeding habits?",
-      "answer": "The Whale Shark"
-    },
-    {
+      "question": "In Grease, what song do Danny and Sandy sing together about their love?",
+      "answer": "Summer Nights."
+  },
+  {
       "id": 4,
-      "question": "Which whale species can dive deeper than any other mammal, often surpassing 2,000 meters?",
-      "answer": "The Sperm Whale"
-    },
-    {
+      "question": "What is the name of the lullaby sung by Jessie in Toy Story 2?",
+      "answer": "When She Loved Me."
+  },
+  {
       "id": 5,
-      "question": "Which apex predator is actually the largest member of the dolphin family?",
-      "answer": "The Killer Whale / Orca"
-    },
-    {
+      "question": "In Mary Poppins, what is the name of the song about a made-up word?",
+      "answer": "Supercalifragilisticexpialidocious."
+  },
+  {
       "id": 6,
-      "question": "Which marine mammals, known for echolocation, include the Bottlenose variety?",
-      "answer": "Dolphins"
-    },
-    {
+      "question": "What song is sung by Aladdin and Jasmine as they fly on a magic carpet?",
+      "answer": "A Whole New World."
+  },
+  {
       "id": 7,
-      "question": "Which deep-sea fish uses a bioluminescent lure attached to its head to attract prey?",
-      "answer": "The Anglerfish"
-    },
-    {
+      "question": "What song does Baloo the bear sing in The Jungle Book?",
+      "answer": "The Bare Necessities."
+  },
+  {
       "id": 8,
-      "question": "Which large Arctic marine mammal has tusks and is known for hauling out on ice floes?",
-      "answer": "The Walrus"
-    },
-    {
+      "question": "In Beauty and the Beast, which character sings 'Be Our Guest'?",
+      "answer": "Lumière."
+  },
+  {
       "id": 9,
-      "question": "Which enormous cephalopod can have eyes up to 10 inches across—the largest in the animal kingdom?",
-      "answer": "The Giant Squid"
-    },
-    {
+      "question": "Which Disney princess sings 'Part of Your World'?",
+      "answer": "Ariel from The Little Mermaid."
+  },
+  {
       "id": 10,
-      "question": "Which whale, heavily hunted in the past for blubber, is known for its distinctive dorsal hump?",
-      "answer": "The Humpback Whale"
-    }
-  ]
+      "question": "What song from Encanto became a viral hit in 2022?",
+      "answer": "We Don’t Talk About Bruno."
+  }
+]

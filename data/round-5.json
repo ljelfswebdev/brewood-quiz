@@ -1,56 +1,61 @@
 [
-    {
-      "title": "Asian Geography"
-    },
-    {
-      "id": 1,
-      "question": "Name the largest lake in Asia (often classified as the world’s largest enclosed inland water body).",
-      "answer": "The Caspian Sea"
-    },
-    {
+  {
+      "title" : "Premier League"
+  },
+
+
+  {
+    "id": 1,
+    "question": "Name the all-time top 10 goal scorers in the Premier League",
+    "answer": "Alan Shearer"
+  },
+  {
       "id": 2,
-      "question": "Which river, known as the Huang He, is often called the ‘Mother River of China’?",
-      "answer": "The Yellow River"
-    },
-    {
+      "question": "Name the all-time top 10 goal scorers in the Premier League",
+      "answer": "Harry Kane"
+  },
+
+  {
       "id": 3,
-      "question": "Which Southeast Asian country is home to the temple complex of Angkor Wat?",
-      "answer": "Cambodia"
+      "question": "Name the all-time top 10 goal scorers in the Premier League",
+      "answer": "Wayne Rooney"
     },
     {
-      "id": 4,
-      "question": "Mount Fuji is located on which of Japan’s main islands?",
-      "answer": "Honshu"
-    },
-    {
-      "id": 5,
-      "question": "Which country in Asia has the smallest population?",
-      "answer": "The Maldives"
-    },
-    {
-      "id": 6,
-      "question": "Which country was formerly known as Burma?",
-      "answer": "Myanmar"
-    },
-    {
-      "id": 7,
-      "question": "Which two countries share the longest international border in Asia?",
-      "answer": "China and Mongolia"
-    },
-    {
-      "id": 8,
-      "question": "Which Himalayan kingdom, known for its Gross National Happiness, is sandwiched between India and China?",
-      "answer": "Bhutan"
+        "id": 4,
+        "question": "Name the all-time top 10 goal scorers in the Premier League",
+        "answer": "Andy Cole"
     },
 
-    {
-      "id": 9,
-      "question": "The ancient city of Samarkand, famous on the Silk Road, is located in which Central Asian country?",
-      "answer": "Uzbekistan"
+  {
+      "id": 5,
+      "question": "Name the all-time top 10 goal scorers in the Premier League",
+      "answer": "Sergio Aguero"
     },
     {
-      "id": 10,
-      "question": "Which mountain range in Russia is often considered the natural boundary between Europe and Asia?",
-      "answer": "The Ural Mountains"
+        "id": 6,
+        "question": "Name the all-time top 10 goal scorers in the Premier League",
+        "answer": "Frank Lampard"
+    },
+
+  {
+      "id": 7,
+      "question": "Name the all-time top 10 goal scorers in the Premier League",
+      "answer": "Thiery Henry"
+    },
+    {
+        "id": 8,
+        "question": "Name the all-time top 10 goal scorers in the Premier League",
+        "answer": "Mohammed Salah"
+    },
+
+  {
+      "id": 9,
+      "question": "Name the all-time top 10 goal scorers in the Premier League",
+      "answer": "Robbie Fowler"
+    },
+    {
+        "id": 10,
+        "question": "Name the all-time top 10 goal scorers in the Premier League",
+        "answer": "Jermaine Defoe"
     }
-  ]
+]

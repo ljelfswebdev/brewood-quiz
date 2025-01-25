@@ -1,55 +1,56 @@
 [
-    {
-      "title": "Scottish History"
-    },
-    {
+  {
+      "title": "White Trivia"
+  },
+
+  {
       "id": 1,
-      "question": "Which battle in 1314 was a significant Scottish victory under Robert the Bruce against the English?",
-      "answer": "The Battle of Bannockburn"
-    },
-    {
+      "question": "Which 'White' structure is the official residence of the President of the United States?",
+      "answer": "The White House."
+  },
+  {
       "id": 2,
-      "question": "In which year was the Act of Union passed, uniting the Kingdom of Scotland with England?",
-      "answer": "1707"
-    },
-    {
+      "question": "What is the chemical element commonly known as 'white gold' in jewelry?",
+      "answer": "Platinum."
+  },
+  {
       "id": 3,
-      "question": "Which Scottish knight led the rebellion culminating in the Battle of Stirling Bridge in 1297?",
-      "answer": "William Wallace"
-    },
-    {
+      "question": "What white bird is often a symbol of peace?",
+      "answer": "Dove."
+  },
+  {
       "id": 4,
-      "question": "Which 18th-century Scottish economist wrote ‘The Wealth of Nations’?",
-      "answer": "Adam Smith"
-    },
-    {
+      "question": "What is the name of the British ship that famously sank in 1912 and was part of the White Star Line?",
+      "answer": "Titanic."
+  },
+  {
       "id": 5,
-      "question": "Which Scottish queen was forced to abdicate in 1567 and later executed by Queen Elizabeth I?",
-      "answer": "Mary, Queen of Scots"
-    },
-    {
+      "question": "In the 1800s, what trail was often referred to as the 'White Man’s Road' in Native American history?",
+      "answer": "The Oregon Trail."
+  },
+  {
       "id": 6,
-      "question": "Which 1746 battle effectively ended the Jacobite uprising led by Bonnie Prince Charlie?",
-      "answer": "The Battle of Culloden"
-    },
-    {
+      "question": "What is the scientific term for a dwarf star that has exhausted its nuclear fuel and is very dense?",
+      "answer": "White dwarf."
+  },
+  {
       "id": 7,
-      "question": "Which Scottish city was nicknamed ‘The Athens of the North’ during the Enlightenment?",
-      "answer": "Edinburgh"
-    },
-    {
+      "question": "What is the title of the Quentin Tarantino film featuring a character named Mr. White?",
+      "answer": "Reservoir Dogs."
+  },
+  {
       "id": 8,
-      "question": "Which Scottish-born American industrialist led the expansion of the U.S. steel industry?",
-      "answer": "Andrew Carnegie"
-    },
-    {
+      "question": "In the Harry Potter series, what is the name of the white owl owned by Harry?",
+      "answer": "Hedwig."
+  },
+  {
       "id": 9,
-      "question": "Which King of Scots, reigning from 1040 to 1057, inspired a Shakespearean tragedy?",
-      "answer": "Macbeth"
-    },
-    {
+      "question": "What TV show features Walter White as a chemistry teacher turned drug lord?",
+      "answer": "Breaking Bad."
+  },
+  {
       "id": 10,
-      "question": "Which canal, built by Thomas Telford, connects Scotland’s east coast to its west coast via locks?",
-      "answer": "The Caledonian Canal"
-    }
-  ]
+      "question": "Which river, a major tributary of the Nile, is named for its white, muddy waters?",
+      "answer": "White Nile."
+  }
+]

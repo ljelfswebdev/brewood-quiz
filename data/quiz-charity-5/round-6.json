@@ -1,0 +1,56 @@
+[
+  {
+      "title": "Children’s TV Trivia"
+  },
+
+  {
+    "id": 1,
+    "question": "What is the name of the red furry monster on Sesame Street?",
+    "answer": "Elmo."
+},
+  {
+      "id": 2,
+      "question": "What is the name of the animated bear who lived in a cottage with Aunt Lucy?",
+      "answer": "Paddington Bear."
+  },
+  {
+      "id": 3,
+      "question": "In 'Teletubbies,' what is the name of the vacuum cleaner?",
+      "answer": "Noo-Noo."
+  },
+  {
+      "id": 4,
+      "question": "Which TV show features Squirrel Club?",
+      "answer": "Hey Duggee."
+  },
+  {
+      "id": 5,
+      "question": "What was the name of the show where children completed art challenges with Neil Buchanan?",
+      "answer": "Art Attack."
+  },
+  {
+      "id": 6,
+      "question": "Which children's TV show features a group of animated puppies who work together on rescue missions in Adventure Bay?",
+      "answer": "Paw Patrol."
+  },
+  {
+      "id": 7,
+      "question": "In which animated series do siblings George, Harold, and their principal-turned-superhero embark on comedic adventures?",
+      "answer": "The Epic Tales of Captain Underpants."
+  },
+  {
+      "id": 8,
+      "question": "Which children's show features a young girl who goes on adventures with her monkey friend Boots, often involving map-reading and problem-solving?",
+      "answer": "Dora the Explorer."
+  },
+  {
+      "id": 9,
+      "question": "What is the name of Peppa Pig’s little brother?",
+      "answer": "George."
+  },
+  {
+      "id": 10,
+      "question": "What breed of dog is Bluey?",
+      "answer": "Blue Heeler."
+  }
+]

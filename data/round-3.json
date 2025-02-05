@@ -1,56 +1,55 @@
 [
-  {
-      "title": "The Olympic Games Trivia"
-  },
-
-  {
+    {
+      "title": "Australian Geography"
+    },
+    {
       "id": 1,
-      "question": "How many Olympic rings are there?",
-      "answer": "Five"
-  },
-  {
+      "question": "What is the capital city of Australia?",
+      "answer": "Canberra"
+    },
+    {
       "id": 2,
-      "question": "Which country has won the most Olympic gold medals in history?",
-      "answer": "United States"
-  },
-  {
+      "question": "Which state is home to the city of Brisbane?",
+      "answer": "Queensland"
+    },
+    {
       "id": 3,
-      "question": "Who is the most decorated Olympian of all time?",
-      "answer": "Michael Phelps"
-  },
-  {
+      "question": "Uluru, a large sandstone rock formation, is located in which Australian territory?",
+      "answer": "Northern Territory"
+    },
+    {
       "id": 4,
-      "question": "Which tennis player won gold medals in both singles and doubles at the 2012 Olympics?",
-      "answer": "Serena Williams"
-  },
-  {
+      "question": "Which is the largest desert in Australia?",
+      "answer": "The Great Victoria Desert"
+    },
+    {
       "id": 5,
-      "question": "Which two cities have hosted the Summer Olympics the most times?",
-      "answer": "London and Paris"
-  },
-  {
+      "question": "Which city is the capital of Western Australia?",
+      "answer": "Perth"
+    },
+    {
       "id": 6,
-      "question": "Which sport made its debut at the Tokyo 2020 Olympics?",
-      "answer": "Skateboarding"
-  },
-  {
+      "question": "Which mountain range runs along the east coast of Australia?",
+      "answer": "The Great Dividing Range"
+    },
+    {
       "id": 7,
-      "question": "What is the only Olympic event in which men and women compete directly against each other?",
-      "answer": "Equestrian"
-  },
-  {
+      "question": "Which body of water separates Australia and Tasmania?",
+      "answer": "Bass Strait"
+    },
+    {
       "id": 8,
-      "question": "Which country has never missed a single Olympic Games?",
-      "answer": "Greece"
-  },
-  {
+      "question": "What is the highest peak on the Australian mainland?",
+      "answer": "Mount Kosciuszko"
+    },
+    {
       "id": 9,
-      "question": "What is the motto of the Olympic Games?",
-      "answer": "Citius, Altius, Fortius (Faster, Higher, Stronger)"
-  },
-  {
-      "id": 10,
-      "question": "In which year were the first modern Olympic Games held?",
-      "answer": "1896"
-  }
-]
+      "question": "Which famous beach is located in Sydney’s eastern suburbs?",
+      "answer": "Bondi Beach"
+    },
+    {
+        "id": 10,
+        "question": "Adelaide is the capital of which Australian state?",
+        "answer": "South Australia"
+      }
+  ]

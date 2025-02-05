@@ -1,0 +1,56 @@
+[
+  {
+      "title": "Geography Trivia"
+  },
+
+  {
+      "id": 1,
+      "question": "What is the largest ocean in the world?",
+      "answer": "The Pacific Ocean"
+  },
+  {
+      "id": 2,
+      "question": "What is the name of the imaginary line that divides the Earth into the Northern and Southern Hemispheres?",
+      "answer": "The Equator"
+  },
+  {
+      "id": 3,
+      "question": "This is the largest country in the world by area.",
+      "answer": "Russia"
+  },
+  {
+      "id": 4,
+      "question": "What is the smallest country in the world?",
+      "answer": "Vatican City"
+  },
+  {
+      "id": 5,
+      "question": "What is the longest river in the UK?",
+      "answer": "The River Severn"
+  },
+  {
+      "id": 6,
+      "question": "What is the name of the tallest waterfall in the world?",
+      "answer": "Angel Falls"
+  },
+  {
+      "id": 7,
+      "question": "How many Great Lakes are there in North America?",
+      "answer": "Five"
+  },
+  {
+      "id": 8,
+      "question": "What is the name of the largest island in the world?",
+      "answer": "Greenland"
+  },
+  {
+      "id": 9,
+      "question": "What is the name of the tallest building in the world?",
+      "answer": "Burj Khalifa (in Dubai, UAE)"
+  },
+  {
+      "id": 10,
+      "question": "Which U.S. state is the largest by land area?",
+      "answer": "Alaska"
+  }
+]

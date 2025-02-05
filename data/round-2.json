@@ -1,56 +1,55 @@
 [
-  {
-      "title": "Advertising Slogans Trivia"
-  },
-
-  {
+    {
+      "title": "Sport in 2020"
+    },
+    {
       "id": 1,
-      "question": "Soft, strong and very long.",
-      "answer": "Andrex"
-  },
-  {
+      "question": "Which team won Super Bowl LIV?",
+      "answer": "Kansas City Chiefs"
+    },
+    {
       "id": 2,
-      "question": "The ultimate driving machine refers to which car brand?",
-      "answer": "BMW"
-  },
-  {
+      "question": "Which tennis player won the 2020 Australian Open Men's Singles title?",
+      "answer": "Novak Djokovic"
+    },
+    {
       "id": 3,
-      "question": "It’s got our name on it is associated with which UK brand?",
-      "answer": "McCain"
-  },
-  {
+      "question": "Which Formula 1 driver won the 2020 Drivers' Championship?",
+      "answer": "Lewis Hamilton"
+    },
+    {
       "id": 4,
-      "question": "Good things come to those who wait. What brand is this?",
-      "answer": "Guinness"
-  },
-  {
+      "question": "Which team won the 2020 NBA Finals?",
+      "answer": "Los Angeles Lakers"
+    },
+    {
       "id": 5,
-      "question": "Keeps going and going",
-      "answer": "Duracell"
-  },
-  {
+      "question": "Which soccer team won the UEFA Champions League in 2020?",
+      "answer": "Bayern Munich"
+    },
+    {
       "id": 6,
-      "question": "The appliance of science.",
-      "answer": "Zanussi"
-  },
-  {
+      "question": "Which soccer star won the Best FIFA Men's Player Award for 2020?",
+      "answer": "Robert Lewandowski"
+    },
+    {
       "id": 7,
-      "question": "What’s the worst that could happen? Or “Try more weird”",
-      "answer": "Dr Pepper"
-  },
-  {
+      "question": "Which MLB team won the 2020 World Series?",
+      "answer": "Los Angeles Dodgers"
+    },
+    {
       "id": 8,
-      "question": "Reassuringly expensive.",
-      "answer": "Stella Artois"
-  },
-  {
+      "question": "Which golfer won the 2020 Masters Tournament?",
+      "answer": "Dustin Johnson"
+    },
+    {
       "id": 9,
-      "question": "Live well for less.",
-      "answer": "Sainsbury’s"
-  },
-  {
+      "question": "Which team won the T20 Women's Cricket World Cup in 2020?",
+      "answer": "Australia"
+    },
+    {
       "id": 10,
-      "question": "Taste the rainbow",
-      "answer": "Skittles"
-  }
-]
+      "question": "Who won the 2019/20 Premier League Golden Boot?",
+      "answer": "Jamie Vardy"
+    }
+  ]

@@ -1,0 +1,56 @@
+[
+  {
+      "title": "General Knowledge Trivia"
+  },
+
+  {
+      "id": 1,
+      "question": "Who painted the Mona Lisa?",
+      "answer": "Leonardo da Vinci"
+  },
+  {
+      "id": 2,
+      "question": "Which element has the chemical symbol 'Ca'?",
+      "answer": "Calcium"
+  },
+  {
+      "id": 3,
+      "question": "What is the smallest prime number?",
+      "answer": "2"
+  },
+  {
+      "id": 4,
+      "question": "Which planet is the hottest in our solar system?",
+      "answer": "Venus"
+  },
+  {
+      "id": 5,
+      "question": "What does the 'HTTP' in a website URL stand for?",
+      "answer": "Hypertext Transfer Protocol"
+  },
+  {
+      "id": 6,
+      "question": "How many bones are in the human body?",
+      "answer": "206"
+  },
+  {
+      "id": 7,
+      "question": "What is the main ingredient of sushi?",
+      "answer": "Rice"
+  },
+  {
+      "id": 8,
+      "question": "What is the national bird of the United States?",
+      "answer": "Bald eagle"
+  },
+  {
+      "id": 9,
+      "question": "In which country would you find the Great Pyramid of Giza?",
+      "answer": "Egypt"
+  },
+  {
+      "id": 10,
+      "question": "If you look out the window now, which four planets of the solar system can you see with the naked eye?",
+      "answer": "Venus, Mars, Jupiter, and Saturn"
+  }
+]

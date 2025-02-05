@@ -1,56 +1,56 @@
 [
-  {
-      "title": "Children’s TV Trivia"
-  },
-
-  {
-    "id": 1,
-    "question": "What is the name of the red furry monster on Sesame Street?",
-    "answer": "Elmo."
-},
-  {
+    {
+      "title": "20th Century British History"
+    },
+    {
+      "id": 1,
+      "question": "In which year did Queen Victoria die, marking the end of the Victorian era?",
+      "answer": "1901"
+    },
+    {
       "id": 2,
-      "question": "What is the name of the animated bear who lived in a cottage with Aunt Lucy?",
-      "answer": "Paddington Bear."
-  },
-  {
+      "question": "Who became the British Prime Minister in 1940, leading the country through WWII?",
+      "answer": "Winston Churchill"
+    },
+ 
+    {
       "id": 3,
-      "question": "In 'Teletubbies,' what is the name of the vacuum cleaner?",
-      "answer": "Noo-Noo."
-  },
-  {
+      "question": "Which British Prime Minister served from 1979 to 1990?",
+      "answer": "Margaret Thatcher"
+    },
+    {
       "id": 4,
-      "question": "Which TV show features Squirrel Club?",
-      "answer": "Hey Duggee."
-  },
-  {
+      "question": "The BBC first began regular television broadcasts in which year: 1936 or 1954?",
+      "answer": "1936"
+    },
+    {
       "id": 5,
-      "question": "What was the name of the show where children completed art challenges with Neil Buchanan?",
-      "answer": "Art Attack."
-  },
-  {
+      "question": "Which year did King George V ascend to the British throne?",
+      "answer": "1910"
+    },
+    {
       "id": 6,
-      "question": "Which children's TV show features a group of animated puppies who work together on rescue missions in Adventure Bay?",
-      "answer": "Paw Patrol."
-  },
-  {
+      "question": "Which British colonial possession was returned to China in 1997?",
+      "answer": "Hong Kong"
+    },
+    {
       "id": 7,
-      "question": "In which animated series do siblings George, Harold, and their principal-turned-superhero embark on comedic adventures?",
-      "answer": "The Epic Tales of Captain Underpants."
-  },
-  {
+      "question": "Which British code-breaking center led by Alan Turing played a crucial role in WWII?",
+      "answer": "Bletchley Park"
+    },
+    {
       "id": 8,
-      "question": "Which children's show features a young girl who goes on adventures with her monkey friend Boots, often involving map-reading and problem-solving?",
-      "answer": "Dora the Explorer."
-  },
-  {
+      "question": "In what year did women gain equal voting rights with men in the UK?",
+      "answer": "1928"
+    },
+    {
       "id": 9,
-      "question": "What is the name of Peppa Pig’s little brother?",
-      "answer": "George."
-  },
-  {
+      "question": "Which conflict from 1919 to 1921 is also referred to as the Anglo-Irish War?",
+      "answer": "The Irish War of Independence"
+    },
+    {
       "id": 10,
-      "question": "What breed of dog is Bluey?",
-      "answer": "Blue Heeler."
-  }
-]
+      "question": "In which year was the National Health Service (NHS) established?",
+      "answer": "1948"
+    }
+  ]

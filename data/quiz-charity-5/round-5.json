@@ -1,0 +1,61 @@
+[
+  {
+      "title" : "Premier League"
+  },
+
+
+  {
+    "id": 1,
+    "question": "Name the all-time top 10 goal scorers in the Premier League",
+    "answer": "Alan Shearer"
+  },
+  {
+      "id": 2,
+      "question": "Name the all-time top 10 goal scorers in the Premier League",
+      "answer": "Harry Kane"
+  },
+
+  {
+      "id": 3,
+      "question": "Name the all-time top 10 goal scorers in the Premier League",
+      "answer": "Wayne Rooney"
+    },
+    {
+        "id": 4,
+        "question": "Name the all-time top 10 goal scorers in the Premier League",
+        "answer": "Andy Cole"
+    },
+
+  {
+      "id": 5,
+      "question": "Name the all-time top 10 goal scorers in the Premier League",
+      "answer": "Sergio Aguero"
+    },
+    {
+        "id": 6,
+        "question": "Name the all-time top 10 goal scorers in the Premier League",
+        "answer": "Frank Lampard"
+    },
+
+  {
+      "id": 7,
+      "question": "Name the all-time top 10 goal scorers in the Premier League",
+      "answer": "Thiery Henry"
+    },
+    {
+        "id": 8,
+        "question": "Name the all-time top 10 goal scorers in the Premier League",
+        "answer": "Mohammed Salah"
+    },
+
+  {
+      "id": 9,
+      "question": "Name the all-time top 10 goal scorers in the Premier League",
+      "answer": "Robbie Fowler"
+    },
+    {
+        "id": 10,
+        "question": "Name the all-time top 10 goal scorers in the Premier League",
+        "answer": "Jermaine Defoe"
+    }
+]

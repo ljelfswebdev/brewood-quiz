@@ -1,56 +1,56 @@
 [
-  {
-      "title": "Disney and Movie Music Trivia"
-  },
-
-  {
+    {
+      "title": "Physics"
+    },
+    {
       "id": 1,
-      "question": "What song from Encanto became a viral hit in 2022?",
-      "answer": "We Don’t Talk About Bruno."
-  },
-  {
+      "question": "Which branch of physics deals with motion, forces, and energy in everyday contexts?",
+      "answer": "Mechanics"
+    },
+    {
       "id": 2,
-      "question": "In Frozen, what duet do Anna and Hans sing about finishing each other's sandwiches?",
-      "answer": "Love Is an Open Door."
-  },
-  {
+      "question": "Who is known for formulating the three laws of motion and the law of universal gravitation?",
+      "answer": "Sir Isaac Newton"
+    },
+    {
       "id": 3,
-      "question": "In Grease, what song do Danny and Sandy sing together about their love?",
-      "answer": "Summer Nights."
-  },
-  {
+      "question": "In physics, what is the rate of change of velocity called?",
+      "answer": "Acceleration"
+    },
+    {
       "id": 4,
-      "question": "What is the name of the lullaby sung by Jessie in Toy Story 2?",
-      "answer": "When She Loved Me."
-  },
-  {
+      "question": "Which Scottish physicist developed the set of equations describing electromagnetic fields and waves?",
+      "answer": "James Clerk Maxwell"
+    },
+    {
       "id": 5,
-      "question": "In Mary Poppins, what is the name of the song about a made-up word?",
-      "answer": "Supercalifragilisticexpialidocious."
-  },
-  {
+      "question": "What term describes the energy possessed by an object due to its motion?",
+      "answer": "Kinetic Energy"
+    },
+    {
       "id": 6,
-      "question": "What song is sung by Aladdin and Jasmine as they fly on a magic carpet?",
-      "answer": "A Whole New World."
-  },
-  {
+      "question": "According to Einstein’s famous equation E = mc², what does 'c' stand for?",
+      "answer": "The speed of light in a vacuum"
+    },
+    {
       "id": 7,
-      "question": "What song does Baloo the bear sing in The Jungle Book?",
-      "answer": "The Bare Necessities."
-  },
-  {
+      "question": "Which physicist is known for proposing the uncertainty principle in quantum mechanics?",
+      "answer": "Werner Heisenberg"
+    },
+    {
       "id": 8,
-      "question": "In Beauty and the Beast, which character sings 'Be Our Guest'?",
-      "answer": "Lumière."
-  },
-  {
+      "question": "What does the acronym 'LASER' stand for?",
+      "answer": "Light Amplification by Stimulated Emission of Radiation"
+    },
+    {
       "id": 9,
-      "question": "Which Disney princess sings 'Part of Your World'?",
-      "answer": "Ariel from The Little Mermaid."
-  },
-  {
+      "question": "Which form of energy transfer occurs through electromagnetic waves without requiring a medium?",
+      "answer": "Radiation"
+    },
+
+    {
       "id": 10,
-      "question": "What song from Encanto became a viral hit in 2022?",
-      "answer": "We Don’t Talk About Bruno."
-  }
-]
+      "question": "Which subfield of physics focuses on the behavior of atomic and subatomic particles?",
+      "answer": "Quantum Mechanics"
+    }
+  ]

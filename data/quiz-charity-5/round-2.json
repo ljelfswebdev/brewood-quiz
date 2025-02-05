@@ -1,0 +1,56 @@
+[
+  {
+      "title": "Advertising Slogans Trivia"
+  },
+
+  {
+      "id": 1,
+      "question": "Soft, strong and very long.",
+      "answer": "Andrex"
+  },
+  {
+      "id": 2,
+      "question": "The ultimate driving machine refers to which car brand?",
+      "answer": "BMW"
+  },
+  {
+      "id": 3,
+      "question": "It’s got our name on it is associated with which UK brand?",
+      "answer": "McCain"
+  },
+  {
+      "id": 4,
+      "question": "Good things come to those who wait. What brand is this?",
+      "answer": "Guinness"
+  },
+  {
+      "id": 5,
+      "question": "Keeps going and going",
+      "answer": "Duracell"
+  },
+  {
+      "id": 6,
+      "question": "The appliance of science.",
+      "answer": "Zanussi"
+  },
+  {
+      "id": 7,
+      "question": "What’s the worst that could happen? Or “Try more weird”",
+      "answer": "Dr Pepper"
+  },
+  {
+      "id": 8,
+      "question": "Reassuringly expensive.",
+      "answer": "Stella Artois"
+  },
+  {
+      "id": 9,
+      "question": "Live well for less.",
+      "answer": "Sainsbury’s"
+  },
+  {
+      "id": 10,
+      "question": "Taste the rainbow",
+      "answer": "Skittles"
+  }
+]

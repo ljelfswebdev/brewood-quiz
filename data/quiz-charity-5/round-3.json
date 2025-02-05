@@ -1,0 +1,56 @@
+[
+  {
+      "title": "The Olympic Games Trivia"
+  },
+
+  {
+      "id": 1,
+      "question": "How many Olympic rings are there?",
+      "answer": "Five"
+  },
+  {
+      "id": 2,
+      "question": "Which country has won the most Olympic gold medals in history?",
+      "answer": "United States"
+  },
+  {
+      "id": 3,
+      "question": "Who is the most decorated Olympian of all time?",
+      "answer": "Michael Phelps"
+  },
+  {
+      "id": 4,
+      "question": "Which tennis player won gold medals in both singles and doubles at the 2012 Olympics?",
+      "answer": "Serena Williams"
+  },
+  {
+      "id": 5,
+      "question": "Which two cities have hosted the Summer Olympics the most times?",
+      "answer": "London and Paris"
+  },
+  {
+      "id": 6,
+      "question": "Which sport made its debut at the Tokyo 2020 Olympics?",
+      "answer": "Skateboarding"
+  },
+  {
+      "id": 7,
+      "question": "What is the only Olympic event in which men and women compete directly against each other?",
+      "answer": "Equestrian"
+  },
+  {
+      "id": 8,
+      "question": "Which country has never missed a single Olympic Games?",
+      "answer": "Greece"
+  },
+  {
+      "id": 9,
+      "question": "What is the motto of the Olympic Games?",
+      "answer": "Citius, Altius, Fortius (Faster, Higher, Stronger)"
+  },
+  {
+      "id": 10,
+      "question": "In which year were the first modern Olympic Games held?",
+      "answer": "1896"
+  }
+]

@@ -2,28 +2,28 @@ const RoundList = () => {
     return ( 
         <ul className="page__list">
             <li>
-                Round 1 - Geography
+                Round 1 - 2000's music
             </li>
             <li>
-                Round 2 - Advertising slogans
+                Round 2 - Sport in 2020
             </li>
             <li>
-                Round 3 - The Olympic Games
+                Round 3 - Australian Geography
             </li>
             <li>
-                Round 4 - White
+                Round 4 - Monarchy
             </li>
             <li>
-                Round 5 - Premier League
+                Round 5 - Groups
             </li>
             <li>
-                Round 6 - Children’s TV
+                Round 6 - 20th Century British History
             </li>
             <li>
-                Round 7 - Disney and movie music
+                Round 7 - Physics
             </li>
             <li>
-                Round 8 - General Knowledge
+                Round 8 - Yellow
             </li>
         </ul>
      );

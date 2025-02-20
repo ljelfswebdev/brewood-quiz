@@ -1,61 +1,55 @@
 [
   {
-      "title" : "Groups"
+      "title" : "Literature & Movies"
   },
-
-
   {
-    "id": 1,
-    "question": "Jim Lovell, Jack Swigert & Fred Haise",
-    "answer": "The astronuats on Apollo 13"
+      "id": 1,
+      "question": "Who wrote Harry Potter?",
+      "answer": "J.K. Rowling"
   },
   {
       "id": 2,
-      "question": "Mutya Buena , Keisha Buchanan & Siobhán Donaghy",
-      "answer": "The Sugarbabes"
+      "question": "In The Lion King, what is the name of Simba’s evil uncle?",
+      "answer": "Scar"
   },
-
   {
       "id": 3,
-      "question": "Uruguay, Mexico, France, Argentina, Portugal, West Germany",
-      "answer": "England's opponents in 1966 World Cup Win"
-    },
-    {
-        "id": 4,
-        "question": "400*, 380, 375, 374, 365*",
-        "answer": "Highest Individual Scores in Test cricket"
-    },
-
+      "question": "What is the first book of the Bible?",
+      "answer": "Genesis"
+  },
+  {
+      "id": 4,
+      "question": "What famous detective was created by Arthur Conan Doyle?",
+      "answer": "Sherlock Holmes"
+  },
   {
       "id": 5,
-      "question": "Breckinridge, Nixon, Humphrey, Gore & Harris",
-      "answer": "Incumbent Vice Presidents who lost the next election"
-    },
-    {
-        "id": 6,
-        "question": "Superior, Michigan, Huron, Erie and Ontario",
-        "answer": "The Great Lakes"
-    },
-
+      "question": "In which movie does the song 'Let It Go' appear?",
+      "answer": "Frozen"
+  },
+  {
+      "id": 6,
+      "question": "What is the name of the wizard in The Lord of the Rings?",
+      "answer": "Gandalf"
+  },
   {
       "id": 7,
-      "question": "Wanderers, Wanderers, Oxford University, Royal Engineers, Wanderers",
-      "answer": "First 5 winners of the FA Cup"
-    },
-    {
-        "id": 8,
-        "question": "Peter, Lois, Meg, Chris, Stewie",
-        "answer": "The Griffins in Family Guy"
-    },
-
+      "question": "The sequel to the first Star Wars film (1977), released in 1980, is called what?",
+      "answer": "The Empire Strikes Back"
+  },
+  {
+      "id": 8,
+      "question": "What famous novel begins with the line, 'Call me Ishmael'?",
+      "answer": "Moby-Dick"
+  },
   {
       "id": 9,
-      "question": "Angus Young, Phil Rudd , Cliff Williams, Brian Johnson & Stevie Young",
-      "answer": "AC/DC"
-    },
-    {
-        "id": 10,
-        "question": "Mário Zagallo, Franz Beckenbauer & Didier Deschamps",
-        "answer": "People who have won the World Cup as a player and a manager"
-    }
+      "question": "What Disney movie features a lost fish?",
+      "answer": "Finding Nemo"
+  },
+  {
+      "id": 10,
+      "question": "What is the name of Batman’s butler?",
+      "answer": "Alfred Pennyworth"
+  }
 ]

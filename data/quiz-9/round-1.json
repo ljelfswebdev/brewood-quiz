@@ -1,0 +1,58 @@
+[
+    {
+      "title": "2000's Music"
+    },
+    {
+      "id": 1,
+      "question": "Which pop star made her solo debut with the album 'Dangerously in Love' in 2003?",
+      "answer": "Beyoncé"
+    },
+    {
+      "id": 2,
+      "question": "Which rock band released the hit single 'In the End' in 2000?",
+      "answer": "Linkin Park"
+    },
+    
+    {
+      "id": 3,
+      "question": "Which British singer gained fame in the 2000s with hits like 'Smile' and 'LDN'?",
+      "answer": "Lily Allen"
+    },
+    {
+      "id": 4,
+      "question": "Which 2004 Usher single topped the Billboard Hot 100 for 12 weeks?",
+      "answer": "'Yeah!' (featuring Lil Jon and Ludacris)"
+    },
+    {
+      "id": 5,
+      "question": "Who was the lead vocalist of the American rock band Evanescence, known for the 2003 album 'Fallen'?",
+      "answer": "Amy Lee"
+    },
+
+    {
+      "id": 6,
+      "question": "Which R&B artist released the successful album 'Confessions' in 2004?",
+      "answer": "Usher"
+    },
+    {
+      "id": 7,
+      "question": "Which singer had a major 2000s success with 'Since U Been Gone' from the album 'Breakaway'?",
+      "answer": "Kelly Clarkson"
+    },
+    {
+      "id": 8,
+      "question": "Which hip-hop artist famously interrupted Taylor Swift’s acceptance speech at the 2009 MTV Video Music Awards?",
+      "answer": "Kanye West"
+    },
+
+    {
+      "id": 9,
+      "question": "Which singer released the album 'Fearless' in 2008, boosting her country-pop career?",
+      "answer": "Taylor Swift"
+    },
+    {
+        "id": 10,
+        "question": "Which 2004 Usher single topped the Billboard Hot 100 for 12 weeks?",
+        "answer": "'Yeah!' (featuring Lil Jon and Ludacris)"
+      }
+  ]

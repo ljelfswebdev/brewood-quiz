@@ -1,55 +1,55 @@
 [
-    {
-      "title": "Sport in 2020"
-    },
-    {
+  {
+      "title" : "Science & Nature"
+  },
+  {
       "id": 1,
-      "question": "Which team won Super Bowl LIV?",
-      "answer": "Kansas City Chiefs"
-    },
-    {
+      "question": "What gas do plants absorb from the air?",
+      "answer": "Carbon dioxide (CO₂)"
+  },
+  {
       "id": 2,
-      "question": "Which tennis player won the 2020 Australian Open Men's Singles title?",
-      "answer": "Novak Djokovic"
-    },
-    {
+      "question": "What part of the human body pumps blood?",
+      "answer": "The heart"
+  },
+  {
       "id": 3,
-      "question": "Which Formula 1 driver won the 2020 Drivers' Championship?",
-      "answer": "Lewis Hamilton"
-    },
-    {
+      "question": "What is known as the powerhouse of a cell?",
+      "answer": "Mitochondria"
+  },
+  {
       "id": 4,
-      "question": "Which team won the 2020 NBA Finals?",
-      "answer": "Los Angeles Lakers"
-    },
-    {
+      "question": "What is the hardest natural substance on Earth?",
+      "answer": "Diamond"
+  },
+  {
       "id": 5,
-      "question": "Which soccer team won the UEFA Champions League in 2020?",
-      "answer": "Bayern Munich"
-    },
-    {
+      "question": "What do bees collect from flowers?",
+      "answer": "Nectar"
+  },
+  {
       "id": 6,
-      "question": "Which soccer star won the Best FIFA Men's Player Award for 2020?",
-      "answer": "Robert Lewandowski"
-    },
-    {
+      "question": "How many bones are in the human body?",
+      "answer": "206"
+  },
+  {
       "id": 7,
-      "question": "Which MLB team won the 2020 World Series?",
-      "answer": "Los Angeles Dodgers"
-    },
-    {
+      "question": "What type of energy is produced by the sun?",
+      "answer": "Solar energy"
+  },
+  {
       "id": 8,
-      "question": "Which golfer won the 2020 Masters Tournament?",
-      "answer": "Dustin Johnson"
-    },
-    {
+      "question": "What do we call animals that only eat plants?",
+      "answer": "Herbivores"
+  },
+  {
       "id": 9,
-      "question": "Which team won the T20 Women's Cricket World Cup in 2020?",
-      "answer": "Australia"
-    },
-    {
+      "question": "What is the chemical formula for water?",
+      "answer": "H₂O"
+  },
+  {
       "id": 10,
-      "question": "Who won the 2019/20 Premier League Golden Boot?",
-      "answer": "Jamie Vardy"
-    }
-  ]
+      "question": "How many planets are in our solar system?",
+      "answer": "Eight"
+  }
+]

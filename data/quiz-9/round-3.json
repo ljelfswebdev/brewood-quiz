@@ -1,0 +1,55 @@
+[
+    {
+      "title": "Australian Geography"
+    },
+    {
+      "id": 1,
+      "question": "What is the capital city of Australia?",
+      "answer": "Canberra"
+    },
+    {
+      "id": 2,
+      "question": "Which state is home to the city of Brisbane?",
+      "answer": "Queensland"
+    },
+    {
+      "id": 3,
+      "question": "Uluru, a large sandstone rock formation, is located in which Australian territory?",
+      "answer": "Northern Territory"
+    },
+    {
+      "id": 4,
+      "question": "Which is the largest desert in Australia?",
+      "answer": "The Great Victoria Desert"
+    },
+    {
+      "id": 5,
+      "question": "Which city is the capital of Western Australia?",
+      "answer": "Perth"
+    },
+    {
+      "id": 6,
+      "question": "Which mountain range runs along the east coast of Australia?",
+      "answer": "The Great Dividing Range"
+    },
+    {
+      "id": 7,
+      "question": "Which body of water separates Australia and Tasmania?",
+      "answer": "Bass Strait"
+    },
+    {
+      "id": 8,
+      "question": "What is the highest peak on the Australian mainland?",
+      "answer": "Mount Kosciuszko"
+    },
+    {
+      "id": 9,
+      "question": "Which famous beach is located in Sydney’s eastern suburbs?",
+      "answer": "Bondi Beach"
+    },
+    {
+        "id": 10,
+        "question": "Adelaide is the capital of which Australian state?",
+        "answer": "South Australia"
+      }
+  ]

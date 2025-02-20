@@ -1,0 +1,55 @@
+[
+    {
+      "title": "Sport in 2020"
+    },
+    {
+      "id": 1,
+      "question": "Which team won Super Bowl LIV?",
+      "answer": "Kansas City Chiefs"
+    },
+    {
+      "id": 2,
+      "question": "Which tennis player won the 2020 Australian Open Men's Singles title?",
+      "answer": "Novak Djokovic"
+    },
+    {
+      "id": 3,
+      "question": "Which Formula 1 driver won the 2020 Drivers' Championship?",
+      "answer": "Lewis Hamilton"
+    },
+    {
+      "id": 4,
+      "question": "Which team won the 2020 NBA Finals?",
+      "answer": "Los Angeles Lakers"
+    },
+    {
+      "id": 5,
+      "question": "Which soccer team won the UEFA Champions League in 2020?",
+      "answer": "Bayern Munich"
+    },
+    {
+      "id": 6,
+      "question": "Which soccer star won the Best FIFA Men's Player Award for 2020?",
+      "answer": "Robert Lewandowski"
+    },
+    {
+      "id": 7,
+      "question": "Which MLB team won the 2020 World Series?",
+      "answer": "Los Angeles Dodgers"
+    },
+    {
+      "id": 8,
+      "question": "Which golfer won the 2020 Masters Tournament?",
+      "answer": "Dustin Johnson"
+    },
+    {
+      "id": 9,
+      "question": "Which team won the T20 Women's Cricket World Cup in 2020?",
+      "answer": "Australia"
+    },
+    {
+      "id": 10,
+      "question": "Who won the 2019/20 Premier League Golden Boot?",
+      "answer": "Jamie Vardy"
+    }
+  ]

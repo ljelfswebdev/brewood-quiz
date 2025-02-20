@@ -1,56 +1,55 @@
 [
-    {
-      "title": "Physics"
-    },
-    {
+  {
+      "title" : "Brain Teasers & Riddles"
+  },
+  {
       "id": 1,
-      "question": "Which branch of physics deals with motion, forces, and energy in everyday contexts?",
-      "answer": "Mechanics"
-    },
-    {
+      "question": "What comes once in a minute, twice in a moment, but never in a thousand years?",
+      "answer": "The letter 'M'"
+  },
+  {
       "id": 2,
-      "question": "Who is known for formulating the three laws of motion and the law of universal gravitation?",
-      "answer": "Sir Isaac Newton"
-    },
-    {
+      "question": "The more you remove, the bigger I get. What am I?",
+      "answer": "A hole"
+  },
+  {
       "id": 3,
-      "question": "In physics, what is the rate of change of velocity called?",
-      "answer": "Acceleration"
-    },
-    {
+      "question": "The person who makes it, sells it. The person who buys it never uses it. The person who uses it never knows they are using it. What is it?",
+      "answer": "A coffin"
+  },
+  {
       "id": 4,
-      "question": "Which Scottish physicist developed the set of equations describing electromagnetic fields and waves?",
-      "answer": "James Clerk Maxwell"
-    },
-    {
+      "question": "I am not alive, but I grow. I don’t have lungs, but I need air. I don’t have a mouth, but water kills me. What am I?",
+      "answer": "Fire"
+  },
+  {
       "id": 5,
-      "question": "What term describes the energy possessed by an object due to its motion?",
-      "answer": "Kinetic Energy"
-    },
-    {
+      "question": "What has many keys but can’t open a single lock?",
+      "answer": "A piano"
+  },
+  {
       "id": 6,
-      "question": "According to Einstein’s famous equation E = mc², what does 'c' stand for?",
-      "answer": "The speed of light in a vacuum"
-    },
-    {
+      "question": "What can be cracked, made, told, and played?",
+      "answer": "A joke"
+  },
+  {
       "id": 7,
-      "question": "Which physicist is known for proposing the uncertainty principle in quantum mechanics?",
-      "answer": "Werner Heisenberg"
-    },
-    {
+      "question": "I have cities, but no houses. I have mountains, but no trees. I have water, but no fish. What am I?",
+      "answer": "A map"
+  },
+  {
       "id": 8,
-      "question": "What does the acronym 'LASER' stand for?",
-      "answer": "Light Amplification by Stimulated Emission of Radiation"
-    },
-    {
+      "question": "What has four fingers and a thumb but isn’t alive?",
+      "answer": "A glove"
+  },
+  {
       "id": 9,
-      "question": "Which form of energy transfer occurs through electromagnetic waves without requiring a medium?",
-      "answer": "Radiation"
-    },
-
-    {
+      "question": "What runs but never walks, has a bed but never sleeps, has a mouth but never speaks?",
+      "answer": "A river"
+  },
+  {
       "id": 10,
-      "question": "Which subfield of physics focuses on the behavior of atomic and subatomic particles?",
-      "answer": "Quantum Mechanics"
-    }
-  ]
+      "question": "If you drop me, I’m sure to crack, but if you give me a smile, I’ll always smile back. What am I?",
+      "answer": "A mirror"
+  }
+]

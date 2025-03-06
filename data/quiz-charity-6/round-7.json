@@ -1,0 +1,55 @@
+[
+  {
+      "title" : "Brain Teasers & Riddles"
+  },
+  {
+      "id": 1,
+      "question": "What comes once in a minute, twice in a moment, but never in a thousand years?",
+      "answer": "The letter 'M'"
+  },
+  {
+      "id": 2,
+      "question": "The more you remove, the bigger I get. What am I?",
+      "answer": "A hole"
+  },
+  {
+      "id": 3,
+      "question": "The person who makes it, sells it. The person who buys it never uses it. The person who uses it never knows they are using it. What is it?",
+      "answer": "A coffin"
+  },
+  {
+      "id": 4,
+      "question": "I am not alive, but I grow. I don’t have lungs, but I need air. I don’t have a mouth, but water kills me. What am I?",
+      "answer": "Fire"
+  },
+  {
+      "id": 5,
+      "question": "What has many keys but can’t open a single lock?",
+      "answer": "A piano"
+  },
+  {
+      "id": 6,
+      "question": "What can be cracked, made, told, and played?",
+      "answer": "A joke"
+  },
+  {
+      "id": 7,
+      "question": "I have cities, but no houses. I have mountains, but no trees. I have water, but no fish. What am I?",
+      "answer": "A map"
+  },
+  {
+      "id": 8,
+      "question": "What has four fingers and a thumb but isn’t alive?",
+      "answer": "A glove"
+  },
+  {
+      "id": 9,
+      "question": "What runs but never walks, has a bed but never sleeps, has a mouth but never speaks?",
+      "answer": "A river"
+  },
+  {
+      "id": 10,
+      "question": "If you drop me, I’m sure to crack, but if you give me a smile, I’ll always smile back. What am I?",
+      "answer": "A mirror"
+  }
+]

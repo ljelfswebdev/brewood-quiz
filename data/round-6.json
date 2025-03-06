@@ -1,55 +1,56 @@
 [
-  {
-      "title" : "Sports & Games"
-  },
-  {
-      "id": 1,
-      "question": "What sport is played at Wimbledon?",
-      "answer": "Tennis"
-  },
-  {
-      "id": 2,
-      "question": "What does FIFA stand for?",
-      "answer": "Fédération Internationale de Football Association"
-  },
-  {
-      "id": 3,
-      "question": "How many players are there in a basketball team (on the field at one time)?",
-      "answer": "5"
-  },
-  {
-      "id": 4,
-      "question": "What is the highest possible score in a game of ten-pin bowling?",
-      "answer": "300"
-  },
-  {
-      "id": 5,
-      "question": "What is the national sport of Japan?",
-      "answer": "Sumo wrestling"
-  },
-  {
-      "id": 6,
-      "question": "In which country were the Olympic Games invented?",
-      "answer": "Greece"
-  },
-  {
-      "id": 7,
-      "question": "How many points is a touchdown worth in American football?",
-      "answer": "6"
-  },
-  {
-      "id": 8,
-      "question": "Not including video games, what is the biggest selling toy of all time?",
-      "answer": "Barbie"
-  },
-  {
-      "id": 9,
-      "question": "In chess, which piece can only move diagonally?",
-      "answer": "The Bishop"
-  },
-  {
-      "id": 10,
-      "question": "What colors are the Olympic rings?",
-      "answer": "Blue, Yellow, Black, Green, and Red"
-  }
+    {
+        "title": "The USSR"
+    },
+    {
+        "id": 1,
+        "question": "In which year did the Soviet Union officially dissolve?",
+        "answer": "1991"
+    },
+    {
+        "id": 2,
+        "question": "Who led the Soviet Union during World War II?",
+        "answer": "Joseph Stalin"
+    },
+    {
+        "id": 3,
+        "question": "What does 'USSR' stand for?",
+        "answer": "Union of Soviet Socialist Republics"
+    },
+    {
+        "id": 4,
+        "question": "Which Soviet leader introduced the policies of Glasnost and Perestroika?",
+        "answer": "Mikhail Gorbachev"
+    },
+    {
+        "id": 5,
+        "question": "Which city was known as Leningrad before reverting to its original name in 1991?",
+        "answer": "St. Petersburg"
+    },
+    {
+        "id": 6,
+        "question": "Which country was the first to declare independence from the USSR, doing so in 1990?",
+        "answer": "Lithuania"
+    },
+    {
+        "id": 172,
+        "question": "What was the acronym for the network of Soviet forced labour camps?",
+        "answer": "The Gulag"
+    },
+    {
+        "id": 8,
+        "question": "Which sea in Central Asia was drastically reduced in size due to Soviet irrigation projects?",
+        "answer": "The Aral Sea"
+    },
+    {
+        "id": 9,
+        "question": "Who was the first leader of the Soviet Union following the 1917 Revolution?",
+        "answer": "Vladimir Lenin"
+    },
+
+    {
+        "id": 10,
+        "question": "Which catastrophic nuclear disaster occurred in 1986 in the Ukrainian SSR?",
+        "answer": "The Chernobyl disaster"
+    }
 ]

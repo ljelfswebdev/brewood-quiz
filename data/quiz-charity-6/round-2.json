@@ -1,0 +1,55 @@
+[
+  {
+      "title" : "Science & Nature"
+  },
+  {
+      "id": 1,
+      "question": "What gas do plants absorb from the air?",
+      "answer": "Carbon dioxide (CO₂)"
+  },
+  {
+      "id": 2,
+      "question": "What part of the human body pumps blood?",
+      "answer": "The heart"
+  },
+  {
+      "id": 3,
+      "question": "What is known as the powerhouse of a cell?",
+      "answer": "Mitochondria"
+  },
+  {
+      "id": 4,
+      "question": "What is the hardest natural substance on Earth?",
+      "answer": "Diamond"
+  },
+  {
+      "id": 5,
+      "question": "What do bees collect from flowers?",
+      "answer": "Nectar"
+  },
+  {
+      "id": 6,
+      "question": "How many bones are in the human body?",
+      "answer": "206"
+  },
+  {
+      "id": 7,
+      "question": "What type of energy is produced by the sun?",
+      "answer": "Solar energy"
+  },
+  {
+      "id": 8,
+      "question": "What do we call animals that only eat plants?",
+      "answer": "Herbivores"
+  },
+  {
+      "id": 9,
+      "question": "What is the chemical formula for water?",
+      "answer": "H₂O"
+  },
+  {
+      "id": 10,
+      "question": "How many planets are in our solar system?",
+      "answer": "Eight"
+  }
+]

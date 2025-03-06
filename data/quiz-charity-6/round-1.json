@@ -1,0 +1,55 @@
+[
+  {
+      "title" : "General Knowledge"
+  },
+  {
+      "id": 1,
+      "question": "What is the capital of Austria?",
+      "answer": "Vienna"
+  },
+  {
+      "id": 2,
+      "question": "Who wrote Romeo and Juliet?",
+      "answer": "William Shakespeare"
+  },
+  {
+      "id": 3,
+      "question": "How many continents are there on Earth?",
+      "answer": "Seven"
+  },
+  {
+      "id": 4,
+      "question": "What is the largest planet in our solar system?",
+      "answer": "Jupiter"
+  },
+  {
+      "id": 5,
+      "question": "What is the boiling point of water in Celsius?",
+      "answer": "100°C"
+  },
+  {
+      "id": 6,
+      "question": "Who painted the Mona Lisa?",
+      "answer": "Leonardo da Vinci"
+  },
+  {
+      "id": 7,
+      "question": "What is the longest river in the world?",
+      "answer": "The Nile"
+  },
+  {
+      "id": 8,
+      "question": "What language is spoken in Brazil?",
+      "answer": "Portuguese"
+  },
+  {
+      "id": 9,
+      "question": "What is the chemical symbol for gold?",
+      "answer": "Au"
+  },
+  {
+      "id": 10,
+      "question": "In what year did World War II end?",
+      "answer": "1945"
+  }
+]

@@ -1,55 +1,57 @@
 [
-  {
-      "title" : "Science & Nature"
-  },
-  {
-      "id": 1,
-      "question": "What gas do plants absorb from the air?",
-      "answer": "Carbon dioxide (CO₂)"
-  },
-  {
-      "id": 2,
-      "question": "What part of the human body pumps blood?",
-      "answer": "The heart"
-  },
-  {
-      "id": 3,
-      "question": "What is known as the powerhouse of a cell?",
-      "answer": "Mitochondria"
-  },
-  {
-      "id": 4,
-      "question": "What is the hardest natural substance on Earth?",
-      "answer": "Diamond"
-  },
-  {
-      "id": 5,
-      "question": "What do bees collect from flowers?",
-      "answer": "Nectar"
-  },
-  {
-      "id": 6,
-      "question": "How many bones are in the human body?",
-      "answer": "206"
-  },
-  {
-      "id": 7,
-      "question": "What type of energy is produced by the sun?",
-      "answer": "Solar energy"
-  },
-  {
-      "id": 8,
-      "question": "What do we call animals that only eat plants?",
-      "answer": "Herbivores"
-  },
-  {
-      "id": 9,
-      "question": "What is the chemical formula for water?",
-      "answer": "H₂O"
-  },
-  {
-      "id": 10,
-      "question": "How many planets are in our solar system?",
-      "answer": "Eight"
-  }
+    {
+        "title": "Pokémon 1st Generation"
+    },
+    {
+        "id": 1,
+        "question": "Which city in the Kanto region is home to the Fighting Dojo and Sabrina's Gym?",
+        "answer": "Saffron City"
+    },
+    {
+        "id": 2,
+        "question": "Which Pokémon is known for its move Transform, allowing it to copy the opponent’s form?",
+        "answer": "Ditto"
+    },
+    {
+        "id": 3,
+        "question": "Which Gym Leader in the Kanto region specializes in Electric-type Pokémon?",
+        "answer": "Lt. Surge"
+    },
+    {
+        "id": 4,
+        "question": "What is the final evolved form of Poliwag in Generation 1?",
+        "answer": "Poliwrath"
+    },
+    {
+        "id": 5,
+        "question": "Which large 'Sleeping' Pokémon blocks the path on Routes 12 and 16?",
+        "answer": "Snorlax"
+    },
+    {
+        "id": 6,
+        "question": "Which of the legendary bird trio is associated with the element of ice?",
+        "answer": "Articuno"
+    },
+
+    {
+        "id": 7,
+        "question": "Which Poison-type Pokémon, famously used by Jessie of Team Rocket, evolves from Ekans?",
+        "answer": "Arbok"
+    },
+    {
+        "id": 8,
+        "question": "Which fossil Pokémon is revived from the Dome Fossil found in Mt. Moon?",
+        "answer": "Kabuto"
+    },
+    {
+        "id": 9,
+        "question": "Which Gym Leader hands out the Boulder Badge in Pewter City?",
+        "answer": "Brock"
+    },
+
+    {
+        "id": 10,
+        "question": "Which item do you need to identify Ghost Pokémon in Lavender Town's Pokémon Tower?",
+        "answer": "The Silph Scope"
+    }
 ]

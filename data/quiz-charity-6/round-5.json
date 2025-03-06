@@ -1,0 +1,55 @@
+[
+  {
+      "title" : "Literature & Movies"
+  },
+  {
+      "id": 1,
+      "question": "Who wrote Harry Potter?",
+      "answer": "J.K. Rowling"
+  },
+  {
+      "id": 2,
+      "question": "In The Lion King, what is the name of Simba’s evil uncle?",
+      "answer": "Scar"
+  },
+  {
+      "id": 3,
+      "question": "What is the first book of the Bible?",
+      "answer": "Genesis"
+  },
+  {
+      "id": 4,
+      "question": "What famous detective was created by Arthur Conan Doyle?",
+      "answer": "Sherlock Holmes"
+  },
+  {
+      "id": 5,
+      "question": "In which movie does the song 'Let It Go' appear?",
+      "answer": "Frozen"
+  },
+  {
+      "id": 6,
+      "question": "What is the name of the wizard in The Lord of the Rings?",
+      "answer": "Gandalf"
+  },
+  {
+      "id": 7,
+      "question": "The sequel to the first Star Wars film (1977), released in 1980, is called what?",
+      "answer": "The Empire Strikes Back"
+  },
+  {
+      "id": 8,
+      "question": "What famous novel begins with the line, 'Call me Ishmael'?",
+      "answer": "Moby-Dick"
+  },
+  {
+      "id": 9,
+      "question": "What Disney movie features a lost fish?",
+      "answer": "Finding Nemo"
+  },
+  {
+      "id": 10,
+      "question": "What is the name of Batman’s butler?",
+      "answer": "Alfred Pennyworth"
+  }
+]

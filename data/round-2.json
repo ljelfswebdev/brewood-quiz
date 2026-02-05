@@ -1,57 +1,14 @@
 [
-    {
-        "title": "Pokémon 1st Generation"
-    },
-    {
-        "id": 1,
-        "question": "Which city in the Kanto region is home to the Fighting Dojo and Sabrina's Gym?",
-        "answer": "Saffron City"
-    },
-    {
-        "id": 2,
-        "question": "Which Pokémon is known for its move Transform, allowing it to copy the opponent’s form?",
-        "answer": "Ditto"
-    },
-    {
-        "id": 3,
-        "question": "Which Gym Leader in the Kanto region specializes in Electric-type Pokémon?",
-        "answer": "Lt. Surge"
-    },
-    {
-        "id": 4,
-        "question": "What is the final evolved form of Poliwag in Generation 1?",
-        "answer": "Poliwrath"
-    },
-    {
-        "id": 5,
-        "question": "Which large 'Sleeping' Pokémon blocks the path on Routes 12 and 16?",
-        "answer": "Snorlax"
-    },
-    {
-        "id": 6,
-        "question": "Which of the legendary bird trio is associated with the element of ice?",
-        "answer": "Articuno"
-    },
+  { "title": "Current Affairs" },
 
-    {
-        "id": 7,
-        "question": "Which Poison-type Pokémon, famously used by Jessie of Team Rocket, evolves from Ekans?",
-        "answer": "Arbok"
-    },
-    {
-        "id": 8,
-        "question": "Which fossil Pokémon is revived from the Dome Fossil found in Mt. Moon?",
-        "answer": "Kabuto"
-    },
-    {
-        "id": 9,
-        "question": "Which Gym Leader hands out the Boulder Badge in Pewter City?",
-        "answer": "Brock"
-    },
-
-    {
-        "id": 10,
-        "question": "Which item do you need to identify Ghost Pokémon in Lavender Town's Pokémon Tower?",
-        "answer": "The Silph Scope"
-    }
+  { "id": 1, "question": "Which movie has secured a record 16 Oscar nominations?", "answer": "Sinners" },
+  { "id": 2, "question": "Andy Burnham has been blocked from standing in which by-election?", "answer": "Gorton and Denton" },
+  { "id": 3, "question": "Who has been announced as the new judge in The Great British Bake Off?", "answer": "Nigella Lawson" },
+  { "id": 4, "question": "Amazon released its authorised documentary about Melania Trump. What is it called?", "answer": "Melania" },
+  { "id": 5, "question": "Which two teams have made it through to Super Bowl LX?", "answer": "Seattle Seahawks and New England Patriots" },
+  { "id": 6, "question": "US heavyweight boxer Jarrell Miller lost what during his fight?", "answer": "His wig / hairpiece" },
+  { "id": 7, "question": "Which pop star has announced a 12-night run at Wembley Stadium this summer?", "answer": "Harry Styles" },
+  { "id": 8, "question": "Which seaside town lost part of its pier during Storm Ingrid?", "answer": "Teignmouth" },
+  { "id": 9, "question": "Traitors – who was the last faithful to be banished from the castle?", "answer": "Jack" },
+  { "id": 10, "question": "Which weather presenter announced she was leaving the BBC after more than 25 years?", "answer": "Carol Kirkwood" }
 ]

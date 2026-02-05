@@ -1,0 +1,56 @@
+[
+    {
+        "title": "The USSR"
+    },
+    {
+        "id": 1,
+        "question": "In which year did the Soviet Union officially dissolve?",
+        "answer": "1991"
+    },
+    {
+        "id": 2,
+        "question": "Who led the Soviet Union during World War II?",
+        "answer": "Joseph Stalin"
+    },
+    {
+        "id": 3,
+        "question": "What does 'USSR' stand for?",
+        "answer": "Union of Soviet Socialist Republics"
+    },
+    {
+        "id": 4,
+        "question": "Which Soviet leader introduced the policies of Glasnost and Perestroika?",
+        "answer": "Mikhail Gorbachev"
+    },
+    {
+        "id": 5,
+        "question": "Which city was known as Leningrad before reverting to its original name in 1991?",
+        "answer": "St. Petersburg"
+    },
+    {
+        "id": 6,
+        "question": "Which country was the first to declare independence from the USSR, doing so in 1990?",
+        "answer": "Lithuania"
+    },
+    {
+        "id": 172,
+        "question": "What was the acronym for the network of Soviet forced labour camps?",
+        "answer": "The Gulag"
+    },
+    {
+        "id": 8,
+        "question": "Which sea in Central Asia was drastically reduced in size due to Soviet irrigation projects?",
+        "answer": "The Aral Sea"
+    },
+    {
+        "id": 9,
+        "question": "Who was the first leader of the Soviet Union following the 1917 Revolution?",
+        "answer": "Vladimir Lenin"
+    },
+
+    {
+        "id": 10,
+        "question": "Which catastrophic nuclear disaster occurred in 1986 in the Ukrainian SSR?",
+        "answer": "The Chernobyl disaster"
+    }
+]

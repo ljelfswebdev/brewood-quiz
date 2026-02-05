@@ -1,56 +1,14 @@
 [
-    {
-        "title": "The USSR"
-    },
-    {
-        "id": 1,
-        "question": "In which year did the Soviet Union officially dissolve?",
-        "answer": "1991"
-    },
-    {
-        "id": 2,
-        "question": "Who led the Soviet Union during World War II?",
-        "answer": "Joseph Stalin"
-    },
-    {
-        "id": 3,
-        "question": "What does 'USSR' stand for?",
-        "answer": "Union of Soviet Socialist Republics"
-    },
-    {
-        "id": 4,
-        "question": "Which Soviet leader introduced the policies of Glasnost and Perestroika?",
-        "answer": "Mikhail Gorbachev"
-    },
-    {
-        "id": 5,
-        "question": "Which city was known as Leningrad before reverting to its original name in 1991?",
-        "answer": "St. Petersburg"
-    },
-    {
-        "id": 6,
-        "question": "Which country was the first to declare independence from the USSR, doing so in 1990?",
-        "answer": "Lithuania"
-    },
-    {
-        "id": 172,
-        "question": "What was the acronym for the network of Soviet forced labour camps?",
-        "answer": "The Gulag"
-    },
-    {
-        "id": 8,
-        "question": "Which sea in Central Asia was drastically reduced in size due to Soviet irrigation projects?",
-        "answer": "The Aral Sea"
-    },
-    {
-        "id": 9,
-        "question": "Who was the first leader of the Soviet Union following the 1917 Revolution?",
-        "answer": "Vladimir Lenin"
-    },
+  { "title": "I Never Knew That!" },
 
-    {
-        "id": 10,
-        "question": "Which catastrophic nuclear disaster occurred in 1986 in the Ukrainian SSR?",
-        "answer": "The Chernobyl disaster"
-    }
+  { "id": 1, "question": "What is the most popular condiment in the US?", "answer": "Ketchup" },
+  { "id": 2, "question": "Who was the last American singles Wimbledon champion?", "answer": "Serena Williams" },
+  { "id": 3, "question": "Who do employees of the Church of England refer to as ABC?", "answer": "Archbishop of Canterbury" },
+  { "id": 4, "question": "Oppenheimer is the 7th Oscar Best Film winner named after a real person. Name two others.", "answer": "Schindler, Gandhi (others accepted)" },
+  { "id": 5, "question": "Which league club plays their matches closest to the River Mersey?", "answer": "Everton" },
+  { "id": 6, "question": "What is the only Zone 1 tube station with four words in its name?", "answer": "King’s Cross St. Pancras" },
+  { "id": 7, "question": "Name the only champion of the old Division One to never play in the Premier League.", "answer": "Preston North End" },
+  { "id": 8, "question": "How many people have walked on the moon?", "answer": "12" },
+  { "id": 9, "question": "What is the most popular British pub name?", "answer": "Red Lion" },
+  { "id": 10, "question": "How many time zones does China have?", "answer": "One" }
 ]

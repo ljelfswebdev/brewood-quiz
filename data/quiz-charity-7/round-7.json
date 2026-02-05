@@ -1,0 +1,55 @@
+[
+    {
+        "title": "Celebrity Anagrams"
+    },
+    {
+        "id": 1,
+        "question": "Which celebrity is hidden in the following anagram: 'MOH TDRYA'?",
+        "answer": "Tom Hardy"
+    },
+    {
+        "id": 2,
+        "question": "Which celebrity is hidden in the following anagram: 'EER HANDSA'?",
+        "answer": "Ed Sheeran"
+    },
+    {
+        "id": 3,
+        "question": "Which celebrity is hidden in the following anagram: 'LEADE'?",
+        "answer": "Adele"
+    },
+    {
+        "id": 4,
+        "question": "Which celebrity is hidden in the following anagram: 'WANKIR TAONSON'?",
+        "answer": "Rowan Atkinson"
+    },
+    {
+        "id": 5,
+        "question": "Which celebrity is hidden in the following anagram: 'TWEAK SILENT'?",
+        "answer": "Kate Winslet"
+    },
+    {
+        "id": 6,
+        "question": "Which celebrity is hidden in the following anagram: 'DEJ AWUL'?",
+        "answer": "Jude Law"
+    },
+    {
+        "id": 7,
+        "question": "Which celebrity is hidden in the following anagram: 'THUG RANGH'?",
+        "answer": "Hugh Grant"
+    },
+    {
+        "id": 8,
+        "question": "Which celebrity is hidden in the following anagram: 'ALIGNED RACIL'?",
+        "answer": "Daniel Craig"
+    },
+    {
+        "id": 9,
+        "question": "Which celebrity is hidden in the following anagram: 'MY SORTZ'?",
+        "answer": "Stormzy"
+    },
+    {
+        "id": 10,
+        "question": "Which celebrity is hidden in the following anagram: 'SLY BARGERL'?",
+        "answer": "Bear Grylls"
+    }
+]

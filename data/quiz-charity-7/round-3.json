@@ -1,0 +1,56 @@
+[
+    {
+        "title": "1990's Sport"
+    },
+    {
+        "id": 1,
+        "question": "Which country won the 1990 FIFA World Cup?",
+        "answer": "West Germany"
+    },
+    {
+        "id": 2,
+        "question": "Which tennis player won the Wimbledon Men's Singles title six times during the 1990s?",
+        "answer": "Pete Sampras"
+    },
+    {
+        "id": 3,
+        "question": "Who captained South Africa to Rugby World Cup victory in 1995?",
+        "answer": "Francois Pienaar"
+    },
+    {
+        "id": 4,
+        "question": "Which legendary basketball player returned to the NBA in 1995 after a brief spell in baseball?",
+        "answer": "Michael Jordan"
+    },
+    {
+        "id": 5,
+        "question": "Which English boxer became the WBC heavyweight champion in 1992 after defeating Donovan 'Razor' Ruddock?",
+        "answer": "Lennox Lewis"
+    },
+    {
+        "id": 6,
+        "question": "Which American figure skater was attacked prior to the 1994 Winter Olympics, causing a major media scandal?",
+        "answer": "Nancy Kerrigan"
+    },
+    {
+        "id": 7,
+        "question": "Which Australian spin bowler, known for the 'Ball of the Century' in 1993, dominated cricket in the 1990s?",
+        "answer": "Shane Warne"
+    },
+    {
+        "id": 8,
+        "question": "Which British sprinter famously false-started twice in the 100m final at the 1996 Atlanta Olympics?",
+        "answer": "Linford Christie"
+    },
+    {
+        "id": 9,
+        "question": "Which snooker player won seven World Championship titles at the Crucible during the 1990s?",
+        "answer": "Stephen Hendry"
+    },
+
+    {
+        "id": 10,
+        "question": "Which German tennis star retired in 1999 with 22 Grand Slam singles titles?",
+        "answer": "Steffi Graf"
+    }
+]

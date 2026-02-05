@@ -1,0 +1,58 @@
+[
+    {
+        "title": "South American Geography"
+    },
+
+    {
+        "id": 1,
+        "question": "What is the highest capital city in the world (by official government seat), found in South America?",
+        "answer": "La Paz, Bolivia"
+    },
+
+    {
+        "id": 2,
+        "question": "Which desert in Chile is considered one of the driest places on Earth?",
+        "answer": "The Atacama Desert"
+    },
+    {
+        "id": 3,
+        "question": "Which South American country is home to Angel Falls, the world's highest uninterrupted waterfall?",
+        "answer": "Venezuela"
+    },
+    {
+        "id": 4,
+        "question": "In which South American country are the Galápagos Islands located?",
+        "answer": "Ecuador"
+    },
+
+    {
+        "id": 5,
+        "question": "Name the two landlocked countries in South America.",
+        "answer": "Bolivia and Paraguay"
+    },
+    {
+        "id": 6,
+        "question": "Which country is home to the ancient Incan site Machu Picchu?",
+        "answer": "Peru"
+    },
+    {
+        "id": 7,
+        "question": "Which South American lake is considered the highest navigable lake in the world?",
+        "answer": "Lake Titicaca"
+    },
+    {
+        "id": 8,
+        "question": "Which region at the southern tip of South America is known for its rugged wilderness?",
+        "answer": "Patagonia"
+    },
+    {
+        "id": 9,
+        "question": "Which capital city lies at the mouth of the Rio de la Plata?",
+        "answer": "Buenos Aires"
+    },
+    {
+        "id": 10,
+        "question": "Suriname was formerly a colony of which European country?",
+        "answer": "The Netherlands"
+    }
+]

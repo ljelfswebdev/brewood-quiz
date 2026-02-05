@@ -1,0 +1,55 @@
+[
+    {
+        "title": "Music 1980's"
+    },
+    {
+        "id": 1,
+        "question": "Which British band released the hit single 'Don't You Want Me' in 1981?",
+        "answer": "The Human League"
+    },
+    {
+        "id": 2,
+        "question": "Which British duo had a global hit with 'Wake Me Up Before You Go-Go' in 1984?",
+        "answer": "Wham!"
+    },
+    {
+        "id": 3,
+        "question": "Which UK band, fronted by Boy George, scored a massive hit with 'Karma Chameleon'?",
+        "answer": "Culture Club"
+    },
+    {
+        "id": 4,
+        "question": "Which English singer had the 1980 hit 'Ashes to Ashes' from the album 'Scary Monsters (and Super Creeps)'?",
+        "answer": "David Bowie"
+    },
+    {
+        "id": 5,
+        "question": "Which British synth-pop duo released 'Sweet Dreams (Are Made of This)' in 1983?",
+        "answer": "Eurythmics"
+    },
+    {
+        "id": 6,
+        "question": "Which British band, featuring Simon Le Bon, had hits like 'Rio' and 'Hungry Like the Wolf'?",
+        "answer": "Duran Duran"
+    },
+    {
+        "id": 7,
+        "question": "Which UK heavy metal band released 'The Number of the Beast' in 1982?",
+        "answer": "Iron Maiden"
+    },
+    {
+        "id": 8,
+        "question": "Which American TV channel dedicated to music videos launched in 1981?",
+        "answer": "MTV"
+    },
+    {
+        "id": 9,
+        "question": "Which British band, fronted by Morrissey, was influential in 1980s indie rock?",
+        "answer": "The Smiths"
+    },
+    {
+        "id": 10,
+        "question": "Which 1987 Michael Jackson album included hits like 'Bad' and 'Smooth Criminal'?",
+        "answer": "'Bad'"
+    }
+]

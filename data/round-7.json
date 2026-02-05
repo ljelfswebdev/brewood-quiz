@@ -1,55 +1,14 @@
 [
-    {
-        "title": "Celebrity Anagrams"
-    },
-    {
-        "id": 1,
-        "question": "Which celebrity is hidden in the following anagram: 'MOH TDRYA'?",
-        "answer": "Tom Hardy"
-    },
-    {
-        "id": 2,
-        "question": "Which celebrity is hidden in the following anagram: 'EER HANDSA'?",
-        "answer": "Ed Sheeran"
-    },
-    {
-        "id": 3,
-        "question": "Which celebrity is hidden in the following anagram: 'LEADE'?",
-        "answer": "Adele"
-    },
-    {
-        "id": 4,
-        "question": "Which celebrity is hidden in the following anagram: 'WANKIR TAONSON'?",
-        "answer": "Rowan Atkinson"
-    },
-    {
-        "id": 5,
-        "question": "Which celebrity is hidden in the following anagram: 'TWEAK SILENT'?",
-        "answer": "Kate Winslet"
-    },
-    {
-        "id": 6,
-        "question": "Which celebrity is hidden in the following anagram: 'DEJ AWUL'?",
-        "answer": "Jude Law"
-    },
-    {
-        "id": 7,
-        "question": "Which celebrity is hidden in the following anagram: 'THUG RANGH'?",
-        "answer": "Hugh Grant"
-    },
-    {
-        "id": 8,
-        "question": "Which celebrity is hidden in the following anagram: 'ALIGNED RACIL'?",
-        "answer": "Daniel Craig"
-    },
-    {
-        "id": 9,
-        "question": "Which celebrity is hidden in the following anagram: 'MY SORTZ'?",
-        "answer": "Stormzy"
-    },
-    {
-        "id": 10,
-        "question": "Which celebrity is hidden in the following anagram: 'SLY BARGERL'?",
-        "answer": "Bear Grylls"
-    }
+  { "title": "Animals" },
+
+  { "id": 1, "question": "What is the only mammal that can fly?", "answer": "Bat" },
+  { "id": 2, "question": "What bird has a tongue three times the length of its beak?", "answer": "Woodpecker" },
+  { "id": 3, "question": "Which bird has the longest migration?", "answer": "Arctic tern" },
+  { "id": 4, "question": "Which bird has the longest wingspan?", "answer": "Albatross" },
+  { "id": 5, "question": "Which animal has the highest blood pressure?", "answer": "Giraffe" },
+  { "id": 6, "question": "Which animal has three hearts?", "answer": "Octopus" },
+  { "id": 7, "question": "What is the only known animal that cannot jump?", "answer": "Elephant" },
+  { "id": 8, "question": "Which bird can fly backwards?", "answer": "Hummingbird" },
+  { "id": 9, "question": "What is the most dangerous land mammal to humans?", "answer": "Hippopotamus" },
+  { "id": 10, "question": "What animal has the longest memory?", "answer": "Dolphin" }
 ]

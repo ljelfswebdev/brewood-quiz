@@ -1,55 +1,14 @@
 [
-    {
-        "title": "Cars"
-    },
-    {
-        "id": 1,
-        "question": "Which company originally produced the iconic Mini in 1959?",
-        "answer": "The British Motor Corporation (BMC)"
-    },
-    {
-        "id": 2,
-        "question": "Which British luxury marque produced the Phantom model, among others, before being acquired by BMW?",
-        "answer": "Rolls-Royce"
-    },
-    {
-        "id": 3,
-        "question": "Which car, produced by Aston Martin and famously featured in the James Bond film 'Goldfinger', is often considered one of the most iconic British cars?",
-        "answer": "The Aston Martin DB5"
-    },
-    {
-        "id": 4,
-        "question": "Which British automotive company, known for models like the Defender and Discovery, originated from Rover's off-road division?",
-        "answer": "Land Rover"
-    },
-    {
-        "id": 5,
-        "question": "Which company produced the compact sports car models Elan, Elise, and Esprit, known for their lightweight design?",
-        "answer": "Lotus"
-    },
-    {
-        "id": 6,
-        "question": "Which British sports car, launched in 1962, was produced by Triumph and remained in production until 1980?",
-        "answer": "Triumph Spitfire"
-    },
-    {
-        "id": 7,
-        "question": "Which British automotive brand was historically nicknamed the 'People's Car' and is now owned by Stellantis?",
-        "answer": "Vauxhall"
-    },
-    {
-        "id": 8,
-        "question": "Which British car brand produced the rear-engined Imp from 1963 to 1976?",
-        "answer": "Hillman"
-    },
-    {
-        "id": 9,
-        "question": "Which British manufacturer famously produced the Interceptor GT from 1966 to 1976?",
-        "answer": "Jensen Motors"
-    },
-    {
-        "id": 10,
-        "question": "Which British sports car manufacturer, known for models like the Tuscan and Sagaris, has a history of lightweight, high-powered vehicles?",
-        "answer": "TVR"
-    }
+  { "title": "Answersmash" },
+
+  { "id": 1, "question": "Which country invaded the Falklands in 1982 and who had a hit with ‘What’s Love Got to Do With It’?", "answer": "Argentina Turner" },
+  { "id": 2, "question": "Who is Spiderman’s alter ego and who is Miss Piggy’s boyfriend?", "answer": "Peter ParKermit" },
+  { "id": 3, "question": "What edible plant grows audibly fast and which Carry On actress starred in EastEnders?", "answer": "Rubarbara Windsor" },
+  { "id": 4, "question": "Which Yorkshire actor played Sharpe and what dish is beans on toast?", "answer": "Sean Beans on Toast" },
+  { "id": 5, "question": "La Paz is the capital of which country and who played Queen Elizabeth II in The Crown?", "answer": "Bolivia Colman" },
+  { "id": 6, "question": "What is Hungary’s capital and a classic Italian sauce?", "answer": "Budapesto" },
+  { "id": 7, "question": "Who starred in The Martian and Bourne films and what was Courtney Cox’s Friends character?", "answer": "Matt Damonica" },
+  { "id": 8, "question": "Which citrus is very acidic and what Canadian province has Toronto as its capital?", "answer": "Lemontreal" },
+  { "id": 9, "question": "Which Star Wars film came out in 1980 and what film features Marty and a DeLorean?", "answer": "The Empire Strikes Back to the Future" },
+  { "id": 10, "question": "What flying toy became a Frisbee and what are the Tower of London guards called?", "answer": "Frisbeefeaters" }
 ]

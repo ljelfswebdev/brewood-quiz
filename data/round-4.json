@@ -1,14 +1,14 @@
 [
   { "title": "Happiness" },
 
-  { "id": 1, "question": "Name one of the top ten happiest countries according to the 2025 World Happiness Report.", "answer": "Finland" },
-  { "id": 2, "question": "Name one of the top ten happiest countries according to the 2025 World Happiness Report.", "answer": "Iceland" },
-  { "id": 3, "question": "Name one of the top ten happiest countries according to the 2025 World Happiness Report.", "answer": "Denmark" },
-  { "id": 4, "question": "Name one of the top ten happiest countries according to the 2025 World Happiness Report.", "answer": "Switzerland" },
-  { "id": 5, "question": "Name one of the top ten happiest countries according to the 2025 World Happiness Report.", "answer": "Netherlands" },
-  { "id": 6, "question": "Name one of the top ten happiest countries according to the 2025 World Happiness Report.", "answer": "Sweden" },
-  { "id": 7, "question": "Name one of the top ten happiest countries according to the 2025 World Happiness Report.", "answer": "Germany" },
-  { "id": 8, "question": "Name one of the top ten happiest countries according to the 2025 World Happiness Report.", "answer": "Norway" },
-  { "id": 9, "question": "Name one of the top ten happiest countries according to the 2025 World Happiness Report.", "answer": "New Zealand" },
-  { "id": 10, "question": "Name one of the top ten happiest countries according to the 2025 World Happiness Report.", "answer": "Austria" }
+  { "id": 1, "question": "According to the 2025 world happiness report what are the top 10 happiest countries?", "answer": "Finland" },
+  { "id": 2, "question": "According to the 2025 world happiness report what are the top 10 happiest countries?", "answer": "Iceland" },
+  { "id": 3, "question": "According to the 2025 world happiness report what are the top 10 happiest countries?", "answer": "Denmark" },
+  { "id": 4, "question": "According to the 2025 world happiness report what are the top 10 happiest countries?", "answer": "Switzerland" },
+  { "id": 5, "question": "According to the 2025 world happiness report what are the top 10 happiest countries?", "answer": "Netherlands" },
+  { "id": 6, "question": "According to the 2025 world happiness report what are the top 10 happiest countries?", "answer": "Sweden" },
+  { "id": 7, "question": "According to the 2025 world happiness report what are the top 10 happiest countries?", "answer": "Germany" },
+  { "id": 8, "question": "According to the 2025 world happiness report what are the top 10 happiest countries?", "answer": "Norway" },
+  { "id": 9, "question": "According to the 2025 world happiness report what are the top 10 happiest countries?", "answer": "New Zealand" },
+  { "id": 10, "question": "According to the 2025 world happiness report what are the top 10 happiest countries?", "answer": "Austria" }
 ]

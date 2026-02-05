@@ -1,14 +1,14 @@
 [
-  { "title": "The Colour Brown" },
+  { "title": "The colour brown" },
 
   { "id": 1, "question": "By what name was 18th century English gardener and landscape architect Lancelot Brown better known?", "answer": "Capability Brown" },
   { "id": 2, "question": "Mr Henry Brown who works in insurance in the City of London built a bedroom in the family attic for who?", "answer": "Paddington Bear" },
-  { "id": 3, "question": "The original recipe for HP brown sauce was created by David Hoe in the 19th century to complement what type of locally made food?", "answer": "Pork pies" },
-  { "id": 4, "question": "What is the more common name for the North American brown bear?", "answer": "Grizzly bear" },
+  { "id": 3, "question": "The original recipe for HP brown sauce was created by David Hoe in the 19th century to complement what type of locally made food?", "answer": "Pork Pies" },
+  { "id": 4, "question": "What is the more common name for the North American brown bear?", "answer": "Grizzly Bear" },
   { "id": 5, "question": "Named after a 19th-century British Indian Army general, what exactly is a Sam Browne?", "answer": "A belt" },
   { "id": 6, "question": "A popular version of which song was adopted as the theme song of the Harlem Globetrotters basketball team in 1952?", "answer": "Sweet Georgia Brown" },
   { "id": 7, "question": "Charlie Brown is the main character of which comic strip?", "answer": "Peanuts" },
-  { "id": 8, "question": "British aviators Alcock and Brown made the first ever non-stop transatlantic flight in June 1919 by flying from and to which two countries?", "answer": "Canada to Ireland" },
-  { "id": 9, "question": "Give any year in which Gordon Brown served as British Prime Minister?", "answer": "2007–2010" },
-  { "id": 10, "question": "Who created the fictional Catholic priest and amateur detective Father Brown?", "answer": "G.K. Chesterton" }
+  { "id": 8, "question": "British aviators Alcock and Brown made the first ever non-stop transatlantic flight in June 1919 by flying from and to which two countries?", "answer": "From Canada to Ireland (from St. John's, Newfoundland, to County Galway, Ireland)" },
+  { "id": 9, "question": "Give any year in which Gordon Brown served as British Prime Minister?", "answer": "2007, 2008, 2009, or 2010" },
+  { "id": 10, "question": "Who created the fictional Catholic priest and amateur detective Father Brown?", "answer": "G.K Chesterton" }
 ]

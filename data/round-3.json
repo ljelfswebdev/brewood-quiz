@@ -1,14 +1,14 @@
 [
-  { "title": "I Didn’t Know That!" },
+  { "title": "I didn’t know that!" },
 
-  { "id": 1, "question": "How many of Henry VIII’s wives died after him?", "answer": "2" },
+  { "id": 1, "question": "How many of Henry the VIII's wives died after him?", "answer": "2" },
   { "id": 2, "question": "Which country has the largest coastline in the world?", "answer": "Canada" },
   { "id": 3, "question": "Which letter is to the right of the letter A on a standard keyboard?", "answer": "S" },
   { "id": 4, "question": "Which animal are the Canary Islands named after?", "answer": "Dogs" },
-  { "id": 5, "question": "What is 10 in England and 1 in Poland?", "answer": "The letter Z (Scrabble)" },
-  { "id": 6, "question": "What is the longest month?", "answer": "October" },
+  { "id": 5, "question": "What is 10 in England and 1 in Poland?", "answer": "The letter Z (in Scrabble)" },
+  { "id": 6, "question": "What is the longest month?", "answer": "October (clocks go back)" },
   { "id": 7, "question": "What company makes the most tyres in a year?", "answer": "Lego" },
-  { "id": 8, "question": "Pinky, Inky, Blinky and Clyde are what?", "answer": "The four Pac-Man ghosts" },
-  { "id": 9, "question": "How many 'duffs', 'derfs' or 'doofs' are in the EastEnders theme?", "answer": "9" },
-  { "id": 10, "question": "What percentage of British households have turkey on Christmas Day?", "answer": "52%" }
+  { "id": 8, "question": "Pinky, Inky Blinky and Clyde are what?", "answer": "The four Pacman ghosts" },
+  { "id": 9, "question": "How many “duffs”, “derfs” or “doofs” are in the EastEnders theme?", "answer": "9" },
+  { "id": 10, "question": "What percentage of British households have Turkey on Christmas Day?", "answer": "52% (allow 47-57%)" }
 ]

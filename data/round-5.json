@@ -1,14 +1,14 @@
 [
-  { "title": "I’ve Heard That Before" },
+  { "title": "I’ve heard that before" },
 
-  { "id": 1, "question": "‘I never meant to cause you sorrow, I never meant to cause you pain’ – song and artist?", "answer": "Purple Rain – Prince" },
-  { "id": 2, "question": "‘On a dark desert highway, cool wind in my hair’ – song and artist?", "answer": "Hotel California – Eagles" },
-  { "id": 3, "question": "‘You put the boom boom into my heart’ – song and artist?", "answer": "Wake Me Up Before You Go-Go – Wham!" },
-  { "id": 4, "question": "‘We are young, heartache to heartache’ – song and artist?", "answer": "Love Is a Battlefield – Pat Benatar" },
-  { "id": 5, "question": "‘I see trees of green, red roses too’ – song and artist?", "answer": "What a Wonderful World – Louis Armstrong" },
-  { "id": 6, "question": "‘We can dance if we want to’ – song and artist?", "answer": "The Safety Dance – Men Without Hats" },
-  { "id": 7, "question": "‘It’s 9 o’clock on a Saturday’ – song and artist?", "answer": "Piano Man – Billy Joel" },
-  { "id": 8, "question": "‘Turn around, every now and then I get a little bit lonely’ – song and artist?", "answer": "Total Eclipse of the Heart – Bonnie Tyler" },
-  { "id": 9, "question": "‘Hear the drums echoing tonight’ – song and artist?", "answer": "Africa – Toto" },
-  { "id": 10, "question": "‘At first I was afraid, I was petrified’ – song and artist?", "answer": "I Will Survive – Gloria Gaynor" }
+  { "id": 1, "question": "I never meant to cause you sorrow. I never meant to cause you pain.", "answer": "Prince - Purple Rain" },
+  { "id": 2, "question": "On a dark desert highway, cool wind in my hair", "answer": "Hotel California - Eagles" },
+  { "id": 3, "question": "You put the boom boom into my heart. You send my soul sky high when your lovin’ starts.", "answer": "Wake me up before you go go - Wham!" },
+  { "id": 4, "question": "We are young (heartache to heartache)", "answer": "Love is a battlefield - Pat Benatar" },
+  { "id": 5, "question": "I see trees of green, red roses too", "answer": "What a wonderful world - Louis Armstrong" },
+  { "id": 6, "question": "We can dance if we want to, we can leave your friends behind", "answer": "The safety dance - Men without hats" },
+  { "id": 7, "question": "It's 9 o’clock on a Saturday, the regular crowd shuffles in", "answer": "Piano man - Billy Joel" },
+  { "id": 8, "question": "(Turn around) every now and then I get a little bit lonely", "answer": "Total eclipse of the heart - Bonnie Tyler" },
+  { "id": 9, "question": "Hear the drums echoing tonight, but she only hears whispers of some quiet conversation", "answer": "Africa - Toto" },
+  { "id": 10, "question": "At first I was afraid I was petrified, kept thinking I could never live without you by my side", "answer": "I will survive - Gloria Gaynor" }
 ]

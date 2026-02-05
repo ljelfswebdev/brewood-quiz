@@ -2,13 +2,13 @@
   { "title": "Current Affairs" },
 
   { "id": 1, "question": "Which movie has secured a record 16 Oscar nominations?", "answer": "Sinners" },
-  { "id": 2, "question": "Andy Burnham has been blocked from standing in which by-election?", "answer": "Gorton and Denton" },
+  { "id": 2, "question": "Andy Burnham has been blocked from standing in which by election?", "answer": "Gorton and Denton" },
   { "id": 3, "question": "Who has been announced as the new judge in The Great British Bake Off?", "answer": "Nigella Lawson" },
   { "id": 4, "question": "Amazon released its authorised documentary about Melania Trump. What is it called?", "answer": "Melania" },
   { "id": 5, "question": "Which two teams have made it through to Super Bowl LX?", "answer": "Seattle Seahawks and New England Patriots" },
-  { "id": 6, "question": "US heavyweight boxer Jarrell Miller lost what during his fight?", "answer": "His wig / hairpiece" },
-  { "id": 7, "question": "Which pop star has announced a 12-night run at Wembley Stadium this summer?", "answer": "Harry Styles" },
-  { "id": 8, "question": "Which seaside town lost part of its pier during Storm Ingrid?", "answer": "Teignmouth" },
-  { "id": 9, "question": "Traitors – who was the last faithful to be banished from the castle?", "answer": "Jack" },
-  { "id": 10, "question": "Which weather presenter announced she was leaving the BBC after more than 25 years?", "answer": "Carol Kirkwood" }
+  { "id": 6, "question": "US heavyweight boxer Jarrell Miller lost what during his fight?", "answer": "Wig/hairpiece" },
+  { "id": 7, "question": "Which pop star has announced a 12 night run at Wembley Stadium this summer?", "answer": "Harry Styles" },
+  { "id": 8, "question": "Which seaside town lost part of its peer during storm Ingrid?", "answer": "Teignmouth" },
+  { "id": 9, "question": "Traitors. Who was the last faithful to be banished from the castle?", "answer": "Jack" },
+  { "id": 10, "question": "Which weather presenter announced that she would be leaving the BBC after more than 25 years?", "answer": "Carol Kirkwood" }
 ]

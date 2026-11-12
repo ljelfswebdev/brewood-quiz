@@ -1,14 +1,55 @@
 [
-  { "title": "Answersmash" },
-
-  { "id": 1, "question": "Which country invaded the Falklands in 1982 and who had a hit with ‘What’s Love Got to Do With It’?", "answer": "Argentina Turner" },
-  { "id": 2, "question": "Who is the alter ego of Spiderman, and who is Miss Piggy’s boyfriend in The Muppets?", "answer": "Peter ParKermit" },
-  { "id": 3, "question": "What edible plant grows so quickly that it is audible, and which Carry On actress was also a star of Eastenders?", "answer": "Rubarbara Windsor" },
-  { "id": 4, "question": "Which Yorkshireman actor is famous for his role as Sharpe, and what is a famous british dish featuring legumes on a slice of heated bread?", "answer": "Sean Beans on Toast" },
-  { "id": 5, "question": "La Paz is the capital of which nation, and who played Queen Elizabeth 2nd in season 3 and 4 of the crown?", "answer": "Bolivia Colman" },
-  { "id": 6, "question": "What is the capital city of Hungary, and what is a traditional Italian sauce made with pine nuts, basil, garlic and olive oil?", "answer": "Budapesto" },
-  { "id": 7, "question": "Who starred in ‘The Martian’ and the Bourne movies, and what was Courtney Cox’s character called in Friends?", "answer": "Matt Damonica" },
-  { "id": 8, "question": "Which citrus has a very high acid content, and what is the province of Canada which has Toronto as its capital?", "answer": "Lemontreal" },
-  { "id": 9, "question": "What was the second Star Wars film to be released in 1980, and what film features Marty, Doc and a Delorean?", "answer": "The Empire Strikes Back to the Future" },
-  { "id": 10, "question": "What flying toy was originally called the ‘Whirlo-Way’ and changed its name in 1957, and what are the guards or yeoman of the Tower of London commonly called?", "answer": "Frisbeefeaters" }
+  {
+    "title": "I never knew that"
+  },
+  {
+    "id": 1,
+    "question": "What is the most popular condiment in the US? A Ketchup   B Hot Sauce   C Mayonnaise   D Mustard",
+    "answer": "Mayonnaise"
+  },
+  {
+    "id": 2,
+    "question": "Who was the last American (man or woman) Wimbledon singles champion?",
+    "answer": "Serena Williams"
+  },
+  {
+    "id": 3,
+    "question": "Who do employees of the Church of England refer to as ABC?",
+    "answer": "Archbishop of Canterbury"
+  },
+  {
+    "id": 4,
+    "question": "Oppenheimer was the 7th winner of the Oscar for best film with the name of a real person in the title. Name two others",
+    "answer": "Schindler, Shakespeare, Gandhi, Amadeus, Patton and Lawrence"
+  },
+  {
+    "id": 5,
+    "question": "Which league club plays their matches closest to the river Mersey?",
+    "answer": "Everton"
+  },
+  {
+    "id": 6,
+    "question": "Name the only tube station in zone 1 with four words in its name?",
+    "answer": "King’s Cross St. Pancras"
+  },
+  {
+    "id": 7,
+    "question": "Name the only champion of the old league Division One to never play in the Premier League?",
+    "answer": "Preston North End"
+  },
+  {
+    "id": 8,
+    "question": "How many people have walked on the moon?",
+    "answer": "12"
+  },
+  {
+    "id": 9,
+    "question": "What is the most popular British pub name?",
+    "answer": "Red Lion"
+  },
+  {
+    "id": 10,
+    "question": "How many time zones does China have?",
+    "answer": "One"
+  }
 ]

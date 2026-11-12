@@ -1,18 +1,13 @@
-import FormattedDate from "../../components/date";
-
 const Homepage = () => {
-
-  return ( 
+  return (
     <div className="homepage">
-      <h1 className="homepage__title">
-        Brewood Cricket Club Quiz
-      </h1>
+      <h1 className="homepage__title">Brewood Cricket Club Quiz</h1>
       <img src="/brewood-logo.png" alt="Brewood Cricket Club Quiz" />
-      <span className="homepage__date">
-        <FormattedDate/>
-      </span>
+      <time className="homepage__date" dateTime="2026-11-13">
+        Friday 13th November 2026
+      </time>
     </div>
-   );
-}
- 
+  );
+};
+
 export default Homepage;

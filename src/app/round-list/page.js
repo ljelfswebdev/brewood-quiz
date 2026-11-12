@@ -1,32 +1,31 @@
-const RoundList = () => {
-    return ( 
-        <ul className="page__list">
-            <li>
-                Round 1 - The Colour Brown
-            </li>
-            <li>
-                Round 2 - Current Affairs
-            </li>
-            <li>
-                Round 3 - I didn't know that!!
-            </li>
-            <li>
-                Round 4 - Happiness
-            </li>
-            <li>
-                Round 5 - I've heard that before
-            </li>
-            <li>
-                Round 6 - I never knew that!!
-            </li>
-            <li>
-                Round 7 - Animals
-            </li>
-            <li>
-                Round 8 - AnswersMash
-            </li>
-        </ul>
-     );
+import roundOne from "../../../data/round-1.json";
+import roundTwo from "../../../data/round-2.json";
+import roundThree from "../../../data/round-3.json";
+import roundFour from "../../../data/round-4.json";
+import roundFive from "../../../data/round-5.json";
+import roundSix from "../../../data/round-6.json";
+import roundSeven from "../../../data/round-7.json";
+import roundEight from "../../../data/round-8.json";
+
+const rounds = [
+  roundOne,
+  roundTwo,
+  roundThree,
+  roundFour,
+  roundFive,
+  roundSix,
+  roundSeven,
+  roundEight,
+];
+
+export default function RoundList() {
+  return (
+    <ul className="page__list">
+      {rounds.map(([{ title }], index) => (
+        <li key={index}>
+          Round {index + 1} - {title}
+        </li>
+      ))}
+    </ul>
+  );
 }
- 
-export default RoundList;
